@@ -1,10 +1,7 @@
 name: Update EBS feed
 on:
   schedule:
-    # Every 30 min on weekdays, roughly 06:00-18:30 Brussels in summer
-    # (one hour earlier in winter: GitHub cron runs on UTC).
     - cron: "*/30 4-16 * * 1-5"
-    # One nightly pull so the new day is ready in the morning (~04:00 Brussels).
     - cron: "0 2 * * 1-5"
   workflow_dispatch: {}
 permissions:
@@ -13,9 +10,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: "3.12" }
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
       - name: Build feed
         run: python build_feed.py
       - name: Commit if changed
