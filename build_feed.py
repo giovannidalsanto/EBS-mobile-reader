@@ -2,20 +2,28 @@
 """
 EBS rundown feed builder.
 
-Two modes:
+Modes:
   python build_feed.py local ebs.json ebsplus.json   -> build feed.json from saved files
-  python build_feed.py                               -> fetch live from the API (set API_BASE below)
+  python build_feed.py                               -> fetch live from the API
 
-Output: feed.json  (flat, chronological, both channels merged, today + DAYS_AHEAD days)
+Output: feed.json (flat, chronological, both channels merged, today + DAYS_AHEAD days)
 """
-import json, re, sys, html, datetime, urllib.request
+import json, re, sys, html, gzip, time, datetime, urllib.request
 
-# Paste the URL you copied from DevTools up to (and including) "grid?",
-# e.g. "https://audiovisual.ec.europa.eu/<whatever-path>/grid?"
 API_BASE = "https://8hwk2cyeyb.execute-api.eu-west-1.amazonaws.com/parrotfish-prod/grid?"
 
 CHANNELS = ["ebs", "ebsplus"]
-DAYS_AHEAD = 6   # fetch today + this many days in one request per channel
+DAYS_AHEAD = 6
+
+HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"),
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Encoding": "gzip",
+    "Accept-Language": "en",
+    "Origin": "https://audiovisual.ec.europa.eu",
+    "Referer": "https://audiovisual.ec.europa.eu/",
+}
 
 def clean(s):
     if not s: return ""
@@ -60,6 +68,23 @@ def parse_grid(data):
             })
     return out
 
+def fetch_json(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=30) as r:
+        raw = r.read()
+        status = getattr(r, "status", "?")
+        ctype = r.headers.get("Content-Type", "?")
+        cenc = r.headers.get("Content-Encoding", "")
+    if cenc == "gzip" or raw[:2] == b"\x1f\x8b":
+        raw = gzip.decompress(raw)
+    text = raw.decode("utf-8-sig", errors="replace")
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        raise RuntimeError(
+            f"Not JSON (status {status}, type {ctype}, encoding {cenc!r}). "
+            f"First 300 chars: {text[:300]!r}")
+
 def main():
     events = []
     if len(sys.argv) >= 2 and sys.argv[1] == "local":
@@ -67,20 +92,27 @@ def main():
             with open(path, encoding="utf-8") as f:
                 events += parse_grid(json.load(f))
     else:
-        if "PASTE_" in API_BASE:
-            sys.exit("STOP: open build_feed.py and set API_BASE first. "
-                     "See Part 1 and Part 4 of the setup guide.")
         today = datetime.datetime.now(datetime.timezone.utc).date()
-        d_from = today.strftime("%Y%m%d")
-        d_to = (today + datetime.timedelta(days=DAYS_AHEAD)).strftime("%Y%m%d")
+        failures = 0
         for ch in CHANNELS:
-            url = f"{API_BASE}channelName={ch}&dateFrom={d_from}&dateTo={d_to}&thesaurusAsObject=true"
-            req = urllib.request.Request(url, headers={
-                "User-Agent": "Mozilla/5.0 (personal EBS schedule reader)",
-                "Accept": "application/json",
-            })
-            with urllib.request.urlopen(req, timeout=30) as r:
-                events += parse_grid(json.load(r))
+            for offset in range(DAYS_AHEAD + 1):
+                d = (today + datetime.timedelta(days=offset)).strftime("%Y%m%d")
+                url = f"{API_BASE}channelName={ch}&dateFrom={d}&dateTo={d}&thesaurusAsObject=true"
+                for attempt in (1, 2):
+                    try:
+                        events += parse_grid(fetch_json(url))
+                        break
+                    except Exception as e:
+                        if attempt == 2:
+                            failures += 1
+                            print(f"WARN {ch} {d}: {e}")
+                        else:
+                            time.sleep(3)
+                time.sleep(0.5)
+        if not events:
+            sys.exit(f"All requests failed ({failures}). See warnings above.")
+        if failures:
+            print(f"Completed with {failures} failed day(s); feed written from the rest.")
     events.sort(key=lambda e: e["start"])
     feed = {
         "generatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
