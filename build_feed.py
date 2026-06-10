@@ -12,7 +12,7 @@ import json, re, sys, html, datetime, urllib.request
 
 # Paste the URL you copied from DevTools up to (and including) "grid?",
 # e.g. "https://audiovisual.ec.europa.eu/<whatever-path>/grid?"
-API_BASE = "https://audiovisual.ec.europa.eu/en/ebs/grid?"
+API_BASE = "https://8hwk2cyeyb.execute-api.eu-west-1.amazonaws.com/parrotfish-prod/grid?"
 
 CHANNELS = ["ebs", "ebsplus"]
 DAYS_AHEAD = 6   # fetch today + this many days in one request per channel
