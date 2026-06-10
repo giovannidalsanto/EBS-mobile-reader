@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0F1317">
+<title>EBS Rundown</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..125,400..900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0F1317; --surface:#161C22; --line:#232B33; --text:#E7ECEF;
+  --muted:#8C97A0; --faint:#5B656E; --red:#E5484D; --ebs:#5C9DD8; --ebsplus:#A78BDB;
+  --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+  --sans:"Archivo",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--text);font-family:var(--sans);font-size:16px;line-height:1.45}
+header{position:sticky;top:0;z-index:10;background:rgba(15,19,23,.92);backdrop-filter:blur(8px);
+  border-bottom:1px solid var(--line);padding:12px 16px 10px}
+.brand{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.brand h1{font-size:15px;font-weight:800;letter-spacing:.14em;font-stretch:115%;text-transform:uppercase}
+.daynav{display:flex;align-items:center;gap:2px}
+.daynav button{background:none;border:1px solid var(--line);border-radius:6px;color:var(--muted);
+  font-family:var(--mono);font-size:14px;width:30px;height:28px;cursor:pointer;line-height:1}
+.daynav button:disabled{opacity:.3;cursor:default}
+.daynav button:focus-visible{outline:2px solid var(--ebs);outline-offset:2px}
+.daynav .day{font-family:var(--mono);font-size:12.5px;color:var(--text);min-width:108px;text-align:center}
+.daynav .day.today{color:var(--red)}
+.meta{display:flex;justify-content:space-between;align-items:center;margin-top:9px;gap:8px}
+.chips{display:flex;gap:6px}
+.chip{font-family:var(--mono);font-size:12px;padding:4px 11px;border-radius:999px;border:1px solid var(--line);
+  color:var(--muted);background:transparent;cursor:pointer}
+.chip[aria-pressed="true"]{color:var(--text);border-color:var(--muted);background:var(--surface)}
+.chip:focus-visible{outline:2px solid var(--ebs);outline-offset:2px}
+.updated{font-family:var(--mono);font-size:11px;color:var(--faint);text-align:right}
+main{max-width:560px;margin:0 auto;padding:4px 16px 80px}
+.tz{font-family:var(--mono);font-size:11px;color:var(--faint);padding:12px 0 4px;text-align:right}
+
+.event{display:grid;grid-template-columns:52px 14px 1fr;gap:0 10px;padding:14px 0;position:relative}
+.event+.event{border-top:1px solid var(--line)}
+.event.past{opacity:.42}
+.time{font-family:var(--mono);font-size:15px;font-weight:600;padding-top:1px}
+.dur{font-family:var(--mono);font-size:11px;color:var(--faint);margin-top:3px}
+.rail{position:relative}
+.rail::before{content:"";position:absolute;left:6px;top:0;bottom:0;width:1px;background:var(--line)}
+.node{position:absolute;left:2.5px;top:7px;width:8px;height:8px;border-radius:50%;
+  background:var(--bg);border:1.5px solid var(--muted)}
+.event.onair .node{background:var(--red);border-color:var(--red)}
+@media (prefers-reduced-motion: no-preference){
+  .event.onair .node{animation:pulse 1.6s ease-in-out infinite}
+  @keyframes pulse{50%{box-shadow:0 0 0 5px rgba(229,72,77,.18)}}
+}
+.flags{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-bottom:4px}
+.flag{font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;padding:2px 7px;border-radius:3px}
+.flag.live{background:var(--red);color:#fff;font-weight:600}
+.flag.rec{border:1px solid var(--muted);color:var(--muted)}
+.flag.edit{border:1px solid var(--line);color:var(--faint)}
+.flag.ch-EBS{color:var(--ebs);border:1px solid currentColor}
+.flag.ch-EBSplus{color:var(--ebsplus);border:1px solid currentColor}
+.title{font-size:15.5px;font-weight:600;line-height:1.35}
+.langs{font-family:var(--mono);font-size:11px;color:var(--faint);margin-top:5px;word-spacing:2px}
+details{margin-top:7px}
+summary{font-family:var(--mono);font-size:11.5px;color:var(--muted);cursor:pointer;list-style:none}
+summary::before{content:"+ ";color:var(--faint)}
+details[open] summary::before{content:"− "}
+summary:focus-visible{outline:2px solid var(--ebs);outline-offset:2px}
+.sub{padding:8px 0 2px 2px;border-left:2px solid var(--line);margin:8px 0 0 2px}
+.sub>div{padding:5px 0 5px 10px}
+.sub .ref{font-family:var(--mono);font-size:10.5px;color:var(--faint)}
+.sub .st{font-size:13.5px;color:var(--text)}
+.sub .ss{font-size:12.5px;color:var(--muted);margin-top:2px}
+
+.playhead{display:grid;grid-template-columns:52px 1fr;gap:0 10px;align-items:center;padding:2px 0}
+.playhead .now{font-family:var(--mono);font-size:11px;font-weight:600;color:var(--red);letter-spacing:.1em}
+.playhead .line{height:1.5px;background:var(--red);box-shadow:0 0 6px rgba(229,72,77,.5)}
+.empty{padding:48px 0;text-align:center;color:var(--muted);font-family:var(--mono);font-size:13px}
+footer{max-width:560px;margin:0 auto;padding:0 16px 40px;font-family:var(--mono);font-size:10.5px;color:var(--faint)}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <h1>EBS Rundown</h1>
+    <div class="daynav">
+      <button id="prev" aria-label="Previous day">‹</button>
+      <span class="day" id="day"></span>
+      <button id="next" aria-label="Next day">›</button>
+    </div>
+  </div>
+  <div class="meta">
+    <div class="chips" role="group" aria-label="Channel filter">
+      <button class="chip" data-ch="ALL" aria-pressed="true">BOTH</button>
+      <button class="chip" data-ch="EBS" aria-pressed="false">EBS</button>
+      <button class="chip" data-ch="EBS+" aria-pressed="false">EBS+</button>
+    </div>
+    <div class="updated" id="updated"></div>
+  </div>
+</header>
+<main>
+  <div class="tz">All times Brussels (CET/CEST)</div>
+  <div id="list"></div>
+</main>
+<footer>Source: EC Audiovisual Service · EBS &amp; EBS+ schedule · personal reader, refreshed every 30&nbsp;min on weekdays</footer>
+<script>
+const EMBEDDED = {
+ "generatedAt": "2026-06-10T14:42:38+00:00",
+ "events": [
+  {
+   "start": "2026-06-10T06:45:10.000Z",
+   "durationSec": 1040,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP Stockshots",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-279888",
+     "title": "Social assistance for migrants (Rome, Italy)",
+     "summary": "This infoclip shows the activities at reception and orientation centre, the One-Stop Shop for Migrant Reception - SUAM, and daily life scenes of migrants at the Casal Morena Centre. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU."
+    },
+    {
+     "ref": "I-278928",
+     "title": "Asylum and migration (Malmö, Sweden)",
+     "summary": "This infoclips shows the activities at an asylum reception centre in Malmö, Sweden and a class learning Swedish at SFI Swedish For Immigrants Academy in Lund, Sweden. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU."
+    },
+    {
+     "ref": "I-279175",
+     "title": "Migration and civil society support (Calais, France)",
+     "summary": "This Infoclip shows civil society (in particular the volunteers of the Non-Governmental Organisation \"Salam\") support to refugees in Calais (France). Since the demolition of the large \"Jungle camp\" in Calais in 2016 there has been an administrative policy of \"no fixation points\" for migrants to settle in, aiming to stop another large camp from forming. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need."
+    },
+    {
+     "ref": "I-243073",
+     "title": "Migration routes - Lampedusa - Sicily (Italy)",
+     "summary": "This infoclip shows refugees arriving in the Port of Lampedusa in Sicily (Italy) and being transferred to the hotspot on the island to be registered and given food and shelter."
+    }
+   ]
+  },
+  {
+   "start": "2026-06-10T07:15:41.160Z",
+   "durationSec": 4609,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Press Conference Migration and asylum pact",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES"
+   ],
+   "items": [
+    {
+     "ref": "I-290512",
+     "title": "EP Press Conference Migration and asylum pact",
+     "summary": "Press conference by Tomas TOBÉ (EPP, SE), Birgit SIPPEL (S&D, DE), Jorge BUXADÉ (PfE, ES), and Fabienne KELLER (RE, FR), on migration and asylum pact (Part 1)"
+    },
+    {
+     "ref": "I-290842",
+     "title": "EP Press Conference Migration and asylum pact",
+     "summary": "Press conference by Lena DÜPONT (EPP, DE), Juan Fernando LÓPEZ AGUILAR (S&D, ES), Alessandro CIRIAN (ECR, IT) and Matjaž NEMEC (S&D, SI) on migration and asylum pact (Part 2)"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-10T08:00:10.000Z",
+   "durationSec": 245,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EC Stockshots",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-225977",
+     "title": "Fit for 55 – Revision of the EU Emissions Trading System (ETS)",
+     "summary": "This infoclip aims to illustrate the legislative proposal to review the EU Emissions Trading System (ETS). As part of the 'Fit for 55' package, the aim of the review is to align the EU ETS Directive with target set out in the European Climate Law to reduce net greenhouse gas emissions by 55 % by 2030, compared to 1990 levels. The amount of emission allowances would be reduced, fewer allowances would be allocated for free, and the ETS would be extended to maritime transport. A separate new emissions trading system would be established for fuel distribution for road transport and buildings. The footage shows the building of the European Energy Exchange in Liepzig, Germany, which houses the EU ETS, the maritime transport sector, pollution, fuel distribution for road transport and fuel for heating buildings."
+    }
+   ]
+  },
+  {
+   "start": "2026-06-10T08:30:10.000Z",
+   "durationSec": 115,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Weekly European Commission College meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290328",
+     "title": "Weekly European Commission College meeting",
+     "summary": "Exterior views of the European Commission Berlaymont building"
+    },
+    {
+     "ref": "I-290329",
+     "title": "Weekly European Commission College meeting",
+     "summary": "Roundtable"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-10T09:45:00.000Z",
+   "durationSec": 913,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "Mosquito-Borne Diseases Conference in Lefkosia, Cyprus",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290997",
+     "title": "Mosquito-Borne Diseases Conference in Lefkosia, Cyprus",
+     "summary": "Welcome and presentation of the meeting objectives by Neophytos CHARALAMBIDES, Minister of Health, Republic of Cyprus Welcome from the European Centre for Disease Prevention and Control by Ole HEUER, ECDC Cutaways roundtable"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-10T10:48:44.560Z",
+   "durationSec": 2661,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU islands and coastal communities strategies",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-290332",
+     "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU islands and coastal communities strategies",
+     "summary": "Read-out of the College meeting / press conference (with international sign language) by Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms and Costas KADIS, European Commissioner for Fisheries and Oceans"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-10T10:48:50.000Z",
+   "durationSec": 2712,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU coastal communities and islands strategies",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "MT",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291019",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU coastal communities and islands strategies",
+     "summary": "Read-out of the College meeting / press conference opening remakrs by Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms Press conference opening remarks by Costas KADIS, European Commissioner for Fisheries and Oceans Q&A Recorded cutaways"
+    },
+    {
+     "ref": "I-290330",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU coastal communities and islands strategies",
+     "summary": "Read-out of the College meeting / press conference opening remakrs by Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms"
+    },
+    {
+     "ref": "I-291002",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU coastal communities and islands strategies",
+     "summary": "Press conference opening remarks by Costas KADIS, European Commissioner for Fisheries and Oceans"
+    },
+    {
+     "ref": "I-291003",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU coastal communities and islands strategies",
+     "summary": "Q&A"
+    },
+    {
+     "ref": "I-290331",
+     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU coastal communities and islands strategies",
+     "summary": "Recorded cutaways"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-10T11:40:10.000Z",
+   "durationSec": 5500,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "EP Presentation of the draft budget 2027 with Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration BUDG Committee",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "CS",
+    "HU",
+    "PL",
+    "RO"
+   ],
+   "items": [
+    {
+     "ref": "I-290517",
+     "title": "EP Presentation of the draft budget 2027 with Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration BUDG Committee",
+     "summary": "Opening statements by Johan VAN OVERTVELDT (ECR, BE), Chair of BUDG Committee, and Piotr SERAFIN, Commissioner for Budget, Anti-Fraud and Public Administration Committee on Budgets (BUDG)"
+    },
+    {
+     "ref": "I-290567",
+     "title": "EP Presentation of the draft budget 2027 with Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration BUDG Committee",
+     "summary": "Q&A Committee on Budgets (BUDG)"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-10T12:00:32.080Z",
+   "durationSec": 273,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EU-Republic of Korea Summit",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290717",
+     "title": "EU-Republic of Korea Summit",
+     "summary": "Official welcome by António COSTA, President of the European Council, and Ursula von der LEYEN, President of the European Commission, of LEE Jae-myung, President of the Republic of Korea"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-10T13:30:10.000Z",
+   "durationSec": 87,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EU-Republic of Korea Summit",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290895",
+     "title": "EU-Republic of Korea Summit",
+     "summary": "Roundtable Plenary session"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-10T14:35:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EU-Republic of Korea Summit",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "KO"
+   ],
+   "items": [
+    {
+     "ref": "I-290894",
+     "title": "EU-Republic of Korea Summit",
+     "summary": "Public statements by António COSTA, President of the European Council, and Ursula von der LEYEN, President of the European Commission, of LEE Jae-myung, President of the Republic of Korea"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-10T15:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "EU-Republic of Korea Summit",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290996",
+     "title": "EU-Republic of Korea Summit",
+     "summary": "Signing of a Memorandum of Understanding on the Digital Trade Agreement witness by the leaders Signatories: Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, Interinstitutional Relations and Transparency and YEO Han Koo, Minister of Trade of the Republic of Korea"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-10T16:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Conference of Presidents (CoP)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290514",
+     "title": "EP News Conference of Presidents (CoP)",
+     "summary": "Meeting of the EP Conference of Presidents (CoP) with the participation of Mark RUTTE, Secretary-General of the North Atlantic Treaty Organisation (NATO) extracts from the arrivals and roundtable"
+    }
+   ]
+  }
+ ]
+};
+let FEED = EMBEDDED, filter = "ALL", dayIdx = 0, days = [];
+const TZ = "Europe/Brussels";
+
+const fmtT = d => new Intl.DateTimeFormat("en-GB",{hour:"2-digit",minute:"2-digit",timeZone:TZ}).format(d);
+const fmtDayLong = d => new Intl.DateTimeFormat("en-GB",{weekday:"short",day:"2-digit",month:"short",timeZone:TZ}).format(d).toUpperCase();
+const dayKey = d => new Intl.DateTimeFormat("en-CA",{year:"numeric",month:"2-digit",day:"2-digit",timeZone:TZ}).format(d);
+const esc = s => (s||"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const chName = c => c==="EBS"?"EBS":"EBS+";
+
+function statusFlag(s){
+  if(s==="LIVE") return '<span class="flag live">LIVE</span>';
+  if(s==="RECORDED"||s==="EDIT_RECORDED") return '<span class="flag rec">RECORDED</span>';
+  return '<span class="flag edit">EDIT</span>';
+}
+function durTxt(sec){
+  if(!sec) return "";
+  const m = Math.round(sec/60);
+  return m>=60 ? Math.floor(m/60)+"h"+String(m%60).padStart(2,"0") : m+"′";
+}
+function rebuildDays(){
+  const keys = [...new Set(FEED.events.map(e => dayKey(new Date(e.start))))].sort();
+  days = keys;
+  const todayK = dayKey(new Date());
+  const want = days.indexOf(todayK);
+  dayIdx = want >= 0 ? want : 0;
+}
+function render(){
+  const now = new Date();
+  const todayK = dayKey(now);
+  const selKey = days[dayIdx];
+  const evs = FEED.events.filter(e =>
+    dayKey(new Date(e.start)) === selKey &&
+    (filter==="ALL" || chName(e.channel)===filter));
+  const isToday = selKey === todayK;
+
+  const dayEl = document.getElementById("day");
+  if(selKey){
+    dayEl.textContent = fmtDayLong(new Date(selKey+"T12:00:00Z")) + (isToday ? " ·" : "");
+    dayEl.classList.toggle("today", isToday);
+  }
+  document.getElementById("prev").disabled = dayIdx <= 0;
+  document.getElementById("next").disabled = dayIdx >= days.length-1;
+  if(FEED.generatedAt) document.getElementById("updated").textContent = "upd " + fmtT(new Date(FEED.generatedAt));
+
+  const list = document.getElementById("list");
+  if(!evs.length){ list.innerHTML = '<div class="empty">Nothing scheduled here yet.</div>'; return; }
+
+  let html = "", placed = !isToday;
+  for(const e of evs){
+    const st = new Date(e.start), en = new Date(st.getTime() + (e.durationSec||0)*1000);
+    const onair = isToday && now>=st && now<=en && e.status==="LIVE";
+    const past = en<now && !onair;
+    if(!placed && st>now){
+      html += `<div class="playhead" aria-label="current time"><span class="now">${fmtT(now)} ▸</span><span class="line"></span></div>`;
+      placed = true;
+    }
+    const cls = "event" + (past?" past":"") + (onair?" onair":"");
+    const subs = (e.items||[]).filter(s=>s.title||s.summary);
+    html += `<article class="${cls}">
+      <div><div class="time">${fmtT(st)}</div><div class="dur">${durTxt(e.durationSec)}</div></div>
+      <div class="rail"><span class="node"></span></div>
+      <div>
+        <div class="flags">${statusFlag(e.status)}<span class="flag ch-${e.channel==="EBS"?"EBS":"EBSplus"}">${chName(e.channel)}</span></div>
+        <div class="title">${esc(e.title)}</div>
+        ${e.languages&&e.languages.length>1?`<div class="langs">${e.languages.join(" ")}</div>`:""}
+        ${subs.length?`<details><summary>${subs.length} item${subs.length>1?"s":""}</summary><div class="sub">${
+          subs.map(s=>`<div>${s.ref?`<div class="ref">${esc(s.ref)}</div>`:""}<div class="st">${esc(s.title)}</div>${s.summary&&s.summary!==s.title?`<div class="ss">${esc(s.summary)}</div>`:""}</div>`).join("")
+        }</div></details>`:""}
+      </div>
+    </article>`;
+  }
+  if(isToday && !placed) html += `<div class="playhead"><span class="now">${fmtT(now)} ▸</span><span class="line"></span></div>`;
+  list.innerHTML = html;
+}
+document.querySelectorAll(".chip").forEach(b=>b.addEventListener("click",()=>{
+  filter = b.dataset.ch;
+  document.querySelectorAll(".chip").forEach(x=>x.setAttribute("aria-pressed", x===b ? "true":"false"));
+  render();
+}));
+document.getElementById("prev").addEventListener("click",()=>{ if(dayIdx>0){dayIdx--; render();} });
+document.getElementById("next").addEventListener("click",()=>{ if(dayIdx<days.length-1){dayIdx++; render();} });
+async function refresh(){
+  try{
+    const r = await fetch("feed.json?t="+Date.now(), {cache:"no-store"});
+    if(r.ok){
+      const sel = days[dayIdx];
+      FEED = await r.json();
+      rebuildDays();
+      const keep = days.indexOf(sel);
+      if(keep >= 0) dayIdx = keep;
+    }
+  }catch(_){/* offline or local file: keep embedded data */}
+  render();
+}
+rebuildDays();
+refresh();
+setInterval(refresh, 10*60*1000);
+setInterval(render, 60*1000); // keep playhead and dimming current
+</script>
+</body>
+</html>
