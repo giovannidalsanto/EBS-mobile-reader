@@ -12,7 +12,7 @@ import json, re, sys, html, datetime, urllib.request
 
 # Paste the URL you copied from DevTools up to (and including) "grid?",
 # e.g. "https://audiovisual.ec.europa.eu/<whatever-path>/grid?"
-API_BASE = "PASTE_BASE_URL_ENDING_IN_grid?_HERE"
+API_BASE = "https://audiovisual.ec.europa.eu/en/ebs/grid?"
 
 CHANNELS = ["ebs", "ebsplus"]
 DAYS_AHEAD = 6   # fetch today + this many days in one request per channel
