@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-11T13:40:45+00:00",
+ "generatedAt": "2026-06-11T16:25:48+00:00",
  "events": [
   {
    "start": "2026-06-11T08:31:08.000Z",
@@ -222,7 +222,7 @@
   },
   {
    "start": "2026-06-11T12:47:30.080Z",
-   "durationSec": 0,
+   "durationSec": 3006,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Press conference following the Governing Council meeting of the ECB in Frankfurt am Main, Germany",
@@ -238,30 +238,14 @@
    ]
   },
   {
-   "start": "2026-06-11T14:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "European Council President António COSTA participates in the Global Convergence for Growth Summit via video conference",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291062",
-     "title": "European Council President António COSTA participates in the Global Convergence for Growth Summit via video conference",
-     "summary": "Roundtable video-conference"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T14:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-11T14:10:13.960Z",
+   "durationSec": 1417,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Cypriot Presidency press point on the MFF",
    "languages": [
-    "INT"
+    "INT",
+    "FR"
    ],
    "items": [
     {
@@ -272,8 +256,8 @@
    ]
   },
   {
-   "start": "2026-06-11T14:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-11T14:40:10.000Z",
+   "durationSec": 663,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "Eurogroup meeting",
@@ -316,6 +300,23 @@
    ]
   },
   {
+   "start": "2026-06-11T16:00:00.000Z",
+   "durationSec": 150,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "Eurogroup meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291111",
+     "title": "Eurogroup meeting",
+     "summary": "Roundtable Inclusive format"
+    }
+   ]
+  },
+  {
    "start": "2026-06-11T16:45:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -339,51 +340,7 @@
    ]
   },
   {
-   "start": "2026-06-12T00:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "",
-   "title": "High Representative / Vice-President Kaja KALLAS in Paris, France for the \"Paris Call for the Two-State Solution\" Conference in the context of the G7 Summit",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290733",
-     "title": "High Representative / Vice-President Kaja KALLAS in Paris, France for the \"Paris Call for the Two-State Solution\" Conference in the context of the G7 Summit",
-     "summary": "Details to follow"
-    }
-   ]
-  },
-  {
    "start": "2026-06-12T05:30:00.000Z",
-   "durationSec": 906,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EC Stockshots",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-279888",
-     "title": "Social assistance for migrants (Rome, Italy)",
-     "summary": "This infoclip shows the activities at reception and orientation centre, the One-Stop Shop for Migrant Reception - SUAM, and daily life scenes of migrants at the Casal Morena Centre. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU."
-    },
-    {
-     "ref": "I-278928",
-     "title": "Asylum and migration (Malmö, Sweden)",
-     "summary": "This infoclips shows the activities at an asylum reception centre in Malmö, Sweden and a class learning Swedish at SFI Swedish For Immigrants Academy in Lund, Sweden. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU."
-    },
-    {
-     "ref": "I-279175",
-     "title": "Migration and civil society support (Calais, France)",
-     "summary": "This Infoclip shows civil society (in particular the volunteers of the Non-Governmental Organisation \"Salam\") support to refugees in Calais (France). Since the demolition of the large \"Jungle camp\" in Calais in 2016 there has been an administrative policy of \"no fixation points\" for migrants to settle in, aiming to stop another large camp from forming. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need."
-    }
-   ]
-  },
-  {
-   "start": "2026-06-12T06:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -396,23 +353,6 @@
      "ref": "I-290703",
      "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
      "summary": "Arrivals, welcome and doorsteps"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-12T06:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290337",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Arrivals and doorsteps"
     }
    ]
   },
@@ -436,6 +376,23 @@
    ]
   },
   {
+   "start": "2026-06-12T07:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Economic and Financial Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290337",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Arrivals and doorsteps"
+    }
+   ]
+  },
+  {
    "start": "2026-06-12T08:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -453,26 +410,7 @@
    ]
   },
   {
-   "start": "2026-06-12T09:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Pre-session briefing",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-290518",
-     "title": "EP Pre-session briefing",
-     "summary": "Pre-session briefing"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-12T09:00:00.000Z",
+   "start": "2026-06-12T08:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "EDIT",
@@ -500,6 +438,42 @@
      "ref": "I-291004",
      "title": "Economic and Financial Affairs Council",
      "summary": "Roundtable"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-12T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Pre-session briefing",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-290518",
+     "title": "EP Pre-session briefing",
+     "summary": "Pre-session briefing"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-12T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Commission Executive Vice-President Teresa RIBERA in Torino, Italy for the Foresight and innovation Award",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290343",
+     "title": "European Commission Executive Vice-President Teresa RIBERA in Torino, Italy for the Foresight and innovation Award Ceremony 2026",
+     "summary": "Laudatio Giovanni Federigo DE SANTI, Chairman of the High-Level Group at Politecnico di Torino Award conferral Stefano Paolo CORGNATI, Rector of Politcenico di Torino Lectio Magistralis Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition Keynote Speech “Long-Term contracts in the New Electricity World: Risks, Opportunities and Policy choices” Lucia VISCONTI-PARISIO, University Milano-Bicocca and member of High-Level Group of Politecnico di Torino Panel “Energy Innovation for Competitiveness” Moderator: Valeria CIARDIELLO, Journalist Stefano Paolo CORGNATI, Rector of Politcenico di Torino Giulia GENUARDI, General Director of Enel Foundation)"
     }
    ]
   },
@@ -555,23 +529,6 @@
    ]
   },
   {
-   "start": "2026-06-12T10:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "European Commission Executive Vice-President Teresa RIBERA in Torino, Italy for the Foresight and innovation Award",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290343",
-     "title": "European Commission Executive Vice-President Teresa RIBERA in Torino, Italy for the Foresight and innovation Award",
-     "summary": "Lecture of motivation by Giovanni Federigo DE SANTI, Politecnico Torino- High Level Group Handing over of the prize by Stefano Paolo CORGNATI, Rector Politecnico Torino to Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition Lectio Magistralis by Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition"
-    }
-   ]
-  },
-  {
    "start": "2026-06-12T10:45:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -591,8 +548,52 @@
    ]
   },
   {
-   "start": "2026-06-12T14:00:00.000Z",
+   "start": "2026-06-12T12:00:00.000Z",
+   "durationSec": 906,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EC Stockshots",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-279888",
+     "title": "Social assistance for migrants (Rome, Italy)",
+     "summary": "This infoclip shows the activities at reception and orientation centre, the One-Stop Shop for Migrant Reception - SUAM, and daily life scenes of migrants at the Casal Morena Centre. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU."
+    },
+    {
+     "ref": "I-278928",
+     "title": "Asylum and migration (Malmö, Sweden)",
+     "summary": "This infoclips shows the activities at an asylum reception centre in Malmö, Sweden and a class learning Swedish at SFI Swedish For Immigrants Academy in Lund, Sweden. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU."
+    },
+    {
+     "ref": "I-279175",
+     "title": "Migration and civil society support (Calais, France)",
+     "summary": "This Infoclip shows civil society (in particular the volunteers of the Non-Governmental Organisation \"Salam\") support to refugees in Calais (France). Since the demolition of the large \"Jungle camp\" in Calais in 2016 there has been an administrative policy of \"no fixation points\" for migrants to settle in, aiming to stop another large camp from forming. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need."
+    }
+   ]
+  },
+  {
+   "start": "2026-06-12T12:35:00.000Z",
    "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "High Representative / Vice-President Kaja KALLAS in Paris, France for the “The Paris Call for the Two-States Solution” Conference",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291101",
+     "title": "High Representative / Vice-President Kaja KALLAS in Paris, France for the “The Paris Call for the Two-States Solution” Conference",
+     "summary": "Speech by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-12T14:00:00.000Z",
+   "durationSec": 217,
    "channel": "EBS",
    "status": "EDIT",
    "title": "EP News Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia)",
@@ -657,18 +658,58 @@
   },
   {
    "start": "2026-06-14T07:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 7143,
    "channel": "EBS+",
    "status": "EDIT",
-   "title": "EC archives of the week",
+   "title": "EC archives of the week (14-20/06): World Blood Donor Day (14/06) Signature of the Schengen Agreements (14/06/1985, 41 years ago) Göteborg EU/US Summit (14/06/2001, 25 years ago) European Council of Göteborg (15-16/06/2001, 25 years ago) World Day to Combat Desertification and Drought 2026 Theme “Rangelands: Recognize. Respect. Restore.” (17/06) International Day for Countering Hate Speech (18/06) World Refugee Day (20/06)",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-283215",
-     "title": "EC archives of the week (31/05-06/06): No tobacco Day (31/05) ACP/EEC Consultative Assembly, 1st meeting (01/06/1976, 50 years ago) Messina Conference (01-03/06/1955, 71 years ago) Italy Republic Day (02/06) World Bicycle Day (03/06) EU Green Week “Investing in a nature-positive economy” (03-04/06) Denmark Constitution Day (05/06) World Environment Day – Climate Change Topic (05/06) Sweden National Day (06/06)",
-     "summary": "Details to follow"
+     "ref": "I-251875",
+     "title": "Blood donation",
+     "summary": "This video stockshots provides illustration images of blood donation at the premises of the European Commission, filmed in January 2024. In collaboration with the Belgian Red Cross, the Commission offers its staff the opportunity of donating blood to help treat patients and save lives."
+    },
+    {
+     "ref": "I-002946",
+     "title": "Signature of the Schengen Agreements",
+     "summary": "During the 1980s, a debate opened up on the significance of the notion of the 'free circulation of people'. For certain Member States, it should only apply to European citizens, which meant that border controls should be retained to distinguish between European citizens and third countries nationals. Other Member States, on the contrary, wanted to establish free circulation for all and, consequently, abolish border controls. Faced with the impossible task of finding an agreement in the European Community, France, Germany, Belgium, Luxembourg and the Netherlands decided in 1985 to create a borderless area between them, the 'Schengen' area, named after the town in Luxembourg where the first agreements were signed. The first agreement between the five founding countries was signed on 14 June 1985. A convention was drawn up and signed on 19 June 1990. It entered into force in 1995 and abolished internal border controls between the signatory states and created a single external border where entry checks were carried out identically in the whole Schengen area. Common rules on visas, rights to asylum and external border controls were adopted to allow for the free circulation of people within the signatory countries without disturbing public order."
+    },
+    {
+     "ref": "I-036311",
+     "title": "Göteborg EU/US Summit",
+     "summary": "The discussions during the Summit focused primarily on four subjects: the Middle East, the Western Balkans, trade, climate change and the most difficult subject: the ratification of the Kyoto Protocol on climate change. As expected, no agreement was reached on this at the summit. Both sides reaffirmed their previous statements - the EU in favour of the Protocol and the US against"
+    },
+    {
+     "ref": "I-036312",
+     "title": "European Council of Göteborg, 15-16/06/2001",
+     "summary": "The Göteborg European Council was able to confirm the breakthroughs achieved in the negotiations during the Swedish Presidency. It should thus be possible to complete negotiations with the best-prepared candidate countries at the end of 2002. The European Council also adopted a strategy for sustainable development, which means that the environment will become as important as economic and social issues."
+    },
+    {
+     "ref": "I-198361",
+     "title": "Biodiversity in Europe – Habitats",
+     "summary": "The EU Biodiversity Strategy for 2030, put forward by the European Commission in spring 2020, aims to save biodiversity loss in Europe and help protect Europe’s nature and wildlife. It will help build our resilience to threats such as climate change impacts, forest fires, food insecurity or disease outbreaks. As part of the European Green Deal, the Biodiversity Strategy will also support a green recovery following the coronavirus pandemic. This series of stockshots illustrate various types of nature and biodiversity in Europe, and a series of EU-funded projects aiming to protect habitats and species on land, in the air and in the marine environment."
+    },
+    {
+     "ref": "I-267643",
+     "title": "European artificial intelligence start ups, France and Belgium",
+     "summary": "This series of 3 stockshots provides illustration footage of European AI start ups who won the European Commission’s Large AI Grand Challenge, a competition launched in 2023. The winning companies have won access to two of Europe’s world-leading supercomputers for 8 million hours to further develop their innovative large-scale AI models. In this stockshot we have images of Lingua custodia, a French start up that uses AI to process and translate financial documents, adding the tools to analyse such documents and query these large data files; and Belgian start up Textgain that use state of the art natural language processing technology to develop advanced AI solutions to identify harmful speech, misinformation and violent content across online platforms and in all European languages."
+    },
+    {
+     "ref": "I-279888",
+     "title": "Social assistance for migrants (Rome, Italy)",
+     "summary": "This infoclip shows the activities at reception and orientation centre, the One-Stop Shop for Migrant Reception - SUAM, and daily life scenes of migrants at the Casal Morena Centre. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU."
+    },
+    {
+     "ref": "I-278928",
+     "title": "Asylum and migration (Malmö, Sweden)",
+     "summary": "This infoclips shows the activities at an asylum reception centre in Malmö, Sweden and a class learning Swedish at SFI Swedish For Immigrants Academy in Lund, Sweden. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU."
+    },
+    {
+     "ref": "I-279175",
+     "title": "Migration and civil society support (Calais, France)",
+     "summary": "This Infoclip shows civil society (in particular the volunteers of the Non-Governmental Organisation \"Salam\") support to refugees in Calais (France). Since the demolition of the large \"Jungle camp\" in Calais in 2016 there has been an administrative policy of \"no fixation points\" for migrants to settle in, aiming to stop another large camp from forming. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need."
     }
    ]
   },
@@ -790,7 +831,7 @@
    ]
   },
   {
-   "start": "2026-06-15T14:00:00.000Z",
+   "start": "2026-06-15T13:50:00.000Z",
    "durationSec": 1693,
    "channel": "EBS+",
    "status": "EDIT",
@@ -833,6 +874,11 @@
      "ref": "I-241082",
      "title": "Artificial intelligence",
      "summary": "This infoclip illustrates the use of artificial intelligence: the use of ChatGPT e.g. to create photos - people using virtual equipment and a dog-robot."
+    },
+    {
+     "ref": "I-289069",
+     "title": "EP Stockshot",
+     "summary": "Copyright in the age of AI"
     }
    ]
   },
@@ -856,28 +902,6 @@
      "ref": "I-290860",
      "title": "EP Plenary Session Last minute press briefing",
      "summary": "Last minute press briefing"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-15T15:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EU-Egypt Association Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290922",
-     "title": "Foreign Affairs Council",
-     "summary": "Arrivals"
-    },
-    {
-     "ref": "I-290923",
-     "title": "Foreign Affairs Council",
-     "summary": "Roundtable"
     }
    ]
   },
@@ -1119,6 +1143,73 @@
    ]
   },
   {
+   "start": "2026-06-16T06:00:00.000Z",
+   "durationSec": 2564,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP Stockshot",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-265819",
+     "title": "EU Cybersecurity",
+     "summary": "This news item shows various elements, including cutaways of antennas and security cameras, illustration of a cybercriminal in action and a server under cyber attack. It also features the Ubitech co-founders highlighting key innovations like a quantum computer model, an AI server, and the MAI.gov government platform for providing online services to citizens. The video further includes illustrations of devices such as smartwatches, smart lights, and security cameras, as well as shots of the European Union agency ENISA's headquarters, dedicated to strengthening cybersecurity, and scenes from the European Cyber Security Challenge competition in Turin."
+    },
+    {
+     "ref": "I-290986",
+     "title": "EP Stockshot",
+     "summary": "Infoclip: general views of Montenegro"
+    },
+    {
+     "ref": "I-290102",
+     "title": "General views of Podgorica (Montenegro)",
+     "summary": "This Infoclip presents general views of Podgorica in Montenegro, including images of the Millenium Bridge, the Moraca river, the Central Bank, the Supreme Court, the Delegation of the European Union to Montenegro, street views of the city, people walking. Montenegro declared independence in 2006, applied for EU membership in 2008, and began accession negotiations in 2012."
+    },
+    {
+     "ref": "I-291107",
+     "title": "EP Stockshot",
+     "summary": "Infoclip: Western Balkans and the EU"
+    },
+    {
+     "ref": "I-259319",
+     "title": "EU strategy for security and defence",
+     "summary": "This infoclip illustrates the EU's Strategy for Security and Defence, featuring exterior and interior views of planes on patrol, various navy shots, and footage of drones operated via remote control. It also shows Ukrainian troops and Leopard 2 tanks in action. Footage is courtesy of NATO, see conditions of use: https://www.nato.int/cps/en/natolive/68162.htm"
+    },
+    {
+     "ref": "I-278141",
+     "title": "Security challenges - European drone strategy",
+     "summary": "This infoclip shows images from drones, new systems of walfare, helicopter and drone views of the Lithuania-Belarus border and Romania border. In light of the incidents in which Russian drones and aircraft violated both Polish and Estonian airspace in recent weeks and after drones of unidentified origin caused disturbances at and around civilian airports and military bases in Denmark – events that the Danish authorities have referred to as “concerted hybrid attacks –, the European Union commits to strengthening the EU’s defence industry, promoting joint procurement, and ensuring a credible deterrent against potential aggressors. Drone images alongside tanks and new models of drones are under NATO conditions of use: https://www.nato.int/cps/en/natolive/68162.htm."
+    },
+    {
+     "ref": "I-274407",
+     "title": "European defence and security",
+     "summary": "This Infoclip shows illustrations of European defence and security with illustrative shots of troups, soliders, views of planes on patrol, various navy shots, arms industry, cybersecurity and civil protection. In the annual State of the Union (SOTEU) debate, the President of the European Commission should address the most pertinent topics, including also European defence and security and outline the plans ahead. The annual SOTEU debate allows MEPS to scrutinise the European Commission's work. Footage is courtesy of NATO, see conditions of use: https://www.nato.int/cps/en/natolive/68162.htm"
+    },
+    {
+     "ref": "I-279888",
+     "title": "Social assistance for migrants (Rome, Italy)",
+     "summary": "This infoclip shows the activities at reception and orientation centre, the One-Stop Shop for Migrant Reception - SUAM, and daily life scenes of migrants at the Casal Morena Centre. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU."
+    },
+    {
+     "ref": "I-287432",
+     "title": "EP Stockshot Migration - Returns regulation",
+     "summary": "Infoclip: Migration - Returns regulation (working title)"
+    },
+    {
+     "ref": "I-278928",
+     "title": "Asylum and migration (Malmö, Sweden)",
+     "summary": "This infoclips shows the activities at an asylum reception centre in Malmö, Sweden and a class learning Swedish at SFI Swedish For Immigrants Academy in Lund, Sweden. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU."
+    },
+    {
+     "ref": "I-279175",
+     "title": "Migration and civil society support (Calais, France)",
+     "summary": "This Infoclip shows civil society (in particular the volunteers of the Non-Governmental Organisation \"Salam\") support to refugees in Calais (France). Since the demolition of the large \"Jungle camp\" in Calais in 2016 there has been an administrative policy of \"no fixation points\" for migrants to settle in, aiming to stop another large camp from forming. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need."
+    }
+   ]
+  },
+  {
    "start": "2026-06-16T07:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -1267,6 +1358,23 @@
      "ref": "I-290949",
      "title": "Employment, Social Policy, Health and Consumer Affairs Council (Health)",
      "summary": "Roundtable"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-16T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Achieving digital sovereignty and resilience",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290981",
+     "title": "EP News Achieving digital sovereignty and resilience",
+     "summary": "Achieving digital sovereignty and resilience for Europe extracts from the debate"
     }
    ]
   },
