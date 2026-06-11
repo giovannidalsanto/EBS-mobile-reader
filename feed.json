@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-11T16:25:48+00:00",
+ "generatedAt": "2026-06-11T21:29:13+00:00",
  "events": [
   {
    "start": "2026-06-11T08:31:08.000Z",
@@ -185,7 +185,7 @@
   },
   {
    "start": "2026-06-11T12:21:20.240Z",
-   "durationSec": 0,
+   "durationSec": 3358,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Eurogroup meeting",
@@ -283,8 +283,8 @@
    ]
   },
   {
-   "start": "2026-06-11T15:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-11T16:35:22.320Z",
+   "durationSec": 1225,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "IMF Press Briefing: 2026 Euro Area Article IV Consultation",
@@ -295,12 +295,12 @@
     {
      "ref": "I-290375",
      "title": "IMF Press Briefing: 2026 Euro Area Article IV Consultation",
-     "summary": "Press briefing by Kristalina GEORGIEVA, Managing Director of the International Monetary Fund (IMF)"
+     "summary": "Press briefing by Kristalina GEORGIEVA, Managing Director of the International Monetary Fund (IMF) and Oya CELASUN, Deputy Director of the European Department of the International Monetary Fund (IMF)"
     }
    ]
   },
   {
-   "start": "2026-06-11T16:00:00.000Z",
+   "start": "2026-06-11T16:57:10.000Z",
    "durationSec": 150,
    "channel": "EBS+",
    "status": "EDIT",
@@ -317,8 +317,8 @@
    ]
   },
   {
-   "start": "2026-06-11T16:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-11T17:13:26.480Z",
+   "durationSec": 1557,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Eurogroup meeting",
@@ -333,9 +333,29 @@
    ],
    "items": [
     {
+     "ref": "I-291139",
+     "title": "Eurogroup meeting",
+     "summary": "Press conference opening remarks by Kyriakos PIERRAKAKIS, President of the Eurogroup Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity Press conference opening remarks by Pierre GRAMEGNA, Managing Director of the European Stability Mechanism Q&A"
+    },
+    {
      "ref": "I-290376",
      "title": "Eurogroup meeting",
-     "summary": "Press conference by Kyriakos PIERRAKAKIS, President of the Eurogroup, Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and Pierre GRAMEGNA, Managing Director of the European Stability Mechanism"
+     "summary": "Press conference opening remarks by Kyriakos PIERRAKAKIS, President of the Eurogroup"
+    },
+    {
+     "ref": "I-291129",
+     "title": "Eurogroup meeting",
+     "summary": "Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity"
+    },
+    {
+     "ref": "I-291132",
+     "title": "Eurogroup meeting",
+     "summary": "Press conference opening remarks by Pierre GRAMEGNA, Managing Director of the European Stability Mechanism"
+    },
+    {
+     "ref": "I-291138",
+     "title": "Eurogroup meeting",
+     "summary": "Q&A"
     }
    ]
   },
@@ -714,7 +734,7 @@
    ]
   },
   {
-   "start": "2026-06-14T23:00:00.000Z",
+   "start": "2026-06-15T04:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
