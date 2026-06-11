@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-11T12:23:41+00:00",
+ "generatedAt": "2026-06-11T13:40:45+00:00",
  "events": [
   {
    "start": "2026-06-11T08:31:08.000Z",
@@ -184,7 +184,7 @@
    ]
   },
   {
-   "start": "2026-06-11T12:00:00.000Z",
+   "start": "2026-06-11T12:21:20.240Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -196,17 +196,32 @@
     {
      "ref": "I-290377",
      "title": "Eurogroup meeting",
-     "summary": "Arrivals and doorsteps"
+     "summary": "Doorstep by Riikka PURRA, Minister of Finance of Finland"
     },
     {
      "ref": "I-291103",
      "title": "Eurogroup meeting",
-     "summary": "Arrivals and doorsteps"
+     "summary": "Doorstep by Kyriakos PIERRAKAKIS, President of the Eurogroup"
+    },
+    {
+     "ref": "I-291104",
+     "title": "Eurogroup meeting",
+     "summary": "Doorstep by Joaquim MIRANDA SARMENTO, Minister of State and Finance of Portugal"
+    },
+    {
+     "ref": "I-291105",
+     "title": "Eurogroup meeting",
+     "summary": "Doorstep by Lars KLINGBEIL, Federal Minister of Finance of Germany"
+    },
+    {
+     "ref": "I-291106",
+     "title": "Eurogroup meeting",
+     "summary": "Doorstep by Simon HARRIS, Tánaiste and Minister for Finance of Ireland"
     }
    ]
   },
   {
-   "start": "2026-06-11T12:45:00.000Z",
+   "start": "2026-06-11T12:47:30.080Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -1004,23 +1019,18 @@
    ]
   },
   {
-   "start": "2026-06-15T16:45:00.000Z",
+   "start": "2026-06-15T16:50:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
-   "title": "EP News Editing shots EU-US trade deal",
+   "title": "EP News Editing shots",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-291023",
-     "title": "EP News Editing shots EU-US trade deal",
-     "summary": "EU-US trade deal extracts from the debate"
-    },
-    {
      "ref": "I-290985",
-     "title": "EP News Editing shots EU-US trade deal",
+     "title": "EP News Editing shots",
      "summary": "EP Plenary session (15/06-18/06) editing shots"
     }
    ]
@@ -1397,6 +1407,23 @@
    ]
   },
   {
+   "start": "2026-06-16T11:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News The urgent need for the de-escalation of military confrontations in the Middle East",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291000",
+     "title": "EP News The urgent need for the de-escalation of military confrontations in the Middle East",
+     "summary": "The urgent need for the de-escalation of military confrontations in the Middle East: extracts from the debate"
+    }
+   ]
+  },
+  {
    "start": "2026-06-16T11:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -1450,15 +1477,20 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
-   "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
+   "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro EU-US trade deal",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-290861",
-     "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
+     "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro EU-US trade deal",
      "summary": "Formal sitting with Jakov MILATOVIĆ, President of Montenegro meeting with Roberta METSOLA, EP President extracts from the address to the Plenary"
+    },
+    {
+     "ref": "I-291023",
+     "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro EU-US trade deal",
+     "summary": "EU-US trade deal extracts from the debate"
     }
    ]
   },
@@ -1817,7 +1849,7 @@
   },
   {
    "start": "2026-06-17T06:00:00.000Z",
-   "durationSec": 2260,
+   "durationSec": 2606,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "EP Stockshots",
@@ -1874,6 +1906,11 @@
      "ref": "I-267260",
      "title": "Maritime trade",
      "summary": "The infoclip features the Antwerp’s commercial harbour, showing container barges transporting cars and other goods into containers. It also highlights tugboat maneuvers ships through the busy port. Aerial drone shots provide general overviews of the harbour’s scale and activity. From street-level views captured from a car, we see the trucks transporting goods into the port. The footage also highlights modern wind turbines. Shipping remains one of the most important means of trade for the Member States of the EU. Nowadays, ships carry more than half the value of goods imports to the EU and over 40 percent of goods exports from the EU. In 2021, about 1.1 trillion euros worth of goods were imported to the EU, and about 956 billion euros worth of cargo exported from the EU by sea."
+    },
+    {
+     "ref": "I-254018",
+     "title": "New genomic techniques",
+     "summary": "NGTs are a variety of techniques that alter the genetic material of an organism. Currently in the EU, all plants obtained by NGTs are subject to the same rules as GMOs, which are among the strictest in the world. NGTs could help to make our food system more sustainable and resilient by developing improved plant varieties that are climate resilient, pest resistant, and give higher yields or that require fewer fertilisers and pesticides. This news item shows extracts from a CSIC laboratory, plant research, scientists at work, in vitro samples and genetically modified plant cultures."
     }
    ]
   },
@@ -1901,28 +1938,6 @@
      "ref": "I-290816",
      "title": "EP Plenary Session Preparation of the European Council meeting of 18-19 June 2026",
      "summary": "MEPs debate part 2"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-17T08:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Plenary Session Future of EU-China economic relations",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291030",
-     "title": "EP Plenary Session Future of EU-China economic relations",
-     "summary": "Opening statement"
-    },
-    {
-     "ref": "I-291031",
-     "title": "EP Plenary Session Future of EU-China economic relations",
-     "summary": "MEPs debate"
     },
     {
      "ref": "I-291033",
@@ -1936,24 +1951,24 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media – our duty to act now",
+   "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-291034",
-     "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media – our duty to act now",
+     "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media",
      "summary": "Opening statement"
     },
     {
      "ref": "I-291036",
-     "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media – our duty to act now",
+     "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media",
      "summary": "MEPs debate"
     },
     {
      "ref": "I-291038",
-     "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media – our duty to act now",
+     "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media",
      "summary": "Closing statement"
     }
    ]
@@ -2168,24 +2183,24 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods amid ongoing geopolitical instability",
+   "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-291048",
-     "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods amid ongoing geopolitical instability",
+     "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods",
      "summary": "Opening statement"
     },
     {
      "ref": "I-291049",
-     "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods amid ongoing geopolitical instability",
+     "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods",
      "summary": "MEPs debate"
     },
     {
      "ref": "I-291050",
-     "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods amid ongoing geopolitical instability",
+     "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods",
      "summary": "Closing statement"
     }
    ]
