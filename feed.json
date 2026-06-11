@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-06-11T08:24:41+00:00",
+ "generatedAt": "2026-06-11T12:23:41+00:00",
  "events": [
   {
-   "start": "2026-06-11T08:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-11T08:31:08.000Z",
+   "durationSec": 73,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Norway Jonas GAHR STØRE",
@@ -24,8 +24,8 @@
    ]
   },
   {
-   "start": "2026-06-11T09:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-11T09:00:10.000Z",
+   "durationSec": 542,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
    "title": "Court of Justice of the European Union",
@@ -36,69 +36,18 @@
     {
      "ref": "I-290614",
      "title": "Court of Justice of the European Union",
-     "summary": "Opinion of Advocate General in joined cases C-706/25 Comeri and C-707/25 Sidilli regarding the Italy-Albania Protocol for the management of migration flows"
+     "summary": "Opinion of Advocate General in joined cases C-706/25 Comeri and C-707/25 Sidilli regarding the Italy-Albania Protocol for the management of migration flows read by Laila MEDINA, Advocate General at the Court of Justice of the EU"
     },
     {
      "ref": "I-290615",
      "title": "Court of Justice of the European Union",
-     "summary": "Opinion of Advocate General in cases C-631/24 P Commission v Auken and others and C-632/24 P Commission v Courtois and others regarding and appeal against a General Court ruling regarding the access to the purchase agreements for Covid-19 vaccines"
+     "summary": "Opinion of Advocate General in cases C-631/24 P Commission v Auken and others and C-632/24 P Commission v Courtois and others regarding and appeal against a General Court ruling regarding the access to the purchase agreements for Covid-19 vaccines read by Laila MEDINA, Advocate General at the Court of Justice of the EU"
     }
    ]
   },
   {
-   "start": "2026-06-11T10:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 11/06/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-290320",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "Announcements"
-    },
-    {
-     "ref": "I-290321",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "Q&A"
-    },
-    {
-     "ref": "I-290323",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building"
-    },
-    {
-     "ref": "I-290322",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "Recorded cutaways"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T10:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "ESM Board of Governors Meeting",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290713",
-     "title": "ESM Board of Governors Meeting",
-     "summary": "Joint doorsteps by Kyriakos PIERRAKAKIS, President of the Eurogroup and Pierre GRAMEGNA, Managing Director of the European Stability Mechanism (ESM)"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T11:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-11T10:15:10.000Z",
+   "durationSec": 57,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "European Council President António COSTA receives the Prime Minister of Norway Jonas Gahr STØRE",
@@ -114,6 +63,127 @@
    ]
   },
   {
+   "start": "2026-06-11T10:23:48.600Z",
+   "durationSec": 2393,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 11/06/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-291099",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "ANNOUNCEMENT - Today’s Council ANNOUNCEMENT - Group of visitors TRADE - China: Q&A FOREIGN AFFAIRS - Mikhaïl Loshchinin case: Q&A INTERNAL MARKET / FOREIGN AFFAIRS - Export of Irish alumina to Russia / EU sanctions against Russia: question WAR IN UKRAINE - Peace negotiations: Q&A INTERNAL MARKET / FOREIGN AFFAIRS - Export of Irish alumina to Russia / EU sanctions against Russia: answer INTERNATIONAL PARTNERSHIPS - Visit of Norwegian Prime Minister Jonas Gahr Støre to the EC: Q&A ENLARGEMENT - EU visa policy / Serbia / Russia: Q&A ENLARGEMENT - Ukraine facility / €90 billion Ukraine Support Loan use: Q&A FOREIGN AFFAIRS - West Bank / Israel: Q&A WAR IN UKRAINE - Peace negotiations: Q&A INTERNAL AFFAIRS - Georgia / Visa policy: Q&A CLIMATE ACTION - Outcome of the College orientation debate on Emissions Trading System (ETS) review: Q&A DEFENCE - €90 billion Ukraine Support Loan use / Missiles: Q&A WAR IN UKRAINE - EU Sanctions against Russia: Q&A MIGRATION - Implementation of the Pact on Migration and Asylum: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways"
+    },
+    {
+     "ref": "I-290320",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "ANNOUNCEMENT - Today’s Council"
+    },
+    {
+     "ref": "I-290321",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "ANNOUNCEMENT - Group of visitors"
+    },
+    {
+     "ref": "I-291080",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "TRADE - China: Q&A"
+    },
+    {
+     "ref": "I-291081",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "FOREIGN AFFAIRS - Mikhaïl Loshchinin case: Q&A"
+    },
+    {
+     "ref": "I-291082",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "INTERNAL MARKET / FOREIGN AFFAIRS - Export of Irish alumina to Russia / EU sanctions against Russia: question"
+    },
+    {
+     "ref": "I-291084",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "WAR IN UKRAINE - Peace negotiations: Q&A"
+    },
+    {
+     "ref": "I-291085",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "INTERNAL MARKET / FOREIGN AFFAIRS - Export of Irish alumina to Russia / EU sanctions against Russia: answer"
+    },
+    {
+     "ref": "I-291086",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "INTERNATIONAL PARTNERSHIPS - Visit of Norwegian Prime Minister Jonas Gahr Støre to the EC: Q&A"
+    },
+    {
+     "ref": "I-291087",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "ENLARGEMENT - EU visa policy / Serbia / Russia: Q&A"
+    },
+    {
+     "ref": "I-291088",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "ENLARGEMENT - Ukraine facility / €90 billion Ukraine Support Loan use: Q&A"
+    },
+    {
+     "ref": "I-291089",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "FOREIGN AFFAIRS - West Bank / Israel: Q&A"
+    },
+    {
+     "ref": "I-291090",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "WAR IN UKRAINE - Peace negotiations: Q&A"
+    },
+    {
+     "ref": "I-291093",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "INTERNAL AFFAIRS - Georgia / Visa policy: Q&A"
+    },
+    {
+     "ref": "I-291094",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "CLIMATE ACTION - Outcome of the College orientation debate on Emissions Trading System (ETS) review: Q&A"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-11T11:50:10.000Z",
+   "durationSec": 795,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "ESM Board of Governors Meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290713",
+     "title": "ESM Board of Governors Meeting",
+     "summary": "Joint doorsteps by Kyriakos PIERRAKAKIS, President of the Eurogroup and Pierre GRAMEGNA, Managing Director of the European Stability Mechanism (ESM)"
+    },
+    {
+     "ref": "I-291091",
+     "title": "ESM Board of Governors Meeting",
+     "summary": "Exteriors of the ESM premises"
+    },
+    {
+     "ref": "I-291092",
+     "title": "ESM Board of Governors Meeting",
+     "summary": "Roundtable"
+    },
+    {
+     "ref": "I-291102",
+     "title": "ESM Board of Governors Meeting",
+     "summary": "Arrivals"
+    }
+   ]
+  },
+  {
    "start": "2026-06-11T12:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -125,6 +195,11 @@
    "items": [
     {
      "ref": "I-290377",
+     "title": "Eurogroup meeting",
+     "summary": "Arrivals and doorsteps"
+    },
+    {
+     "ref": "I-291103",
      "title": "Eurogroup meeting",
      "summary": "Arrivals and doorsteps"
     }
@@ -161,6 +236,23 @@
      "ref": "I-291062",
      "title": "European Council President António COSTA participates in the Global Convergence for Growth Summit via video conference",
      "summary": "Roundtable video-conference"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-11T14:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Cypriot Presidency press point on the MFF",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291063",
+     "title": "Cypriot Presidency press point on the MFF",
+     "summary": "Press point by Marilena RAOUNA, Deputy Minister for European Affairs of Cyprus"
     }
    ]
   },
@@ -228,6 +320,23 @@
      "ref": "I-290376",
      "title": "Eurogroup meeting",
      "summary": "Press conference by Kyriakos PIERRAKAKIS, President of the Eurogroup, Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and Pierre GRAMEGNA, Managing Director of the European Stability Mechanism"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-12T00:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "",
+   "title": "High Representative / Vice-President Kaja KALLAS in Paris, France for the \"Paris Call for the Two-State Solution\" Conference in the context of the G7 Summit",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290733",
+     "title": "High Representative / Vice-President Kaja KALLAS in Paris, France for the \"Paris Call for the Two-State Solution\" Conference in the context of the G7 Summit",
+     "summary": "Details to follow"
     }
    ]
   },
@@ -666,6 +775,53 @@
    ]
   },
   {
+   "start": "2026-06-15T14:00:00.000Z",
+   "durationSec": 1693,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP Stockshot",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-266598",
+     "title": "EU-US Trade relations",
+     "summary": "This infoclip illustrates key areas of the trade between the United States of America and the European Union. The footage features shots of European brands in New York, specifically showcasing European cars, food, wine, and fashion labels. This infoclip also highlights the steel industry, showing workers in a steel production workshop and the use of steel in train construction. Additionally, the clip includes footage of Liquefied Natural Gas (LNG) being delivered to Europe at the Gate (Gas Access to Europe) terminal in the port of Rotterdam. The European Union and the United States have the largest bilateral trade and investment relationship and the most integrated economic relationship in the world. Together, they represent almost 30% of global trade in goods and services and 43% of global GDP. In 2023, transatlantic trade in goods and services exceeded €1.5 trillion."
+    },
+    {
+     "ref": "I-279887",
+     "title": "Washington: General views, institutions and companies",
+     "summary": "This Infoclip illustrates different views of Washington D.C. including its institutions (Capitol, Rayburn House Office, Russel Senate, US Chamber of Commerce, Georgetown University) and key companies (CNN, META, Airbus Experience Center, Microsoft, Brookings Institute)."
+    },
+    {
+     "ref": "I-268214",
+     "title": "General views of Washington D.C. (United States of America)",
+     "summary": "This infoclip illustrates differents views of Washington D.C. including the White House, the Lincoln Memorial, the Jefferson Memorial, the Supreme Court, the Capitol, the Washington Monument...."
+    },
+    {
+     "ref": "I-289808",
+     "title": "General views of San Francisco and Silicon Valley (USA)",
+     "summary": "This infoclip showcases general views of San Francisco and Silicon Valley. The footage features iconic landmarks in San Francisco, including the Golden Gate Bridge, Fisherman’s Wharf, and Lombard Street, as well as key tech hubs such as Meta’s headquarters, the Google Plex, Apple Park, and Tesla’s facilities in San Jose."
+    },
+    {
+     "ref": "I-267260",
+     "title": "Maritime trade",
+     "summary": "The infoclip features the Antwerp’s commercial harbour, showing container barges transporting cars and other goods into containers. It also highlights tugboat maneuvers ships through the busy port. Aerial drone shots provide general overviews of the harbour’s scale and activity. From street-level views captured from a car, we see the trucks transporting goods into the port. The footage also highlights modern wind turbines. Shipping remains one of the most important means of trade for the Member States of the EU. Nowadays, ships carry more than half the value of goods imports to the EU and over 40 percent of goods exports from the EU. In 2021, about 1.1 trillion euros worth of goods were imported to the EU, and about 956 billion euros worth of cargo exported from the EU by sea."
+    },
+    {
+     "ref": "I-259317",
+     "title": "Robotics and Artificial Intelligence",
+     "summary": "This infoclip shows how universities, research centers, private companies and tech entrepreneurs experiment on AI and robotics to develop and produce technological solutions in key sectors, such as health, security, entertainment, mobility, and education. The infoclip was filmed at the AI Experience Centre of the VUB - Vrije Universiteit Brussel and at FARI, a Brussels-based institute whose mission is to study, develop, and foster the adoption and governance of AI, Data and Robotics technologies in an inclusive, ethical and sustainable way. Both the AI Experience Centre and FARI are co-funded by the European Union."
+    },
+    {
+     "ref": "I-241082",
+     "title": "Artificial intelligence",
+     "summary": "This infoclip illustrates the use of artificial intelligence: the use of ChatGPT e.g. to create photos - people using virtual equipment and a dog-robot."
+    }
+   ]
+  },
+  {
    "start": "2026-06-15T14:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -745,38 +901,16 @@
     {
      "ref": "I-290848",
      "title": "EP Plenary Session Resumption of Session and Order of Business",
-     "summary": "details to follow"
+     "summary": "Resumption of Session and Order of Business"
     }
    ]
   },
   {
-   "start": "2026-06-15T16:45:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Editing shots EU-US trade deal",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291023",
-     "title": "EP News Editing shots EU-US trade deal",
-     "summary": "EU-US trade deal extracts from the debate"
-    },
-    {
-     "ref": "I-290985",
-     "title": "EP News Editing shots EU-US trade deal",
-     "summary": "EP Plenary session (15/06-18/06) editing shots"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-15T19:00:00.000Z",
+   "start": "2026-06-15T15:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "EP Plenary Session Debate",
+   "title": "EP Plenary Session Time for European economic independence",
    "languages": [
     "INT",
     "EN",
@@ -804,24 +938,144 @@
    ],
    "items": [
     {
-     "ref": "I-290843",
-     "title": "EP Plenary Session Debate",
+     "ref": "I-290965",
+     "title": "EP Plenary Session Time for European economic independence",
      "summary": "Opening statements"
     },
     {
-     "ref": "I-290844",
-     "title": "EP Plenary Session Debate",
+     "ref": "I-290969",
+     "title": "EP Plenary Session Time for European economic independence",
      "summary": "MEPs debate"
     },
     {
-     "ref": "I-290845",
-     "title": "EP Plenary Session Debate",
+     "ref": "I-290970",
+     "title": "EP Plenary Session Time for European economic independence",
      "summary": "Closing statements"
     }
    ]
   },
   {
-   "start": "2026-06-16T01:00:00.000Z",
+   "start": "2026-06-15T16:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session EU-US trade deal",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-290962",
+     "title": "EP Plenary Session EU-US trade deal",
+     "summary": "Opening statements"
+    },
+    {
+     "ref": "I-290963",
+     "title": "EP Plenary Session EU-US trade deal",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-291065",
+     "title": "EP Plenary Session EU-US trade deal",
+     "summary": "Closing statements"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-15T16:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Editing shots EU-US trade deal",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291023",
+     "title": "EP News Editing shots EU-US trade deal",
+     "summary": "EU-US trade deal extracts from the debate"
+    },
+    {
+     "ref": "I-290985",
+     "title": "EP News Editing shots EU-US trade deal",
+     "summary": "EP Plenary session (15/06-18/06) editing shots"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-15T18:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291006",
+     "title": "EP Plenary Session Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
+     "summary": "Opening statements"
+    },
+    {
+     "ref": "I-291007",
+     "title": "EP Plenary Session Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-291009",
+     "title": "EP Plenary Session Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
+     "summary": "Closing statements"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-16T02:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
@@ -851,6 +1105,104 @@
      "ref": "I-290768",
      "title": "General Affairs Council Employment, Social Policy, Health and Consumer Affairs Council (Health)",
      "summary": "Arrivals and doorsteps"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-16T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Achieving digital sovereignty and resilience for Europe",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-290974",
+     "title": "EP Plenary Session Achieving digital sovereignty and resilience for Europe",
+     "summary": "Opening statements"
+    },
+    {
+     "ref": "I-290975",
+     "title": "EP Plenary Session Achieving digital sovereignty and resilience for Europe",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-290976",
+     "title": "EP Plenary Session Achieving digital sovereignty and resilience for Europe",
+     "summary": "Closing statements"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-16T08:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session The urgent need for the de-escalation of military confrontations in the Middle East",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291010",
+     "title": "EP Plenary Session The urgent need for the de-escalation of military confrontations in the Middle East",
+     "summary": "Opening statements"
+    },
+    {
+     "ref": "I-291011",
+     "title": "EP Plenary Session The urgent need for the de-escalation of military confrontations in the Middle East",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-291012",
+     "title": "EP Plenary Session The urgent need for the de-escalation of military confrontations in the Middle East",
+     "summary": "Closing statements"
     }
    ]
   },
@@ -957,6 +1309,143 @@
    ]
   },
   {
+   "start": "2026-06-16T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-290855",
+     "title": "EP Plenary Session Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
+     "summary": "Address by Jakov MILATOVIĆ, President of Montenegro"
+    },
+    {
+     "ref": "I-290856",
+     "title": "EP Plenary Session Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-290857",
+     "title": "EP Plenary Session Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
+     "summary": "Closing statements"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-16T10:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Voting Session",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-290859",
+     "title": "EP Plenary Session Voting Session",
+     "summary": "details to follow"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-16T11:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-290977",
+     "title": "EP Plenary Session Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
+     "summary": "Opening statements"
+    },
+    {
+     "ref": "I-290978",
+     "title": "EP Plenary Session Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-290979",
+     "title": "EP Plenary Session Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
+     "summary": "Closing statements"
+    }
+   ]
+  },
+  {
    "start": "2026-06-16T12:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -1011,6 +1500,55 @@
    ]
   },
   {
+   "start": "2026-06-16T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Common system for the return of third-country nationals staying illegally in the Union (Return Regulation)",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291067",
+     "title": "EP Plenary Session Common system for the return of third-country nationals staying illegally in the Union (Return Regulation)",
+     "summary": "Opening statements"
+    },
+    {
+     "ref": "I-291068",
+     "title": "EP Plenary Session Common system for the return of third-country nationals staying illegally in the Union (Return Regulation)",
+     "summary": "One round of political group speakers"
+    },
+    {
+     "ref": "I-291069",
+     "title": "EP Plenary Session Common system for the return of third-country nationals staying illegally in the Union (Return Regulation)",
+     "summary": "Closing statements"
+    }
+   ]
+  },
+  {
    "start": "2026-06-16T13:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -1030,6 +1568,55 @@
      "ref": "I-290770",
      "title": "Read-out of the College meeting / press conference (details to follow)",
      "summary": "Read-out of the College meeting / press conference"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-16T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session State of play on the European Commission’s pledge to reduce the reporting burden, in particular for SMEs",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291013",
+     "title": "EP Plenary Session State of play on the European Commission’s pledge to reduce the reporting burden, in particular for SMEs",
+     "summary": "Opening statements"
+    },
+    {
+     "ref": "I-291014",
+     "title": "EP Plenary Session State of play on the European Commission’s pledge to reduce the reporting burden, in particular for SMEs",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-291015",
+     "title": "EP Plenary Session State of play on the European Commission’s pledge to reduce the reporting burden, in particular for SMEs",
+     "summary": "Closing statements"
     }
    ]
   },
@@ -1074,51 +1661,11 @@
    ]
   },
   {
-   "start": "2026-06-16T15:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "General Affairs Council",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL"
-   ],
-   "items": [
-    {
-     "ref": "I-290926",
-     "title": "General Affairs Council",
-     "summary": "Press conference by the Cypriot Presidency and the European Commission"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-16T17:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News An EU future for the Western Balkans",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291025",
-     "title": "EP News An EU future for the Western Balkans",
-     "summary": "An EU future for the Western Balkans extracts from the debate"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-16T19:00:00.000Z",
+   "start": "2026-06-16T14:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "EP Plenary Session Debate",
+   "title": "EP Plenary Session 2025 Commission report on Türkiye",
    "languages": [
     "INT",
     "EN",
@@ -1146,19 +1693,108 @@
    ],
    "items": [
     {
-     "ref": "I-290852",
-     "title": "EP Plenary Session Debate",
+     "ref": "I-291016",
+     "title": "EP Plenary Session 2025 Commission report on Türkiye",
      "summary": "Opening statements"
     },
     {
-     "ref": "I-290853",
-     "title": "EP Plenary Session Debate",
+     "ref": "I-291017",
+     "title": "EP Plenary Session 2025 Commission report on Türkiye",
      "summary": "MEPs debate"
     },
     {
-     "ref": "I-290854",
-     "title": "EP Plenary Session Debate",
+     "ref": "I-291018",
+     "title": "EP Plenary Session 2025 Commission report on Türkiye",
      "summary": "Closing statements"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-16T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "General Affairs Council",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL"
+   ],
+   "items": [
+    {
+     "ref": "I-290926",
+     "title": "General Affairs Council",
+     "summary": "Press conference by the Cypriot Presidency and the European Commission"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-16T15:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session An EU future for the Western Balkans",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291020",
+     "title": "EP Plenary Session An EU future for the Western Balkans",
+     "summary": "Opening statements"
+    },
+    {
+     "ref": "I-291021",
+     "title": "EP Plenary Session An EU future for the Western Balkans",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-291066",
+     "title": "EP Plenary Session An EU future for the Western Balkans",
+     "summary": "Closing statements"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-16T17:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News An EU future for the Western Balkans",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291025",
+     "title": "EP News An EU future for the Western Balkans",
+     "summary": "An EU future for the Western Balkans extracts from the debate"
     }
    ]
   },
@@ -1176,6 +1812,68 @@
      "ref": "I-290776",
      "title": "G7 Summit in Evian, France",
      "summary": "Details to follow"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T06:00:00.000Z",
+   "durationSec": 2260,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP Stockshots",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-287448",
+     "title": "EU - China relations",
+     "summary": "China is the EU's second-largest trading partner for trade in goods alone, after the United States. For the EU, ensuring reciprocity, achieving a level-playing field, and addressing asymmetries in the relationship are matters of priority. The EU remains committed to addressing these challenges through dialogue with China and underscores the importance of the WTO as the best avenue to address the root causes of the current imbalance. This infoclip shows footage of high-level meetings between political leaders from the European Union and China, including representatives of the European Parliament and the Presidents of the European Commission and the European Council. It also contains general shots of Beijing and Shanghai, along with Chinese companies such as Temu and Alibaba. In addition, it includes images of product packaging and views of the port of Antwerp."
+    },
+    {
+     "ref": "I-287099",
+     "title": "General views of Beijing (China)",
+     "summary": "This Infoclip presents general views of Beijing (China)."
+    },
+    {
+     "ref": "I-278879",
+     "title": "Online protection of minors and young people",
+     "summary": "This infoclip shows young children watching videos and playing games on mobile devices and computers, parents searching on the internet for parental control tools and creating children’s friendly profiles on viewing platforms and gaming platforms, parents checking the content their children are accessing and setting up restrictions such as screen time restrictions on devices. It is also illustrating parents attending a training on online protection of children (provided by Child focus organisation). A growing number of children are navigating digital environments not designed for them. There is therefore a discussion on whether to enhance the protection of minors online. The Internal Market and Consumer Protection Committee (IMCO) has adopted an own-initiative report with recommendations for safer digital environments for minors."
+    },
+    {
+     "ref": "I-284382",
+     "title": "Women’s Rights - Combating Disinformation and Violence in the Digital Age",
+     "summary": "Online threats, cyber violence and disinformation, including deepfakes and AI‑generated content, contribute to broader pressures on democracy by undermining trust and can silence voices, including women’s by restraining their freedom of expression. Violence targeting women in politics leads to under‑representation. The EU and the European Parliament in particular, has recognised the seriousness of such phenomena and reinforces its efforts to support women in their efforts to overcome these serious obstacles to political participation. This infoclip illustrates women and young girls browsing through social media platforms, journalists verifying information using online tools, female journalists preparing and recording or broadcasting shows for various media and female leaders and politicians acting in their official capacities in different occasions/ events."
+    },
+    {
+     "ref": "I-265818",
+     "title": "Digital Services Act (DSA), E-Commerce and Social Media",
+     "summary": "This infoclip gives an overview of tech giants such as Amazon, Meta, Google, TikTok, LinkedIn and X. In 2025 Meta announced the end of its third party fact-checking program. In 2024 the Commission opened proceedings against TikTok for not having assessed risks linked to election integrity during the recent Romanian presidential elections. The Commission also proceeded against X and preliminary findings confirmed its breach of the DSA. This infoclip shows a woman buying on Amazon, people scrolling on Social media, and offices building of TikTok (Source : Tiktok)."
+    },
+    {
+     "ref": "I-264419",
+     "title": "Protecting EU citizens from tobacco smoke and aerosol exposure",
+     "summary": "On 27 November 2024, during the plenary session in Brussels; MEPs discuss the Commission's proposal for a Council recommendation on smoke and aerosol-free environments, to replace Council Recommendation 2009/C296/02.The proposed recommendation calls on Member States to extend the coverage of smoke free environment policies to key outdoor areas, including: outdoor recreational areas for children (public playgrounds, amusement parks, swimming pools, zoos and other similar outdoor spaces); outdoor areas connected to healthcare and education premises (hospitals, health centres, schools, training centres); outdoor areas associated to a place of work; public buildings; service establishments (restaurants, bars, cafés); transport stops and stations (bus, tram, train, airports). It also recommends that Member States extend smoke-free policies to emerging products such as electronic cigarettes."
+    },
+    {
+     "ref": "I-281873",
+     "title": "General views of Tbilisi (Georgia)",
+     "summary": "This infoclip shows images of Tbilisi (capital city of Georgia). In particular we provide footage of the city centre of the Georgian capital, including views of prominent public buildings such as the Georgian Parliament, the Presidential Palace and the House of Justice."
+    },
+    {
+     "ref": "I-286506",
+     "title": "Energy challenges in the EU",
+     "summary": "Ongoing instability in Iran and the disruption of maritime traffic through the Strait of Hormuz have brought about a sharp increase in the cost of electricity and gas, as well as fuels such as petrol and diesel. This has had a direct effect on household energy bills and on European companies’ operating costs. This infoclip features illustrations of customers paying at petrol stations, highlights the rising cost of living, and shows the use of heating, gas, and electrical appliances, as well as the transport of goods and trade."
+    },
+    {
+     "ref": "I-283602",
+     "title": "Air passengers rights (extended version)",
+     "summary": "This infoclip presents different stages of air travel. It illustrates situations commonly experienced by travellers, including departures and arrivals, hand luggage, check-in procedures, security controls and aircraft operations. The footage intend to offer a broad, illustrative background to the topic of air passenger rights. The Video may not be used in any way to denigrate or damage the image of Aeroporti di Roma and the Mundys Group Companies."
+    },
+    {
+     "ref": "I-267260",
+     "title": "Maritime trade",
+     "summary": "The infoclip features the Antwerp’s commercial harbour, showing container barges transporting cars and other goods into containers. It also highlights tugboat maneuvers ships through the busy port. Aerial drone shots provide general overviews of the harbour’s scale and activity. From street-level views captured from a car, we see the trucks transporting goods into the port. The footage also highlights modern wind turbines. Shipping remains one of the most important means of trade for the Member States of the EU. Nowadays, ships carry more than half the value of goods imports to the EU and over 40 percent of goods exports from the EU. In 2021, about 1.1 trillion euros worth of goods were imported to the EU, and about 956 billion euros worth of cargo exported from the EU by sea."
     }
    ]
   },
@@ -1283,14 +1981,63 @@
      "summary": "Q&A"
     },
     {
-     "ref": "I-290756",
-     "title": "EC Midday press briefing of 17/06/2026",
-     "summary": "Recorded cutaways"
-    },
-    {
      "ref": "I-290757",
      "title": "EC Midday press briefing of 17/06/2026",
      "summary": "Exterior views of the European Commission Berlaymont building"
+    },
+    {
+     "ref": "I-290756",
+     "title": "EC Midday press briefing of 17/06/2026",
+     "summary": "Recorded cutaways"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Formal sitting with Andrzej POCZOBUT, 2025 Sakharov Prize Laureate",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291073",
+     "title": "EP Plenary Session Formal sitting with Andrzej POCZOBUT, 2025 Sakharov Prize Laureate",
+     "summary": "Address by Andrzej POCZOBUT, 2025 Sakharov Prize Laureate"
+    },
+    {
+     "ref": "I-291074",
+     "title": "EP Plenary Session Formal sitting with Andrzej POCZOBUT, 2025 Sakharov Prize Laureate",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-291075",
+     "title": "EP Plenary Session Formal sitting with Andrzej POCZOBUT, 2025 Sakharov Prize Laureate",
+     "summary": "Closing statements"
     }
    ]
   },
@@ -1308,6 +2055,23 @@
      "ref": "I-290817",
      "title": "EP Plenary Session Voting Session",
      "summary": "Voting Session POLFJÄRD - Plants obtained by certain new genomic techniques and their food and feed (ECON A10-0161/2026) KUBIN - Structure and rates of excise duty applied to tobacco and tobacco related products (recast) (ECON A10-0160/2026) KUBIN - General arrangements for excise duty applied to tobacco and tobacco related products (ECON A10-0159/2026) HADJIPANTELA - European Public Prosecutor’s Office (EPPO) and the European Anti-Fraud Office (OLAF): access to value added tax information at Union level (INTA A10-0134/2026) BRICMONT - EU-Pakistan Agreement: modification of concessions on all the tariff rate quotas included in the EU Schedule CLXXV (INTA A10-0133/2026) KARLSBRO - EU–Liberia Voluntary Partnership Agreement on forest law enforcement, governance and trade in timber products: termination (INTA A10-0146/2026) KARLSBRO - EU–Liberia Voluntary Partnership Agreement on forest law enforcement, governance and trade in timber products: termination (Resolution) (JURI A10-0157/2026) KYUCHYUK - Hague Convention (1980) on the Civil Aspects of International Child Abduction: accession of Cabo Verde (AFET A10-0150/2026 ) ORLANDO - Recommendation on promoting transnational governance on water in the interests of conflict prevention and peace (AFET A10-0140/2026) JUKNEVIČIENĖ - 2025 Commission report on Georgia"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T11:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Preparation of the European Council meeting of 18-19 June 2026",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290831",
+     "title": "EP News Preparation of the European Council meeting of 18-19 June 2026",
+     "summary": "Preparation of the European Council meeting of 18-19 June 2026 extracts from the debate"
     }
    ]
   },
@@ -1335,6 +2099,40 @@
      "ref": "I-290820",
      "title": "EP Plenary Session Protecting EU citizens’ data from hybrid threats: the Lithuanian case",
      "summary": "Closing statement"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T12:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Roberta METSOLA, EP President meets with Andrzej POCZOBUT",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290829",
+     "title": "EP News Roberta METSOLA, EP President meets with Andrzej POCZOBUT",
+     "summary": "Roberta METSOLA, EP President meets with Andrzej POCZOBUT, Belarusian journalist, 2025 Sakharov Prize laureate extracts from the formal sitting"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T12:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Protecting children’s safety and mental health from the risks posed by social media",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291070",
+     "title": "EP News Protecting children’s safety and mental health from the risks posed by social media",
+     "summary": "Protecting children’s safety and mental health from the risks posed by social media extracts from the debate"
     }
    ]
   },
