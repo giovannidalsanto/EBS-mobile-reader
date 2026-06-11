@@ -1,358 +1,6 @@
 {
- "generatedAt": "2026-06-10T22:32:38+00:00",
+ "generatedAt": "2026-06-11T08:24:41+00:00",
  "events": [
-  {
-   "start": "2026-06-10T06:45:10.000Z",
-   "durationSec": 1040,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "EP Stockshots",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-279888",
-     "title": "Social assistance for migrants (Rome, Italy)",
-     "summary": "This infoclip shows the activities at reception and orientation centre, the One-Stop Shop for Migrant Reception - SUAM, and daily life scenes of migrants at the Casal Morena Centre. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU."
-    },
-    {
-     "ref": "I-278928",
-     "title": "Asylum and migration (Malmö, Sweden)",
-     "summary": "This infoclips shows the activities at an asylum reception centre in Malmö, Sweden and a class learning Swedish at SFI Swedish For Immigrants Academy in Lund, Sweden. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU."
-    },
-    {
-     "ref": "I-279175",
-     "title": "Migration and civil society support (Calais, France)",
-     "summary": "This Infoclip shows civil society (in particular the volunteers of the Non-Governmental Organisation \"Salam\") support to refugees in Calais (France). Since the demolition of the large \"Jungle camp\" in Calais in 2016 there has been an administrative policy of \"no fixation points\" for migrants to settle in, aiming to stop another large camp from forming. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need."
-    },
-    {
-     "ref": "I-243073",
-     "title": "Migration routes - Lampedusa - Sicily (Italy)",
-     "summary": "This infoclip shows refugees arriving in the Port of Lampedusa in Sicily (Italy) and being transferred to the hotspot on the island to be registered and given food and shelter."
-    }
-   ]
-  },
-  {
-   "start": "2026-06-10T07:15:41.160Z",
-   "durationSec": 4609,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EP Press Conference Migration and asylum pact",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES"
-   ],
-   "items": [
-    {
-     "ref": "I-290512",
-     "title": "EP Press Conference Migration and asylum pact",
-     "summary": "Press conference by Tomas TOBÉ (EPP, SE), Birgit SIPPEL (S&D, DE), Jorge BUXADÉ (PfE, ES), and Fabienne KELLER (RE, FR), on migration and asylum pact (Part 1)"
-    },
-    {
-     "ref": "I-290842",
-     "title": "EP Press Conference Migration and asylum pact",
-     "summary": "Press conference by Lena DÜPONT (EPP, DE), Juan Fernando LÓPEZ AGUILAR (S&D, ES), Alessandro CIRIAN (ECR, IT) and Matjaž NEMEC (S&D, SI) on migration and asylum pact (Part 2)"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-10T08:00:10.000Z",
-   "durationSec": 245,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EC Stockshots",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-225977",
-     "title": "Fit for 55 – Revision of the EU Emissions Trading System (ETS)",
-     "summary": "This infoclip aims to illustrate the legislative proposal to review the EU Emissions Trading System (ETS). As part of the 'Fit for 55' package, the aim of the review is to align the EU ETS Directive with target set out in the European Climate Law to reduce net greenhouse gas emissions by 55 % by 2030, compared to 1990 levels. The amount of emission allowances would be reduced, fewer allowances would be allocated for free, and the ETS would be extended to maritime transport. A separate new emissions trading system would be established for fuel distribution for road transport and buildings. The footage shows the building of the European Energy Exchange in Liepzig, Germany, which houses the EU ETS, the maritime transport sector, pollution, fuel distribution for road transport and fuel for heating buildings."
-    }
-   ]
-  },
-  {
-   "start": "2026-06-10T08:30:10.000Z",
-   "durationSec": 115,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Weekly European Commission College meeting",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290328",
-     "title": "Weekly European Commission College meeting",
-     "summary": "Exterior views of the European Commission Berlaymont building"
-    },
-    {
-     "ref": "I-290329",
-     "title": "Weekly European Commission College meeting",
-     "summary": "Roundtable"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-10T09:45:00.000Z",
-   "durationSec": 913,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "Mosquito-Borne Diseases Conference in Lefkosia, Cyprus",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290997",
-     "title": "Mosquito-Borne Diseases Conference in Lefkosia, Cyprus",
-     "summary": "Welcome and presentation of the meeting objectives by Neophytos CHARALAMBIDES, Minister of Health, Republic of Cyprus Welcome from the European Centre for Disease Prevention and Control by Ole HEUER, ECDC Cutaways roundtable"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-10T10:48:44.560Z",
-   "durationSec": 2661,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU islands and coastal communities strategies",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-290332",
-     "title": "Read-out of the College meeting / press conference (with international sign language) by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU islands and coastal communities strategies",
-     "summary": "Read-out of the College meeting / press conference (with international sign language) by Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms and Costas KADIS, European Commissioner for Fisheries and Oceans"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-10T10:48:50.000Z",
-   "durationSec": 2712,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU coastal communities and islands strategies",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-291019",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU coastal communities and islands strategies",
-     "summary": "Read-out of the College meeting / press conference opening remakrs by Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms Press conference opening remarks by Costas KADIS, European Commissioner for Fisheries and Oceans Q&A Recorded cutaways"
-    },
-    {
-     "ref": "I-290330",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU coastal communities and islands strategies",
-     "summary": "Read-out of the College meeting / press conference opening remakrs by Raffaele FITTO, Executive Vice-President of the European Commission for Cohesion and Reforms"
-    },
-    {
-     "ref": "I-291002",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU coastal communities and islands strategies",
-     "summary": "Press conference opening remarks by Costas KADIS, European Commissioner for Fisheries and Oceans"
-    },
-    {
-     "ref": "I-291003",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU coastal communities and islands strategies",
-     "summary": "Q&A"
-    },
-    {
-     "ref": "I-290331",
-     "title": "Read-out of the College meeting / press conference by European Commission Executive Vice-President Raffaele FITTO and Commissioner Costas KADIS on the EU coastal communities and islands strategies",
-     "summary": "Recorded cutaways"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-10T11:40:10.000Z",
-   "durationSec": 5500,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "EP Presentation of the draft budget 2027 with Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration BUDG Committee",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "CS",
-    "HU",
-    "PL",
-    "RO"
-   ],
-   "items": [
-    {
-     "ref": "I-290517",
-     "title": "EP Presentation of the draft budget 2027 with Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration BUDG Committee",
-     "summary": "Opening statements by Johan VAN OVERTVELDT (ECR, BE), Chair of BUDG Committee, and Piotr SERAFIN, Commissioner for Budget, Anti-Fraud and Public Administration Committee on Budgets (BUDG)"
-    },
-    {
-     "ref": "I-290567",
-     "title": "EP Presentation of the draft budget 2027 with Piotr SERAFIN, European Commissioner for Budget, Anti-Fraud and Public Administration BUDG Committee",
-     "summary": "Q&A Committee on Budgets (BUDG)"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-10T12:00:32.080Z",
-   "durationSec": 273,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EU-Republic of Korea Summit",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290717",
-     "title": "EU-Republic of Korea Summit",
-     "summary": "Official welcome by António COSTA, President of the European Council, and Ursula von der LEYEN, President of the European Commission, of LEE Jae-myung, President of the Republic of Korea"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-10T13:30:10.000Z",
-   "durationSec": 87,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "EU-Republic of Korea Summit",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290895",
-     "title": "EU-Republic of Korea Summit",
-     "summary": "Roundtable Plenary session"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-10T15:05:46.120Z",
-   "durationSec": 1108,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "EU-Republic of Korea Summit",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "KO"
-   ],
-   "items": [
-    {
-     "ref": "I-290894",
-     "title": "EU-Republic of Korea Summit",
-     "summary": "Public statement by António COSTA, President of the European Council"
-    },
-    {
-     "ref": "I-291027",
-     "title": "EU-Republic of Korea Summit",
-     "summary": "Public statement by Ursula von der LEYEN, President of the European Commission"
-    },
-    {
-     "ref": "I-291028",
-     "title": "EU-Republic of Korea Summit",
-     "summary": "Public statement by LEE Jae-myung, President of the Republic of Korea"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-10T15:15:10.000Z",
-   "durationSec": 141,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Conference of Presidents (CoP)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290514",
-     "title": "EP News Conference of Presidents (CoP)",
-     "summary": "Meeting of the EP Conference of Presidents (CoP) with the participation of Mark RUTTE, Secretary-General of the North Atlantic Treaty Organisation (NATO) extracts from the arrivals and roundtable"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-10T15:45:10.000Z",
-   "durationSec": 189,
-   "channel": "EBS+",
-   "status": "EDIT_RECORDED",
-   "title": "EU-Republic of Korea Summit",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291064",
-     "title": "EU-Republic of Korea Summit",
-     "summary": "Roundtable"
-    },
-    {
-     "ref": "I-290996",
-     "title": "EU-Republic of Korea Summit",
-     "summary": "Signing of a Memorandum of Understanding on the Digital Trade Agreement witness by the leaders Signatories: Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, Interinstitutional Relations and Transparency and YEO Han Koo, Minister of Trade of the Republic of Korea"
-    }
-   ]
-  },
   {
    "start": "2026-06-11T08:30:00.000Z",
    "durationSec": 0,
@@ -420,14 +68,14 @@
      "summary": "Q&A"
     },
     {
-     "ref": "I-290322",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "Recorded cutaways"
-    },
-    {
      "ref": "I-290323",
      "title": "EC Midday press briefing of 11/06/2026",
      "summary": "Exterior views of the European Commission Berlaymont building"
+    },
+    {
+     "ref": "I-290322",
+     "title": "EC Midday press briefing of 11/06/2026",
+     "summary": "Recorded cutaways"
     }
    ]
   },
@@ -771,14 +419,14 @@
      "summary": "Q&A"
     },
     {
-     "ref": "I-290326",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "Recorded cutaways"
-    },
-    {
      "ref": "I-290327",
      "title": "EC Midday press briefing of 12/06/2026",
      "summary": "Exterior views of the European Commission Berlaymont building"
+    },
+    {
+     "ref": "I-290326",
+     "title": "EC Midday press briefing of 12/06/2026",
+     "summary": "Recorded cutaways"
     }
    ]
   },
@@ -984,14 +632,14 @@
      "summary": "Q&A"
     },
     {
-     "ref": "I-290752",
-     "title": "EC Midday press briefing of 15/06/2026",
-     "summary": "Recorded cutaways"
-    },
-    {
      "ref": "I-290753",
      "title": "EC Midday press briefing of 15/06/2026",
      "summary": "Exterior views of the European Commission Berlaymont building"
+    },
+    {
+     "ref": "I-290752",
+     "title": "EC Midday press briefing of 15/06/2026",
+     "summary": "Recorded cutaways"
     }
    ]
   },
@@ -1106,14 +754,19 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
-   "title": "EP News Editing shots",
+   "title": "EP News Editing shots EU-US trade deal",
    "languages": [
     "INT"
    ],
    "items": [
     {
+     "ref": "I-291023",
+     "title": "EP News Editing shots EU-US trade deal",
+     "summary": "EU-US trade deal extracts from the debate"
+    },
+    {
      "ref": "I-290985",
-     "title": "EP News EP Plenary editing shots",
+     "title": "EP News Editing shots EU-US trade deal",
      "summary": "EP Plenary session (15/06-18/06) editing shots"
     }
    ]
@@ -1381,6 +1034,23 @@
    ]
   },
   {
+   "start": "2026-06-16T13:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291024",
+     "title": "EP News Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
+     "summary": "Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland extracts from the debate"
+    }
+   ]
+  },
+  {
    "start": "2026-06-16T14:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -1423,6 +1093,23 @@
      "ref": "I-290926",
      "title": "General Affairs Council",
      "summary": "Press conference by the Cypriot Presidency and the European Commission"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-16T17:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News An EU future for the Western Balkans",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291025",
+     "title": "EP News An EU future for the Western Balkans",
+     "summary": "An EU future for the Western Balkans extracts from the debate"
     }
    ]
   },
@@ -1472,6 +1159,263 @@
      "ref": "I-290854",
      "title": "EP Plenary Session Debate",
      "summary": "Closing statements"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T02:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "G7 Summit in Evian, France",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290776",
+     "title": "G7 Summit in Evian, France",
+     "summary": "Details to follow"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Preparation of the European Council meeting of 18-19 June 2026",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290814",
+     "title": "EP Plenary Session Preparation of the European Council meeting of 18-19 June 2026",
+     "summary": "Opening statement"
+    },
+    {
+     "ref": "I-290815",
+     "title": "EP Plenary Session Preparation of the European Council meeting of 18-19 June 2026",
+     "summary": "MEPs debate part 1"
+    },
+    {
+     "ref": "I-290816",
+     "title": "EP Plenary Session Preparation of the European Council meeting of 18-19 June 2026",
+     "summary": "MEPs debate part 2"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Future of EU-China economic relations",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291030",
+     "title": "EP Plenary Session Future of EU-China economic relations",
+     "summary": "Opening statement"
+    },
+    {
+     "ref": "I-291031",
+     "title": "EP Plenary Session Future of EU-China economic relations",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-291033",
+     "title": "EP Plenary Session Future of EU-China economic relations",
+     "summary": "Closing statement"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T09:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media – our duty to act now",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291034",
+     "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media – our duty to act now",
+     "summary": "Opening statement"
+    },
+    {
+     "ref": "I-291036",
+     "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media – our duty to act now",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-291038",
+     "title": "EP Plenary Session Protecting children’s safety and mental health from the risks posed by social media – our duty to act now",
+     "summary": "Closing statement"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 17/06/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-290754",
+     "title": "EC Midday press briefing of 17/06/2026",
+     "summary": "Announcements"
+    },
+    {
+     "ref": "I-290755",
+     "title": "EC Midday press briefing of 17/06/2026",
+     "summary": "Q&A"
+    },
+    {
+     "ref": "I-290756",
+     "title": "EC Midday press briefing of 17/06/2026",
+     "summary": "Recorded cutaways"
+    },
+    {
+     "ref": "I-290757",
+     "title": "EC Midday press briefing of 17/06/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T10:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Voting Session",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290817",
+     "title": "EP Plenary Session Voting Session",
+     "summary": "Voting Session POLFJÄRD - Plants obtained by certain new genomic techniques and their food and feed (ECON A10-0161/2026) KUBIN - Structure and rates of excise duty applied to tobacco and tobacco related products (recast) (ECON A10-0160/2026) KUBIN - General arrangements for excise duty applied to tobacco and tobacco related products (ECON A10-0159/2026) HADJIPANTELA - European Public Prosecutor’s Office (EPPO) and the European Anti-Fraud Office (OLAF): access to value added tax information at Union level (INTA A10-0134/2026) BRICMONT - EU-Pakistan Agreement: modification of concessions on all the tariff rate quotas included in the EU Schedule CLXXV (INTA A10-0133/2026) KARLSBRO - EU–Liberia Voluntary Partnership Agreement on forest law enforcement, governance and trade in timber products: termination (INTA A10-0146/2026) KARLSBRO - EU–Liberia Voluntary Partnership Agreement on forest law enforcement, governance and trade in timber products: termination (Resolution) (JURI A10-0157/2026) KYUCHYUK - Hague Convention (1980) on the Civil Aspects of International Child Abduction: accession of Cabo Verde (AFET A10-0150/2026 ) ORLANDO - Recommendation on promoting transnational governance on water in the interests of conflict prevention and peace (AFET A10-0140/2026) JUKNEVIČIENĖ - 2025 Commission report on Georgia"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T11:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Protecting EU citizens’ data from hybrid threats: the Lithuanian case",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290818",
+     "title": "EP Plenary Session Protecting EU citizens’ data from hybrid threats: the Lithuanian case",
+     "summary": "Opening statement"
+    },
+    {
+     "ref": "I-290819",
+     "title": "EP Plenary Session Protecting EU citizens’ data from hybrid threats: the Lithuanian case",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-290820",
+     "title": "EP Plenary Session Protecting EU citizens’ data from hybrid threats: the Lithuanian case",
+     "summary": "Closing statement"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Electrification Action Plan",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291045",
+     "title": "EP Plenary Session Electrification Action Plan",
+     "summary": "Opening statement"
+    },
+    {
+     "ref": "I-291046",
+     "title": "EP Plenary Session Electrification Action Plan",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-291047",
+     "title": "EP Plenary Session Electrification Action Plan",
+     "summary": "Closing statement"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods amid ongoing geopolitical instability",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291048",
+     "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods amid ongoing geopolitical instability",
+     "summary": "Opening statement"
+    },
+    {
+     "ref": "I-291049",
+     "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods amid ongoing geopolitical instability",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-291050",
+     "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods amid ongoing geopolitical instability",
+     "summary": "Closing statement"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T16:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290971",
+     "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
+     "summary": "Political prisoners in Nicaragua – the cases of Carlos BRENES, Salvadora DEL SOCORRO MARTINEZ ABURTO and Brooklyn RIVERA"
+    },
+    {
+     "ref": "I-290972",
+     "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
+     "summary": "Deteriorating situation of political prisoners in Belarus, in particular the case of Aliaksandra PULINOVICH"
+    },
+    {
+     "ref": "I-290973",
+     "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
+     "summary": "Continued crackdown on civic space and fundamental freedoms in Burkina Faso"
     }
    ]
   }
