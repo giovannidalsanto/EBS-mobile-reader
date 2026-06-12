@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-12T14:15:07+00:00",
+ "generatedAt": "2026-06-12T14:22:24+00:00",
  "events": [
   {
    "ep": false,
@@ -518,7 +518,7 @@
   {
    "ep": false,
    "start": "2026-06-12T13:58:43.960Z",
-   "durationSec": 0,
+   "durationSec": 1000,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Economic and Financial Affairs Council",
@@ -532,6 +532,12 @@
     "EL"
    ],
    "items": [
+    {
+     "ref": "I-291196",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Press conference opening remarks by Makis KERAVNOS, Minister of Finance of Cyprus Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity; Implementation and Simplification Press conference Q&A with Makis KERAVNOS, Minister of Finance of Cyprus, and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity; Implementation and Simplification",
+     "inst": "Council"
+    },
     {
      "ref": "I-290381",
      "title": "Economic and Financial Affairs Council",
@@ -548,6 +554,31 @@
      "ref": "I-291185",
      "title": "Economic and Financial Affairs Council",
      "summary": "Press conference Q&A with Makis KERAVNOS, Minister of Finance of Cyprus, and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity; Implementation and Simplification",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-12T14:25:00.000Z",
+   "durationSec": 804,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "Economic and Financial Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291172",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Doorstep by Joaquim MIRANDA SARMENTO, Minister of State and Finance of Portugal",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291190",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Exit doorstep Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth",
      "inst": "Council"
     }
    ]
@@ -609,37 +640,6 @@
   },
   {
    "ep": false,
-   "start": "2026-06-12T14:30:00.000Z",
-   "durationSec": 804,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291172",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Doorstep by Joaquim MIRANDA SARMENTO, Minister of State and Finance of Portugal",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291190",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Exit doorstep Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291191",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Exit doorstep (details to follow)",
-     "inst": "Council"
-    }
-   ]
-  },
-  {
-   "ep": false,
    "start": "2026-06-12T15:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -655,6 +655,25 @@
      "title": "“Paris Call for the Two-State Solution, Peace and Regional Security” Forum",
      "summary": "Panel discussion “How to articulate the implementation of the two-State solution of the Peace Plan for Gaza?” with the participation of Dubravka ŠUICA, European Commissioner for the Mediterranean",
      "inst": "EC"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-12T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "Economic and Financial Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291191",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Exit doorstep (details to follow)",
+     "inst": "Council"
     }
    ]
   },
