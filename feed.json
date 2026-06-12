@@ -1,367 +1,9 @@
 {
- "generatedAt": "2026-06-11T21:29:13+00:00",
+ "generatedAt": "2026-06-12T09:57:44+00:00",
  "events": [
   {
-   "start": "2026-06-11T08:31:08.000Z",
-   "durationSec": 73,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Norway Jonas GAHR STØRE",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290700",
-     "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Norway Jonas GAHR STØRE",
-     "summary": "Welcome"
-    },
-    {
-     "ref": "I-290701",
-     "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Norway Jonas GAHR STØRE",
-     "summary": "Exterior views of the European Commission with the flag of Norway"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T09:00:10.000Z",
-   "durationSec": 542,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "Court of Justice of the European Union",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290614",
-     "title": "Court of Justice of the European Union",
-     "summary": "Opinion of Advocate General in joined cases C-706/25 Comeri and C-707/25 Sidilli regarding the Italy-Albania Protocol for the management of migration flows read by Laila MEDINA, Advocate General at the Court of Justice of the EU"
-    },
-    {
-     "ref": "I-290615",
-     "title": "Court of Justice of the European Union",
-     "summary": "Opinion of Advocate General in cases C-631/24 P Commission v Auken and others and C-632/24 P Commission v Courtois and others regarding and appeal against a General Court ruling regarding the access to the purchase agreements for Covid-19 vaccines read by Laila MEDINA, Advocate General at the Court of Justice of the EU"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T10:15:10.000Z",
-   "durationSec": 57,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Council President António COSTA receives the Prime Minister of Norway Jonas Gahr STØRE",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291005",
-     "title": "European Council President António COSTA receives the Prime Minister of Norway Jonas Gahr STØRE",
-     "summary": "Welcome and roundtable"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T10:23:48.600Z",
-   "durationSec": 2393,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 11/06/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-291099",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "ANNOUNCEMENT - Today’s Council ANNOUNCEMENT - Group of visitors TRADE - China: Q&A FOREIGN AFFAIRS - Mikhaïl Loshchinin case: Q&A INTERNAL MARKET / FOREIGN AFFAIRS - Export of Irish alumina to Russia / EU sanctions against Russia: question WAR IN UKRAINE - Peace negotiations: Q&A INTERNAL MARKET / FOREIGN AFFAIRS - Export of Irish alumina to Russia / EU sanctions against Russia: answer INTERNATIONAL PARTNERSHIPS - Visit of Norwegian Prime Minister Jonas Gahr Støre to the EC: Q&A ENLARGEMENT - EU visa policy / Serbia / Russia: Q&A ENLARGEMENT - Ukraine facility / €90 billion Ukraine Support Loan use: Q&A FOREIGN AFFAIRS - West Bank / Israel: Q&A WAR IN UKRAINE - Peace negotiations: Q&A INTERNAL AFFAIRS - Georgia / Visa policy: Q&A CLIMATE ACTION - Outcome of the College orientation debate on Emissions Trading System (ETS) review: Q&A DEFENCE - €90 billion Ukraine Support Loan use / Missiles: Q&A WAR IN UKRAINE - EU Sanctions against Russia: Q&A MIGRATION - Implementation of the Pact on Migration and Asylum: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways"
-    },
-    {
-     "ref": "I-290320",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "ANNOUNCEMENT - Today’s Council"
-    },
-    {
-     "ref": "I-290321",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "ANNOUNCEMENT - Group of visitors"
-    },
-    {
-     "ref": "I-291080",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "TRADE - China: Q&A"
-    },
-    {
-     "ref": "I-291081",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "FOREIGN AFFAIRS - Mikhaïl Loshchinin case: Q&A"
-    },
-    {
-     "ref": "I-291082",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "INTERNAL MARKET / FOREIGN AFFAIRS - Export of Irish alumina to Russia / EU sanctions against Russia: question"
-    },
-    {
-     "ref": "I-291084",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "WAR IN UKRAINE - Peace negotiations: Q&A"
-    },
-    {
-     "ref": "I-291085",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "INTERNAL MARKET / FOREIGN AFFAIRS - Export of Irish alumina to Russia / EU sanctions against Russia: answer"
-    },
-    {
-     "ref": "I-291086",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "INTERNATIONAL PARTNERSHIPS - Visit of Norwegian Prime Minister Jonas Gahr Støre to the EC: Q&A"
-    },
-    {
-     "ref": "I-291087",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "ENLARGEMENT - EU visa policy / Serbia / Russia: Q&A"
-    },
-    {
-     "ref": "I-291088",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "ENLARGEMENT - Ukraine facility / €90 billion Ukraine Support Loan use: Q&A"
-    },
-    {
-     "ref": "I-291089",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "FOREIGN AFFAIRS - West Bank / Israel: Q&A"
-    },
-    {
-     "ref": "I-291090",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "WAR IN UKRAINE - Peace negotiations: Q&A"
-    },
-    {
-     "ref": "I-291093",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "INTERNAL AFFAIRS - Georgia / Visa policy: Q&A"
-    },
-    {
-     "ref": "I-291094",
-     "title": "EC Midday press briefing of 11/06/2026",
-     "summary": "CLIMATE ACTION - Outcome of the College orientation debate on Emissions Trading System (ETS) review: Q&A"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T11:50:10.000Z",
-   "durationSec": 795,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "ESM Board of Governors Meeting",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290713",
-     "title": "ESM Board of Governors Meeting",
-     "summary": "Joint doorsteps by Kyriakos PIERRAKAKIS, President of the Eurogroup and Pierre GRAMEGNA, Managing Director of the European Stability Mechanism (ESM)"
-    },
-    {
-     "ref": "I-291091",
-     "title": "ESM Board of Governors Meeting",
-     "summary": "Exteriors of the ESM premises"
-    },
-    {
-     "ref": "I-291092",
-     "title": "ESM Board of Governors Meeting",
-     "summary": "Roundtable"
-    },
-    {
-     "ref": "I-291102",
-     "title": "ESM Board of Governors Meeting",
-     "summary": "Arrivals"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T12:21:20.240Z",
-   "durationSec": 3358,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Eurogroup meeting",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290377",
-     "title": "Eurogroup meeting",
-     "summary": "Doorstep by Riikka PURRA, Minister of Finance of Finland"
-    },
-    {
-     "ref": "I-291103",
-     "title": "Eurogroup meeting",
-     "summary": "Doorstep by Kyriakos PIERRAKAKIS, President of the Eurogroup"
-    },
-    {
-     "ref": "I-291104",
-     "title": "Eurogroup meeting",
-     "summary": "Doorstep by Joaquim MIRANDA SARMENTO, Minister of State and Finance of Portugal"
-    },
-    {
-     "ref": "I-291105",
-     "title": "Eurogroup meeting",
-     "summary": "Doorstep by Lars KLINGBEIL, Federal Minister of Finance of Germany"
-    },
-    {
-     "ref": "I-291106",
-     "title": "Eurogroup meeting",
-     "summary": "Doorstep by Simon HARRIS, Tánaiste and Minister for Finance of Ireland"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T12:47:30.080Z",
-   "durationSec": 3006,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Press conference following the Governing Council meeting of the ECB in Frankfurt am Main, Germany",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-283989",
-     "title": "Press conference following the Governing Council meeting of the ECB in Frankfurt am Main, Germany",
-     "summary": "Press conference by Christine LAGARDE, President of the European Central Bank (ECB)"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T14:10:13.960Z",
-   "durationSec": 1417,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Cypriot Presidency press point on the MFF",
-   "languages": [
-    "INT",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-291063",
-     "title": "Cypriot Presidency press point on the MFF",
-     "summary": "Press point by Marilena RAOUNA, Deputy Minister for European Affairs of Cyprus"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T14:40:10.000Z",
-   "durationSec": 663,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "Eurogroup meeting",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290372",
-     "title": "Eurogroup meeting",
-     "summary": "Exterior of the European Convention Center Luxembourg"
-    },
-    {
-     "ref": "I-290373",
-     "title": "Eurogroup meeting",
-     "summary": "Compilation of all arivals"
-    },
-    {
-     "ref": "I-290374",
-     "title": "Eurogroup meeting",
-     "summary": "Roundtable"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T16:35:22.320Z",
-   "durationSec": 1225,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "IMF Press Briefing: 2026 Euro Area Article IV Consultation",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290375",
-     "title": "IMF Press Briefing: 2026 Euro Area Article IV Consultation",
-     "summary": "Press briefing by Kristalina GEORGIEVA, Managing Director of the International Monetary Fund (IMF) and Oya CELASUN, Deputy Director of the European Department of the International Monetary Fund (IMF)"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T16:57:10.000Z",
-   "durationSec": 150,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "Eurogroup meeting",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291111",
-     "title": "Eurogroup meeting",
-     "summary": "Roundtable Inclusive format"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-11T17:13:26.480Z",
-   "durationSec": 1557,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Eurogroup meeting",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL"
-   ],
-   "items": [
-    {
-     "ref": "I-291139",
-     "title": "Eurogroup meeting",
-     "summary": "Press conference opening remarks by Kyriakos PIERRAKAKIS, President of the Eurogroup Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity Press conference opening remarks by Pierre GRAMEGNA, Managing Director of the European Stability Mechanism Q&A"
-    },
-    {
-     "ref": "I-290376",
-     "title": "Eurogroup meeting",
-     "summary": "Press conference opening remarks by Kyriakos PIERRAKAKIS, President of the Eurogroup"
-    },
-    {
-     "ref": "I-291129",
-     "title": "Eurogroup meeting",
-     "summary": "Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity"
-    },
-    {
-     "ref": "I-291132",
-     "title": "Eurogroup meeting",
-     "summary": "Press conference opening remarks by Pierre GRAMEGNA, Managing Director of the European Stability Mechanism"
-    },
-    {
-     "ref": "I-291138",
-     "title": "Eurogroup meeting",
-     "summary": "Q&A"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-12T05:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-12T06:14:24.800Z",
+   "durationSec": 2061,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
@@ -372,13 +14,45 @@
     {
      "ref": "I-290703",
      "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Arrivals, welcome and doorsteps"
+     "summary": "Arrivals and doorstep by Nicholas A. IOANNIDES, Deputy Minister for Migration and International Protection of Cyprus"
+    },
+    {
+     "ref": "I-291140",
+     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
+     "summary": "Doorstep Magnus BRUNNER, European Commissioner for Internal Affairs and Migration"
+    },
+    {
+     "ref": "I-291149",
+     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
+     "summary": "Doorstep Athanasios PLEVRIS, Minister of Migration and Asylum of Greece"
     }
    ]
   },
   {
-   "start": "2026-06-12T07:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-12T06:30:10.000Z",
+   "durationSec": 151,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "Economic and Financial Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291142",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Doorstep András KÁRMÁN, Minister of Finance of Hungary"
+    },
+    {
+     "ref": "I-291143",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Doorstep Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-12T06:55:44.400Z",
+   "durationSec": 746,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
@@ -396,8 +70,25 @@
    ]
   },
   {
-   "start": "2026-06-12T07:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-12T07:30:10.000Z",
+   "durationSec": 83,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291154",
+     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
+     "summary": "Doorstep Francisco Javier ZARZALEJOS NIETO, MEP, Chair of the European Parliament's Committee on Civil Liberties (LIBE)"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-12T08:24:25.960Z",
+   "durationSec": 621,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "Economic and Financial Affairs Council",
@@ -408,13 +99,18 @@
     {
      "ref": "I-290337",
      "title": "Economic and Financial Affairs Council",
-     "summary": "Arrivals and doorsteps"
+     "summary": "Doorstep by Makis KERAVNOS, Minister of Finance of Cyprus"
+    },
+    {
+     "ref": "I-291144",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Doorstep by Nadia CALVIÑO, President of the European Investment Bank (EIB)"
     }
    ]
   },
   {
-   "start": "2026-06-12T08:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-12T08:30:10.000Z",
+   "durationSec": 451,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
@@ -426,44 +122,17 @@
      "ref": "I-290706",
      "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
      "summary": "Compilation of all arrivals and welcome"
+    },
+    {
+     "ref": "I-291153",
+     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
+     "summary": "Cypriot Presidency video-clip \"Pact on Migration and Asylum enters into application\""
     }
    ]
   },
   {
-   "start": "2026-06-12T08:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290378",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Exterior of the European Convention Center Luxembourg"
-    },
-    {
-     "ref": "I-290379",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Compilation of all arivals"
-    },
-    {
-     "ref": "I-290380",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "EIB Board of Governors roundtable"
-    },
-    {
-     "ref": "I-291004",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Roundtable"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-12T09:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-12T09:03:38.080Z",
+   "durationSec": 2940,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EP Pre-session briefing",
@@ -481,7 +150,7 @@
    ]
   },
   {
-   "start": "2026-06-12T09:00:00.000Z",
+   "start": "2026-06-12T09:09:13.080Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -498,8 +167,8 @@
    ]
   },
   {
-   "start": "2026-06-12T09:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-12T09:55:00.000Z",
+   "durationSec": 233,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
@@ -532,7 +201,7 @@
      "summary": "Announcements"
     },
     {
-     "ref": "I-290325",
+     "ref": "I-291161",
      "title": "EC Midday press briefing of 12/06/2026",
      "summary": "Q&A"
     },
@@ -563,7 +232,71 @@
     {
      "ref": "I-290707",
      "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Press conference by the Cypriot Presidency and the European Commission"
+     "summary": "Press conference by Nicholas IOANNIDES, Deputy Minister of Migration and International Protection Protection of Cyprus and Magnus BRUNNER, European Commissioner for Internal Affairs and Migration"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-12T10:45:00.000Z",
+   "durationSec": 894,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "Economic and Financial Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290378",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Exterior of the European Convention Center Luxembourg"
+    },
+    {
+     "ref": "I-290379",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Compilation of all arivals"
+    },
+    {
+     "ref": "I-290380",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "EIB Board of Governors roundtable"
+    },
+    {
+     "ref": "I-291174",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "EIB Board of Governors group photo"
+    },
+    {
+     "ref": "I-291004",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Roundtable"
+    },
+    {
+     "ref": "I-291157",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Doorstep by Simon HARRIS, Tánaiste and Minister for Finance of Ireland"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-12T11:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE_RECORDED",
+   "title": "Economic and Financial Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291171",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Doorstep by Roland LESCURE, Minister of Economy, Finance, Industrial and Energy Sovereignty of France"
+    },
+    {
+     "ref": "I-291172",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Doorstep by Joaquim MIRANDA SARMENTO, Minister of State and Finance of Portugal"
     }
    ]
   },
@@ -599,21 +332,44 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "High Representative / Vice-President Kaja KALLAS in Paris, France for the “The Paris Call for the Two-States Solution” Conference",
+   "title": "High Representative / Vice-President Kaja KALLAS in Paris, France for the “Paris Call for the Two-State Solution, Peace and Regional Security” Forum",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-291101",
-     "title": "High Representative / Vice-President Kaja KALLAS in Paris, France for the “The Paris Call for the Two-States Solution” Conference",
+     "title": "High Representative / Vice-President Kaja KALLAS in Paris, France for the “Paris Call for the Two-State Solution, Peace and Regional Security” Forum",
      "summary": "Speech by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission"
     }
    ]
   },
   {
+   "start": "2026-06-12T13:20:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Economic and Financial Affairs Council",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL"
+   ],
+   "items": [
+    {
+     "ref": "I-290381",
+     "title": "Economic and Financial Affairs Council",
+     "summary": "Press conference by Makis KERAVNOS, Minister of Finance of Cyprus, and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity; Implementation and Simplification"
+    }
+   ]
+  },
+  {
    "start": "2026-06-12T14:00:00.000Z",
-   "durationSec": 217,
+   "durationSec": 1016,
    "channel": "EBS",
    "status": "EDIT",
    "title": "EP News Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia)",
@@ -650,29 +406,6 @@
      "ref": "I-290455",
      "title": "EP News Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia)",
      "summary": "Infoclip: General views of Bratislava (Slovakia)"
-    }
-   ]
-  },
-  {
-   "start": "2026-06-12T15:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL"
-   ],
-   "items": [
-    {
-     "ref": "I-290381",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Press conference by the Cypriot Presidency and the European Commission"
     }
    ]
   },
@@ -1399,7 +1132,24 @@
    ]
   },
   {
-   "start": "2026-06-16T09:40:00.000Z",
+   "start": "2026-06-16T09:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "Court of Justice of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291152",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in joined cases C-188/24 WebGroup Czech Republic and NKL Associates et C-190/24 Coyote System regarding electronic commerce directive and restriction of access to pornographic sites for minors + limitation of geolocation-based driving assistance"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-16T10:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "RECORDED",
@@ -1959,6 +1709,28 @@
    ]
   },
   {
+   "start": "2026-06-16T22:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291145",
+     "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
+     "summary": "Driving a Just, Competitive and Ecological Transition towards a Circular and Climate Neutral Economy with Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition linked to NAT/986 - Circular Economy Act - Circular economy and responsible resource consumption within planetary boundaries"
+    },
+    {
+     "ref": "I-291146",
+     "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
+     "summary": "Building resilience in Europe's Eastern border regions with Sviatlana TSIKHANOUSKAYA, leader of the democratic forces of Belarus; Neringa RINKEVIČIŪTĖ-LAURINAITIENĖ, Vice-minister of Finance of the Republic of Lithuania, and Hugo SOBRAL, European Commission's Deputy Director-General for Regional and Urban Policy linked to ECO/697 - Strategy to support the eastern border regions to address their specific challenges and support them in the reorientation of their local economy"
+    }
+   ]
+  },
+  {
    "start": "2026-06-17T02:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -2357,6 +2129,297 @@
      "ref": "I-290973",
      "title": "EP Plenary Session Debates on cases of breaches of human rights, democracy and the rule of law",
      "summary": "Continued crackdown on civic space and fundamental freedoms in Burkina Faso"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T22:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "Court of Justice of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291155",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-232/25 Idziski regarding an alleging infringement of a natural and legal person of their personality rights resulting from their broadcasting of a series on television and its dissemination on the internet"
+    },
+    {
+     "ref": "I-291156",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-658/24 Penny Market regarding a national regulation requiring certain food distributors to reduce prices for certain foods, for a specified period and to maintain a certain quantity in stock"
+    },
+    {
+     "ref": "I-291158",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-522/24 Ministero della Difesa (Obligation vaccinale des militaires) regarding vaccination requirements imposed on military personal because of COVID-19 pandemic"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-17T22:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291147",
+     "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
+     "summary": "EESC Resolution on the Committee’s contribution to the European Commission’s 2027 Work Programme Rapporteurs: Marcin Nowacki (PL-I), Carlos Manuel Trindade (PT-II), Corina Andrea Murafa Benga (RO-III)"
+    },
+    {
+     "ref": "I-291148",
+     "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
+     "summary": "From the EU Blue Deal and Water Resilience to Global Water Action with Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy; Hildegard BENTELE, Member of the European Parliament, Vice-Chair of the Committee on Development (DEVE) and Chair of the MEP Water Group (remotely); and Pedro ARROJO AGUDO, UN Special Rapporteur on the human rights to safe drinking water and sanitation (remotely) linked to CCMI/254 - EESC Contribution to the UN Water Conference 2026: from the EU Blue Deal and Water Resilience Strategy to global water action and CCMI/261 - Blue Deal Accelerator Future"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-18T06:30:00.000Z",
+   "durationSec": 850,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EP Stockshots",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-276199",
+     "title": "Circularity of the design and end-of-life of vehicles",
+     "summary": "This Infoclip shows views of trafic and cars, a car factory, tests of a car prototype, a vehicle ricycling center, a collecting center and supplying of recycled car parts. The European Parliament discusses new rules covering the entire vehicle lifecycle, from design to end-of-life. This Infoclip show various steps of the car lifecycle, from manufactoring to recycling. In 2023, the Commission proposed a new regulation on circularity requirements for vehicle design and improved management of end-of-life vehicles, in line with the European Green Deal. According to the new regulation, new cars’ components should be easily replaced, reused, recycled, remanufactured, or refurbished. Besides, 20% of new vehicles’ plastic parts should consist in recycled material, in order to reduce waste. There are 285.6 million motor vehicles on EU roads and every year around 6.5 million vehicles come to the end of their lives."
+    },
+    {
+     "ref": "I-268131",
+     "title": "European Automotive Industry's competitiveness (extended version)",
+     "summary": "This infoclip illustrates the automotive industry from different angles, such as car shipping; manufacturing, car dealers, electric vehicles charging, and a car repair garage. The clip shows the automotive port of Antwerp-Bruges, the Audi factory in Brussels and a car dealer in Brussels city center. In spring 2024, the German manufacturer announced the restructuring of its Brussels plant, provoking protest among employees and trade unions. The European automotive sector is experiencing a crisis sparked by the transition to low carbon technologies, the degradation of supply chains, increased competition from Asia, and decreased demand for electric models."
+    },
+    {
+     "ref": "I-157003",
+     "title": "Wastewater treatment",
+     "summary": "This infoclip illustrates the water way, from waste water coming from dishes, getting into sewers and water treatment by the Brussels North Aquiris water treatment plant. And its return to the cycle of rivers and streams."
+    }
+   ]
+  },
+  {
+   "start": "2026-06-18T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290952",
+     "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
+     "summary": "Opening statement"
+    },
+    {
+     "ref": "I-290953",
+     "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-290954",
+     "title": "EP Plenary Circularity requirements for vehicle design and management of end-of-life vehicles",
+     "summary": "Closing statement"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-18T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Joint Declaration on ‘Culture for Europe - Europe for Culture’",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291051",
+     "title": "EP Plenary Session Joint Declaration on ‘Culture for Europe - Europe for Culture’",
+     "summary": "Opening statement"
+    },
+    {
+     "ref": "I-291052",
+     "title": "EP Plenary Session Joint Declaration on ‘Culture for Europe - Europe for Culture’",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-291057",
+     "title": "EP Plenary Session Joint Declaration on ‘Culture for Europe - Europe for Culture’",
+     "summary": "Closing statement"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-18T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 18/06/2026",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-290758",
+     "title": "EC Midday press briefing of 18/06/2026",
+     "summary": "Announcements"
+    },
+    {
+     "ref": "I-290759",
+     "title": "EC Midday press briefing of 18/06/2026",
+     "summary": "Q&A"
+    },
+    {
+     "ref": "I-290761",
+     "title": "EC Midday press briefing of 18/06/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building"
+    },
+    {
+     "ref": "I-290760",
+     "title": "EC Midday press briefing of 18/06/2026",
+     "summary": "Recorded cutaways"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-18T10:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Voting Session",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290826",
+     "title": "EP Plenary Session Voting Session",
+     "summary": "Voting Session Motions for resolutions - Implementation of the Urban Wastewater Treatment Directive (UWWTD) and risks to the security of supply of medicines Motions for resolutions - Political repression and humanitarian situation in Cuba Motions for resolutions - Recruitment of children by organised crime Motions for resolutions – Russia’s unacceptable provocative actions and drone incursions into Romania, the Baltic states and Finland Objection pursuant to Rule 115(2) and (3): financing of the annual action plan in favour of the United Republic of Tanzania for 2026"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-18T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session International Day of Play: promoting children’s right to play",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291058",
+     "title": "EP Plenary Session International Day of Play: promoting children’s right to play",
+     "summary": "Opening statement"
+    },
+    {
+     "ref": "I-291059",
+     "title": "EP Plenary Session International Day of Play: promoting children’s right to play",
+     "summary": "MEPs debate"
+    },
+    {
+     "ref": "I-291060",
+     "title": "EP Plenary Session International Day of Play: promoting children’s right to play",
+     "summary": "Closing statement"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-18T14:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Leaders meet ahead of the European Council meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290821",
+     "title": "EP News Leaders meet ahead of the European Council meeting",
+     "summary": "EPP leaders meet ahead of the European Council meeting: arrivals and doorsteps"
+    },
+    {
+     "ref": "I-290822",
+     "title": "EP News Leaders meet ahead of the European Council meeting",
+     "summary": "PES leaders meet ahead of the European Council meeting: arrivals and doorsteps"
+    },
+    {
+     "ref": "I-290823",
+     "title": "EP News Leaders meet ahead of the European Council meeting",
+     "summary": "Renew Europe leaders meet ahead of the European Council meeting: arrivals and doorsteps"
+    },
+    {
+     "ref": "I-290824",
+     "title": "EP News Leaders meet ahead of the European Council meeting",
+     "summary": "PfE leaders meet ahead of the European Council meeting: arrivals and doorsteps"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-18T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council (Main feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290785",
+     "title": "European Council (Main feed)",
+     "summary": "Arrivals and doorsteps"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-18T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Council (Second feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290951",
+     "title": "European Council (Second feed)",
+     "summary": "Arrivals and doorsteps"
+    }
+   ]
+  },
+  {
+   "start": "2026-06-18T16:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council (Main feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290950",
+     "title": "European Council (Main feed)",
+     "summary": "Roundtable"
     }
    ]
   }
