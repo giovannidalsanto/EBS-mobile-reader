@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-12T14:22:24+00:00",
+ "generatedAt": "2026-06-12T21:10:45+00:00",
  "events": [
   {
    "ep": false,
@@ -585,8 +585,8 @@
   },
   {
    "ep": true,
-   "start": "2026-06-12T14:30:00.000Z",
-   "durationSec": 1445,
+   "start": "2026-06-12T14:30:10.000Z",
+   "durationSec": 1675,
    "channel": "EBS",
    "status": "EDIT",
    "title": "EP News Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia)",
@@ -640,8 +640,8 @@
   },
   {
    "ep": false,
-   "start": "2026-06-12T15:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-12T15:10:10.000Z",
+   "durationSec": 1894,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "“Paris Call for the Two-State Solution, Peace and Regional Security” Forum",
@@ -655,25 +655,6 @@
      "title": "“Paris Call for the Two-State Solution, Peace and Regional Security” Forum",
      "summary": "Panel discussion “How to articulate the implementation of the two-State solution of the Peace Plan for Gaza?” with the participation of Dubravka ŠUICA, European Commissioner for the Mediterranean",
      "inst": "EC"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T15:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291191",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Exit doorstep (details to follow)",
-     "inst": "Council"
     }
    ]
   },
@@ -749,7 +730,7 @@
    "start": "2026-06-15T04:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "LIVE",
+   "status": "",
    "title": "G7 Summit in Evian, France",
    "languages": [
     "INT"
@@ -877,6 +858,25 @@
    ]
   },
   {
+   "ep": false,
+   "start": "2026-06-15T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EU-Egypt Association Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291112",
+     "title": "EU-Egypt Association Council",
+     "summary": "Joint doorstep by Kaja KALLAS, EU High Representative for Foreign Affairs and Security Policy, and Badr ABDELATTY, Minister of Foreign Affairs, Emigration and Egyptian Expatriates of Egypt",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
    "ep": true,
    "start": "2026-06-15T13:50:00.000Z",
    "durationSec": 1693,
@@ -967,6 +967,25 @@
      "title": "EP Plenary Session Last minute press briefing",
      "summary": "Last minute press briefing",
      "inst": "EP"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T14:55:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Accession Conference with Montenegro",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291126",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Roundtable",
+     "inst": "Council"
     }
    ]
   },
@@ -1141,6 +1160,25 @@
    ]
   },
   {
+   "ep": false,
+   "start": "2026-06-15T17:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Accession Conference with Ukraine",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291114",
+     "title": "Accession Conference with Ukraine",
+     "summary": "Press conference",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
    "ep": true,
    "start": "2026-06-15T18:00:00.000Z",
    "durationSec": 0,
@@ -1190,6 +1228,25 @@
      "title": "EP Plenary Session Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
      "summary": "Closing statements",
      "inst": "EP"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T19:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Accession Conference with Moldova",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291115",
+     "title": "Accession Conference with Moldova",
+     "summary": "Press conference",
+     "inst": "Council"
     }
    ]
   },
@@ -1942,31 +1999,6 @@
    ]
   },
   {
-   "ep": false,
-   "start": "2026-06-16T13:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Read-out of the College meeting / press conference (details to follow)",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "PL"
-   ],
-   "items": [
-    {
-     "ref": "I-290770",
-     "title": "Read-out of the College meeting / press conference (details to follow)",
-     "summary": "Read-out of the College meeting / press conference",
-     "inst": "EC"
-    }
-   ]
-  },
-  {
    "ep": true,
    "start": "2026-06-16T13:30:00.000Z",
    "durationSec": 0,
@@ -2016,26 +2048,6 @@
      "title": "EP Plenary Session State of play on the European Commission’s pledge to reduce the reporting burden, in particular for SMEs",
      "summary": "Closing statements",
      "inst": "EP"
-    }
-   ]
-  },
-  {
-   "ep": true,
-   "start": "2026-06-16T13:45:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291024",
-     "title": "EP News Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
-     "summary": "Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291024-V_v"
     }
    ]
   },
@@ -2118,6 +2130,32 @@
    ]
   },
   {
+   "ep": true,
+   "start": "2026-06-16T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference Strengthening farmers positions in the food supply chain",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-291032",
+     "title": "EP Press Conference Strengthening farmers positions in the food supply chain",
+     "summary": "Press conference by Céline IMART (EPP, FR), rapporteur on Strengthening farmers positions in the food supply chain",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291032-V_v"
+    }
+   ]
+  },
+  {
    "ep": false,
    "start": "2026-06-16T15:00:00.000Z",
    "durationSec": 0,
@@ -2139,32 +2177,6 @@
      "title": "General Affairs Council",
      "summary": "Press conference by the Cypriot Presidency and the European Commission",
      "inst": "Council"
-    }
-   ]
-  },
-  {
-   "ep": true,
-   "start": "2026-06-16T15:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Press Conference Strengthening farmers positions in the food supply chain",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "PL"
-   ],
-   "items": [
-    {
-     "ref": "I-291032",
-     "title": "EP Press Conference Strengthening farmers positions in the food supply chain",
-     "summary": "Press conference by Céline IMART (EPP, FR), rapporteur on Strengthening farmers positions in the food supply chain",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291032-V_v"
     }
    ]
   },
@@ -2221,6 +2233,26 @@
      "summary": "Closing statements",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291066-V_v"
+    }
+   ]
+  },
+  {
+   "ep": true,
+   "start": "2026-06-16T16:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291024",
+     "title": "EP News Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
+     "summary": "Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291024-V_v"
     }
    ]
   },
@@ -3109,6 +3141,31 @@
      "summary": "Voting Session Motions for resolutions - Implementation of the Urban Wastewater Treatment Directive (UWWTD) and risks to the security of supply of medicines Motions for resolutions - Political repression and humanitarian situation in Cuba Motions for resolutions - Recruitment of children by organised crime Motions for resolutions – Russia’s unacceptable provocative actions and drone incursions into Romania, the Baltic states and Finland Objection pursuant to Rule 115(2) and (3): financing of the annual action plan in favour of the United Republic of Tanzania for 2026",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290826-V_v"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T12:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Croatia Andrej PLENKOVIĆ",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291197",
+     "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Croatia Andrej PLENKOVIĆ",
+     "summary": "Welcome",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291198",
+     "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Croatia Andrej PLENKOVIĆ",
+     "summary": "Exterior views of the European Commission Berlaymont building with the flag of Croatia",
+     "inst": "EC"
     }
    ]
   },
