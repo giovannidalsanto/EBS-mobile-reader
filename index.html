@@ -63,6 +63,12 @@ main{max-width:560px;margin:0 auto;padding:4px 16px 80px}
 .flag.edit{border:1px solid var(--line);color:var(--faint)}
 .flag.ch-EBS{color:var(--ebs);border:1px solid currentColor}
 .flag.ch-EBSplus{color:var(--ebsplus);border:1px solid currentColor}
+.event.ep .rail::before{background:#D9B23F}
+.event.ep .node{border-color:#D9B23F}
+.flag.epflag{color:#D9B23F;border:1px solid currentColor}
+a.ref{font-family:var(--mono);font-size:10.5px;color:var(--ebs);text-decoration:none;border-bottom:1px dotted var(--ebs)}
+.sub .inst{color:var(--faint)}
+footer a{color:var(--muted)}
 .title{font-size:15.5px;font-weight:600;line-height:1.35}
 .langs{font-family:var(--mono);font-size:11px;color:var(--faint);margin-top:5px;word-spacing:2px}
 details{margin-top:7px}
@@ -106,7 +112,7 @@ footer{max-width:560px;margin:0 auto;padding:0 16px 40px;font-family:var(--mono)
   <div class="tz">All times Brussels (CET/CEST)</div>
   <div id="list"></div>
 </main>
-<footer>Source: EC Audiovisual Service · EBS &amp; EBS+ schedule · personal reader, refreshed every 30&nbsp;min on weekdays</footer>
+<footer>Source: EC Audiovisual Service · EBS &amp; EBS+ schedule · personal reader · <a href="https://multimedia.europarl.europa.eu/en" target="_blank" rel="noopener">EP Multimedia Centre</a></footer>
 <script>
 const EMBEDDED = {
  "generatedAt": "2026-06-11T08:24:41+00:00",
@@ -1531,6 +1537,8 @@ const EMBEDDED = {
   }
  ]
 };
+let pendingScroll = true;
+let pendingToday = false;
 let FEED = EMBEDDED, filter = "ALL", dayIdx = 0, days = [];
 const TZ = "Europe/Brussels";
 
@@ -1540,6 +1548,14 @@ const dayKey = d => new Intl.DateTimeFormat("en-CA",{year:"numeric",month:"2-dig
 const esc = s => (s||"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const chName = c => c==="EBS"?"EBS":"EBS+";
 
+function refLine(s){
+  if(!s.ref) return "";
+  const tag = s.inst ? ' <span class="inst">\u00b7 ' + esc(s.inst) + '</span>' : "";
+  if(s.mmc && s.mmc.indexOf("https://multimedia.europarl.europa.eu/") === 0){
+    return '<div><a class="ref" href="' + esc(s.mmc) + '" target="_blank" rel="noopener">' + esc(s.ref) + ' \u2197</a>' + tag + '</div>';
+  }
+  return '<div class="ref">' + esc(s.ref) + tag + '</div>';
+}
 function statusFlag(s){
   if(s==="LIVE") return '<span class="flag live">LIVE</span>';
   if(s==="RECORDED"||s==="EDIT_RECORDED") return '<span class="flag rec">RECORDED</span>';
@@ -1587,23 +1603,30 @@ function render(){
       html += `<div class="playhead" aria-label="current time"><span class="now">${fmtT(now)} ▸</span><span class="line"></span></div>`;
       placed = true;
     }
-    const cls = "event" + (past?" past":"") + (onair?" onair":"");
+    const cls = "event" + (past?" past":"") + (onair?" onair":"") + (e.ep?" ep":"");
     const subs = (e.items||[]).filter(s=>s.title||s.summary);
     html += `<article class="${cls}">
       <div><div class="time">${fmtT(st)}</div><div class="dur">${durTxt(e.durationSec)}</div></div>
       <div class="rail"><span class="node"></span></div>
       <div>
-        <div class="flags">${statusFlag(e.status)}<span class="flag ch-${e.channel==="EBS"?"EBS":"EBSplus"}">${chName(e.channel)}</span></div>
+        <div class="flags">${statusFlag(e.status)}<span class="flag ch-${e.channel==="EBS"?"EBS":"EBSplus"}">${chName(e.channel)}</span>${e.ep?'<span class="flag epflag">EP</span>':""}</div>
         <div class="title">${esc(e.title)}</div>
         ${e.languages&&e.languages.length>1?`<div class="langs">${e.languages.join(" ")}</div>`:""}
         ${subs.length?`<details><summary>${subs.length} item${subs.length>1?"s":""}</summary><div class="sub">${
-          subs.map(s=>`<div>${s.ref?`<div class="ref">${esc(s.ref)}</div>`:""}<div class="st">${esc(s.title)}</div>${s.summary&&s.summary!==s.title?`<div class="ss">${esc(s.summary)}</div>`:""}</div>`).join("")
+          subs.map(s=>`<div>${refLine(s)}<div class="st">${esc(s.title)}</div>${s.summary&&s.summary!==s.title?`<div class="ss">${esc(s.summary)}</div>`:""}</div>`).join("")
         }</div></details>`:""}
       </div>
     </article>`;
   }
   if(isToday && !placed) html += `<div class="playhead"><span class="now">${fmtT(now)} ▸</span><span class="line"></span></div>`;
   list.innerHTML = html;
+  if(pendingScroll){
+    pendingScroll = false;
+    if(isToday){
+      const ph = list.querySelector(".playhead");
+      if(ph) ph.scrollIntoView({block:"center"});
+    }
+  }
 }
 document.querySelectorAll(".chip").forEach(b=>b.addEventListener("click",()=>{
   filter = b.dataset.ch;
@@ -1619,13 +1642,13 @@ async function refresh(){
       const sel = days[dayIdx];
       FEED = await r.json();
       rebuildDays();
-      const keep = days.indexOf(sel);
-      if(keep >= 0) dayIdx = keep;
+      if(pendingToday){ pendingToday = false; }
+      else { const keep = days.indexOf(sel); if(keep >= 0) dayIdx = keep; }
     }
   }catch(_){/* offline or local file: keep embedded data */}
   render();
 }
-document.addEventListener("visibilitychange", ()=>{ if(!document.hidden) refresh(); });
+document.addEventListener("visibilitychange", ()=>{ if(!document.hidden){ pendingScroll = true; pendingToday = true; refresh(); } });
 rebuildDays();
 refresh();
 setInterval(refresh, 5*60*1000);

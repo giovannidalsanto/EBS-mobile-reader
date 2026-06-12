@@ -38,6 +38,25 @@ def pick_en(items, key="content"):
             return clean(it.get(key, ""))
     return clean(items[0].get(key, ""))
 
+INST_MAP = {"2618": "EP", "2620": "EC", "2619": "Council", "58817": "Host"}
+
+def inst_code(m):
+    for i in (m.get("institutions") or []):
+        iid = str(i.get("id"))
+        if iid in INST_MAP:
+            return INST_MAP[iid]
+        t = next((x.get("content","") for x in i.get("titles",[]) if x.get("language")=="EN"), "")
+        if t:
+            return clean(t)[:18]
+    return ""
+
+def mmc_link(m):
+    for l in (m.get("links") or []):
+        h = l.get("href", "")
+        if "multimedia.europarl.europa.eu" in h:
+            return h
+    return ""
+
 def parse_grid(data):
     out = []
     for day in data:
@@ -52,12 +71,19 @@ def parse_grid(data):
                 ref = m.get("reference")
                 if not ref or ref in seen: continue
                 seen.add(ref)
-                subs.append({
+                item = {
                     "ref": ref,
                     "title": pick_en(m.get("titles", [])),
                     "summary": pick_en(m.get("summaries", [])),
-                })
+                }
+                ic = inst_code(m)
+                if ic: item["inst"] = ic
+                mm = mmc_link(m)
+                if mm: item["mmc"] = mm
+                subs.append(item)
+            ep = any(s.get("inst") == "EP" or s.get("mmc") for s in subs)
             out.append({
+                "ep": ep,
                 "start": start,
                 "durationSec": dur,
                 "channel": ch_name,
