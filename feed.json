@@ -1,663 +1,6 @@
 {
- "generatedAt": "2026-06-12T21:10:45+00:00",
+ "generatedAt": "2026-06-13T07:46:06+00:00",
  "events": [
-  {
-   "ep": false,
-   "start": "2026-06-12T06:14:24.800Z",
-   "durationSec": 2061,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290703",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Arrivals and doorstep by Nicholas A. IOANNIDES, Deputy Minister for Migration and International Protection of Cyprus",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-291140",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Doorstep Magnus BRUNNER, European Commissioner for Internal Affairs and Migration",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-291149",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Doorstep Athanasios PLEVRIS, Minister of Migration and Asylum of Greece",
-     "inst": "Host"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T06:30:10.000Z",
-   "durationSec": 151,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291142",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Doorstep András KÁRMÁN, Minister of Finance of Hungary",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291143",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Doorstep Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
-     "inst": "Council"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T06:55:44.400Z",
-   "durationSec": 746,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-   "languages": [
-    "INT",
-    "EN",
-    "EL"
-   ],
-   "items": [
-    {
-     "ref": "I-290704",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Roundtable general views working session I Opening remarks by Nicholas A. IOANNIDES, Deputy Minister for Migration and International Protection of Cyprus",
-     "inst": "Host"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T07:30:10.000Z",
-   "durationSec": 83,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291154",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Doorstep Francisco Javier ZARZALEJOS NIETO, MEP, Chair of the European Parliament's Committee on Civil Liberties (LIBE)",
-     "inst": "Host"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T08:24:25.960Z",
-   "durationSec": 621,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290337",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Doorstep by Makis KERAVNOS, Minister of Finance of Cyprus",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291144",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Doorstep by Nadia CALVIÑO, President of the European Investment Bank (EIB)",
-     "inst": "Council"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T08:30:10.000Z",
-   "durationSec": 451,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290706",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Compilation of all arrivals and welcome",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-291153",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Cypriot Presidency video-clip \"Pact on Migration and Asylum enters into application\"",
-     "inst": "Host"
-    }
-   ]
-  },
-  {
-   "ep": true,
-   "start": "2026-06-12T09:03:38.080Z",
-   "durationSec": 2940,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Pre-session briefing",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-290518",
-     "title": "EP Pre-session briefing",
-     "summary": "Pre-session briefing",
-     "inst": "EP"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T09:09:13.080Z",
-   "durationSec": 4772,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "European Commission Executive Vice-President Teresa RIBERA in Torino, Italy for the Foresight and innovation Award",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290343",
-     "title": "European Commission Executive Vice-President Teresa RIBERA in Torino, Italy for the Foresight and innovation Award Ceremony 2026",
-     "summary": "Laudatio Giovanni Federigo DE SANTI, Chairman of the High-Level Group at Politecnico di Torino Award conferral Stefano Paolo CORGNATI, Rector of Politcenico di Torino Lectio Magistralis Teresa RIBERA, Executive Vice-President of the European Commission for a Clean, Just and Competitive Transition Keynote Speech “Long-Term contracts in the New Electricity World: Risks, Opportunities and Policy choices” Lucia VISCONTI-PARISIO, University Milano-Bicocca and member of High-Level Group of Politecnico di Torino Panel “Energy Innovation for Competitiveness” Moderator: Valeria CIARDIELLO, Journalist Stefano Paolo CORGNATI, Rector of Politcenico di Torino Giulia GENUARDI, General Director of Enel Foundation)",
-     "inst": "EC"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T09:55:11.000Z",
-   "durationSec": 233,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290705",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Family photo",
-     "inst": "Host"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T10:10:48.000Z",
-   "durationSec": 2574,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 12/06/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-291177",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "ANNOUNCEMENT - President’s agenda for next week ANNOUNCEMENT - Commission proposes €540 million financial relief and other supports for farmers facing fertiliser crisis ANNOUNCEMENT - Today’s council ANNOUNCEMENT - Group of visitors MIGRATION - Hungary / Implementation of the Pact on Migration and Asylum: Q&A INTERNAL AFFAIRS - Georgia / Visa policy: Q&A INSTITUTIONAL AFFAIRS - EEAS / Foreign Policy: Q&A DIGITAL POLICY - Special Panel on child safety online: Q&A ADMINISTRATION / AI ACT - Commission appoints Jim Hagemann Snabe as Special Envoy for Industrial Artificial Intelligence: Q&A SCHUMAN AREA - Opening of a Chinese bar in the Berlaymont building neighbourhood: Q&A TRADE - EU/US Relations / Tariffs / China: Q&A WAR IN UKRAINE - Russian suspension from Chess Championship / Sanctions of citizens / European Peace Facility: Q&A MIGRATION - Eurodac / the Netherlands: Q&A Exterior views of the European Commission Berlaymont building Recorded cutaways",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-290324",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "ANNOUNCEMENT - President’s agenda for next week",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-290325",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "ANNOUNCEMENT - Commission proposes €540 million financial relief and other supports for farmers facing fertiliser crisis",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291159",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "ANNOUNCEMENT - Today’s council",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291160",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "ANNOUNCEMENT - Group of visitors",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291161",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "MIGRATION - Hungary / Implementation of the Pact on Migration and Asylum: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291162",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "INTERNAL AFFAIRS - Georgia / Visa policy: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291163",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "INSTITUTIONAL AFFAIRS - EEAS / Foreign Policy: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291164",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "DIGITAL POLICY - Special Panel on child safety online: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291165",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "ADMINISTRATION / AI ACT - Commission appoints Jim Hagemann Snabe as Special Envoy for Industrial Artificial Intelligence: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291166",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "SCHUMAN AREA - Opening of a Chinese bar in the Berlaymont building neighbourhood: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291167",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "TRADE - EU/US Relations / Tariffs / China: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291168",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "WAR IN UKRAINE - Russian suspension from Chess Championship / Sanctions of citizens / European Peace Facility: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291169",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "MIGRATION - Eurodac / the Netherlands: Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-290327",
-     "title": "EC Midday press briefing of 12/06/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T10:40:10.000Z",
-   "durationSec": 894,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290378",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Exterior of the European Convention Center Luxembourg",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-290379",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Compilation of all arivals",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-290380",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "EIB Board of Governors roundtable",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291174",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "EIB Board of Governors group photo",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291004",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Roundtable",
-     "inst": "Council"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T10:58:31.000Z",
-   "durationSec": 2050,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-   "languages": [
-    "INT",
-    "EN",
-    "EL"
-   ],
-   "items": [
-    {
-     "ref": "I-290707",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Press conference by Nicholas IOANNIDES, Deputy Minister of Migration and International Protection Protection of Cyprus and Magnus BRUNNER, European Commissioner for Internal Affairs and Migration",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-291178",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Recorded cutaways",
-     "inst": "Host"
-    }
-   ]
-  },
-  {
-   "ep": true,
-   "start": "2026-06-12T12:00:10.000Z",
-   "durationSec": 906,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EC Stockshots",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-279888",
-     "title": "Social assistance for migrants (Rome, Italy)",
-     "summary": "This infoclip shows the activities at reception and orientation centre, the One-Stop Shop for Migrant Reception - SUAM, and daily life scenes of migrants at the Casal Morena Centre. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU.",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I279888-V_v"
-    },
-    {
-     "ref": "I-278928",
-     "title": "Asylum and migration (Malmö, Sweden)",
-     "summary": "This infoclips shows the activities at an asylum reception centre in Malmö, Sweden and a class learning Swedish at SFI Swedish For Immigrants Academy in Lund, Sweden. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU.",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I278928-V_v"
-    },
-    {
-     "ref": "I-279175",
-     "title": "Migration and civil society support (Calais, France)",
-     "summary": "This Infoclip shows civil society (in particular the volunteers of the Non-Governmental Organisation \"Salam\") support to refugees in Calais (France). Since the demolition of the large \"Jungle camp\" in Calais in 2016 there has been an administrative policy of \"no fixation points\" for migrants to settle in, aiming to stop another large camp from forming. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need.",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I279175-V_v"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T12:45:10.000Z",
-   "durationSec": 308,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291141",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Bilateral meeting Nicholas A. IOANNIDES, Deputy Minister for Migration and International Protection of Cyprus with Lukas GEHRKE, Director International Organization for Migration (IOM) Global Office Brussels",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-291179",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Bilateral meeting Nicholas A. IOANNIDES, Deputy Minister for Migration and International Protection of Cyprus with Ana BURKOVSKIENĖ, Vice-Minister of the Interior of Lithuania",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-291180",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Bilateral meeting Nicholas A. IOANNIDES, Deputy Minister for Migration and International Protection of Cyprus with Ruvendrini MENIKDIWELA, Assistant High Commissioner for Protection of UNHCR",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-291181",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Bilateral meeting Bernd KRÖSSER, State Secretary at the Federal Ministry of the Interior of Germany with Athanasios PLEVRIS, Minister of Migration and Asylum of Greece",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-291182",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Bilateral meeting Bernd KRÖSSER, State Secretary at the Federal Ministry of the Interior of Germany with Sussane RAAB, Director General of the International Centre for Migration Policy Development (ICMPD)",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-291183",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Bilateral meeting Athanasios PLEVRIS, Minister of Migration and Asylum of Greece with Sussane RAAB, Director General of the International Centre for Migration Policy Development (ICMPD)",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-291186",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Bilateral meeting Athanasios PLEVRIS, Minister of Migration and Asylum of Greece with Lukas GEHRKE, Director International Organization for Migration (IOM) Global Office Brussels",
-     "inst": "Host"
-    },
-    {
-     "ref": "I-291187",
-     "title": "Informal Ministerial Conference on the Pact of Migration and Asylum in Lefkosia, Cyprus",
-     "summary": "Bilateral meeting Athanasios PLEVRIS, Minister of Migration and Asylum of Greece with Ruvendrini MENIKDIWELA, Assistant High Commissioner for Protection of UNHCR",
-     "inst": "Host"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T13:00:21.120Z",
-   "durationSec": 278,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "“Paris Call for the Two-State Solution, Peace and Regional Security” Forum",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291101",
-     "title": "“Paris Call for the Two-State Solution, Peace and Regional Security” Forum",
-     "summary": "Speech by Speech by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
-     "inst": "EC"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T13:10:10.000Z",
-   "durationSec": 305,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "“Paris Call for the Two-State Solution, Peace and Regional Security” Forum",
-   "languages": [
-    "INT",
-    "EN"
-   ],
-   "items": [
-    {
-     "ref": "I-291188",
-     "title": "“Paris Call for the Two-State Solution, Peace and Regional Security” Forum",
-     "summary": "Speech by Jean-Noël BARROT, French Minister for Europe and Foreign Affairs",
-     "inst": "EC"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T13:58:43.960Z",
-   "durationSec": 1000,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL"
-   ],
-   "items": [
-    {
-     "ref": "I-291196",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Press conference opening remarks by Makis KERAVNOS, Minister of Finance of Cyprus Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity; Implementation and Simplification Press conference Q&A with Makis KERAVNOS, Minister of Finance of Cyprus, and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity; Implementation and Simplification",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-290381",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Press conference opening remarks by Makis KERAVNOS, Minister of Finance of Cyprus",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291184",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Press conference opening remarks by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity; Implementation and Simplification",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291185",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Press conference Q&A with Makis KERAVNOS, Minister of Finance of Cyprus, and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity; Implementation and Simplification",
-     "inst": "Council"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T14:25:00.000Z",
-   "durationSec": 804,
-   "channel": "EBS+",
-   "status": "RECORDED",
-   "title": "Economic and Financial Affairs Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291172",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Doorstep by Joaquim MIRANDA SARMENTO, Minister of State and Finance of Portugal",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291190",
-     "title": "Economic and Financial Affairs Council",
-     "summary": "Exit doorstep Wopke HOEKSTRA, European Commissioner for Climate, Net Zero and Clean Growth",
-     "inst": "Council"
-    }
-   ]
-  },
-  {
-   "ep": true,
-   "start": "2026-06-12T14:30:10.000Z",
-   "durationSec": 1675,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290419",
-     "title": "EP News Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia)",
-     "summary": "Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia) - Meeting with Richard RAŠI, Speaker of the National Council of the Slovak Republic arrival meeting press statement",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290419-V_v"
-    },
-    {
-     "ref": "I-290421",
-     "title": "EP News Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia)",
-     "summary": "Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia) - Townhall discussion with students: extracts",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290421-V_v"
-    },
-    {
-     "ref": "I-290420",
-     "title": "EP News Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia)",
-     "summary": "Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia) - Meeting with Robert FICO, Slovak Prime Minister arrival meeting",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290420-V_v"
-    },
-    {
-     "ref": "I-290423",
-     "title": "EP News Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia)",
-     "summary": "Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia) - Meeting with Peter PELLEGRINI, President of Slovakia arrival meeting",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290423-V_v"
-    },
-    {
-     "ref": "I-290425",
-     "title": "EP News Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia)",
-     "summary": "Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia) - Visit of the Volkswagen Slovakia's Bratislava plant and meeting with the Board Management: extracts",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290425-V_v"
-    },
-    {
-     "ref": "I-290455",
-     "title": "EP News Official visit by Roberta METSOLA, EP President to Bratislava (Slovakia)",
-     "summary": "Infoclip: General views of Bratislava (Slovakia)",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290455-V_v"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-12T15:10:10.000Z",
-   "durationSec": 1894,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "“Paris Call for the Two-State Solution, Peace and Regional Security” Forum",
-   "languages": [
-    "INT",
-    "EN"
-   ],
-   "items": [
-    {
-     "ref": "I-291195",
-     "title": "“Paris Call for the Two-State Solution, Peace and Regional Security” Forum",
-     "summary": "Panel discussion “How to articulate the implementation of the two-State solution of the Peace Plan for Gaza?” with the participation of Dubravka ŠUICA, European Commissioner for the Mediterranean",
-     "inst": "EC"
-    }
-   ]
-  },
   {
    "ep": true,
    "start": "2026-06-14T07:00:00.000Z",
@@ -3294,6 +2637,108 @@
      "ref": "I-290950",
      "title": "European Council (Main feed)",
      "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T06:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council (Main feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290787",
+     "title": "European Council (Main feed)",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T06:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Council (Second feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290788",
+     "title": "European Council (Second feed)",
+     "summary": "Arrivals and doorsteps",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council (Main feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290955",
+     "title": "European Council (Main feed)",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Council (Main feed)",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "NL"
+   ],
+   "items": [
+    {
+     "ref": "I-290956",
+     "title": "European Council (Main feed)",
+     "summary": "Press conference",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-19T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "European Council (Second feed)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290957",
+     "title": "European Council (Second feed)",
+     "summary": "National briefings and exit doorsteps",
      "inst": "Council"
     }
    ]
