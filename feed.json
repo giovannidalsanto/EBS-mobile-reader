@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-15T18:34:25+00:00",
+ "generatedAt": "2026-06-15T18:51:44+00:00",
  "events": [
   {
    "ep": false,
@@ -1046,7 +1046,7 @@
   {
    "ep": true,
    "start": "2026-06-15T18:20:37.520Z",
-   "durationSec": 0,
+   "durationSec": 909,
    "channel": "EBS+",
    "status": "RECORDED",
    "title": "Exchange of views with Andrzej POCZOBUT, Sakharov Prize 2025 laureate AFET, DEVE, DROI and D-BY Committee",
@@ -1116,7 +1116,7 @@
   },
   {
    "ep": true,
-   "start": "2026-06-15T19:00:00.000Z",
+   "start": "2026-06-15T18:57:10.000Z",
    "durationSec": 266,
    "channel": "EBS",
    "status": "EDIT",
@@ -1133,12 +1133,32 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290985-V_v"
     }
    ],
-   "firstSeen": "2026-06-15T18:34:25+00:00"
+   "firstSeen": "2026-06-15T18:51:44+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-15T19:10:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-15T19:05:00.000Z",
+   "durationSec": 705,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "G7 Summit in Evian, France",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291277",
+     "title": "G7 Summit in Evian, France",
+     "summary": "Official welcome by Emmanuel MACRON, President of the French Republic",
+     "inst": "Other Organisation"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:51:44+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T19:20:00.000Z",
+   "durationSec": 168,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Accession Conference with Moldova",
@@ -1171,7 +1191,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-15T18:34:25+00:00"
+   "firstSeen": "2026-06-15T18:51:44+00:00"
   },
   {
    "ep": false,
