@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-15T13:52:50+00:00",
+ "generatedAt": "2026-06-15T18:34:25+00:00",
  "events": [
   {
    "ep": false,
@@ -306,7 +306,7 @@
     {
      "ref": "I-291281",
      "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
-     "summary": "Bilateral meeting Marina CHAPASI, Director General of the Ministry of Transport, Communications and Works with Bogdan COSTAS, CEO TAROM",
+     "summary": "Bilateral meeting Marina CHAPASI, Director General of the Ministry of Transport, Communications and Works with Bogdan COSTAS, CEO TAROM Bilateral meeting Marina CHAPASI, Director General of the Ministry of Transport, Communications and Works with Tania Cardoso Simoes, Director Aviation Transport/ATD and Predrag VRANJKOVIC, Head of Strategy, Engagement & Institutional Relations - SEIR, Eurocontrol",
      "inst": "Host"
     }
    ],
@@ -405,8 +405,8 @@
   },
   {
    "ep": false,
-   "start": "2026-06-15T13:20:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-15T13:51:53.120Z",
+   "durationSec": 1000,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Foreign Affairs Council",
@@ -420,18 +420,50 @@
    ],
    "items": [
     {
+     "ref": "I-291301",
+     "title": "Foreign Affairs Council",
+     "summary": "Press conference opening remarks by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission Press conference Q&A with Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "inst": "Council"
+    },
+    {
      "ref": "I-290918",
      "title": "Foreign Affairs Council",
-     "summary": "Press conference by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "summary": "Press conference opening remarks by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291299",
+     "title": "Foreign Affairs Council",
+     "summary": "Press conference Q&A with Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-15T13:26:35+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-15T13:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-15T14:00:10.000Z",
+   "durationSec": 81,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291296",
+     "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
+     "summary": "Bilateral meeting Marina CHAPASI, Director General of the Ministry of Transport, Communications and Works with Robert KISS, Government & Policy Affairs Manager, WIZZAIR Bilateral meeting Marina CHAPASI, Director General of the Ministry of Transport, Communications and Works with Nicolas RALLO, Regional Director, ICAO",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T14:14:16.640Z",
+   "durationSec": 460,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EU-Egypt Association Council",
@@ -446,14 +478,14 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-15T13:45:00.000Z",
-   "durationSec": 466,
+   "start": "2026-06-15T14:25:10.000Z",
+   "durationSec": 1833,
    "channel": "EBS",
-   "status": "LIVE_RECORDED",
+   "status": "RECORDED",
    "title": "Foreign Affairs Council",
    "languages": [
     "INT"
@@ -462,7 +494,7 @@
     {
      "ref": "I-291283",
      "title": "Foreign Affairs Council",
-     "summary": "Doorstep by Radosław SIKORSKI, Deputy Prime Minister, Minister of Foreign Affairs of Poland",
+     "summary": "Exit doorstep by Radosław SIKORSKI, Deputy Prime Minister, Minister of Foreign Affairs of Poland",
      "inst": "Council"
     },
     {
@@ -472,44 +504,30 @@
      "inst": "Council"
     },
     {
-     "ref": "I-291292",
-     "title": "Foreign Affairs Council",
-     "summary": "Doorstep by Marek EŠTOK, State Secretary of the Ministry of the Foreign and European Affairs of Slovakia",
-     "inst": "Council"
-    },
-    {
      "ref": "I-291295",
      "title": "Foreign Affairs Council",
      "summary": "Doorstep by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency on EU-China trade relations ends",
      "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-15T14:00:00.000Z",
-   "durationSec": 81,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
-   "languages": [
-    "INT"
-   ],
-   "items": [
+    },
     {
-     "ref": "I-291296",
-     "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
-     "summary": "Bilateral meeting Marina CHAPASI, Director General of the Ministry of Transport, Communications and Works with Robert KISS, Government & Policy Affairs Manager, WIZZAIR",
-     "inst": "Host"
+     "ref": "I-291292",
+     "title": "Foreign Affairs Council",
+     "summary": "Exit doorstep by Marek EŠTOK, State Secretary of the Ministry of the Foreign and European Affairs of Slovakia",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291302",
+     "title": "Foreign Affairs Council",
+     "summary": "Exit doorstep by Lars LØKKE RASMUSSEN, Minister of Foreign Affairs of Denmark",
+     "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-15T13:52:50+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-15T14:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-15T14:31:21.640Z",
+   "durationSec": 749,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Last minute press briefing",
@@ -530,60 +548,12 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-15T14:55:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Accession Conference with Montenegro",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291125",
-     "title": "Accession Conference with Montenegro",
-     "summary": "Family photo",
-     "inst": "Council"
-    },
-    {
-     "ref": "I-291126",
-     "title": "Accession Conference with Montenegro",
-     "summary": "Roundtable",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-15T15:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Accession Conference with Montenegro",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-291113",
-     "title": "Accession Conference with Montenegro",
-     "summary": "Press conference by Marilena RAOUNA, Cypriot Deputy Minister for European Affairs, Marta KOS, European Commissioner for Enlargement, and Milojko SPAJIĆ, Montenegrin Prime Minister",
-     "inst": "Council"
-    }
-   ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-15T15:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-15T15:01:25.000Z",
+   "durationSec": 1445,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Resumption of Session and Order of Business",
@@ -620,12 +590,34 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T15:07:41.880Z",
+   "durationSec": 1653,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Accession Conference with Montenegro",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-291113",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Press conference by Marilena RAOUNA, Cypriot Deputy Minister for European Affairs, Marta KOS, European Commissioner for Enlargement, and Milojko SPAJIĆ, Montenegrin Prime Minister",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-15T15:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-15T15:28:56.600Z",
+   "durationSec": 2806,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Time for European economic independence",
@@ -668,12 +660,102 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T15:40:10.000Z",
+   "durationSec": 551,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "Foreign Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291303",
+     "title": "Foreign Affairs Council",
+     "summary": "Exit doorstep Tom BERENDSEN, Minister for Foreign Affairs, Minister for Asylum and Migration of the Netherlands",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291311",
+     "title": "Foreign Affairs Council",
+     "summary": "Exit doorstep Antonio TAJANI, Italian Deputy Prime Minister and Minister for Foreign Affairs and International Cooperation",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T15:50:10.000Z",
+   "durationSec": 118,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EU-Egypt Association Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291116",
+     "title": "EU-Egypt Association Council",
+     "summary": "Arrival of Badr ABDELATTY, Minister of Foreign Affairs, Emigration and Egyptian Expatriates of Egypt",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291123",
+     "title": "EU-Egypt Association Council",
+     "summary": "Family photo",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291124",
+     "title": "EU-Egypt Association Council",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T16:10:10.000Z",
+   "durationSec": 213,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Accession Conference with Montenegro",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291117",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Arrivals",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291309",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Doorstep Thomas BYRNE, Minister of State for European Affairs and Defence of Ireland",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291125",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Family photo",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-15T16:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-15T16:15:42.280Z",
+   "durationSec": 3339,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session EU-US trade deal",
@@ -706,7 +788,7 @@
     {
      "ref": "I-290962",
      "title": "EP Plenary Session EU-US trade deal",
-     "summary": "Opening statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
+     "summary": "Opening statements by Bernd LANGE (S&D, DE) Rapporteur, Stéphane SÉJOURNÉ, Executive Vice-President of the European Commission for Prosperity and Industrial Strategy, Danuše NERUDOVÁ (EPP, CS) Committee on Budgets, Sandra GÓMEZ LÓPEZ (S&D, ES) Committee on Budgets, and Veronika VRECIONOVÁ (ECR, CS) Committee on Agriculture and Rural Development",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290962-V_v"
     },
@@ -720,60 +802,109 @@
     {
      "ref": "I-291065",
      "title": "EP Plenary Session EU-US trade deal",
-     "summary": "Closing statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
+     "summary": "Closing statement by Bernd LANGE (S&D, DE) Rapporteur",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291065-V_v"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
-   "ep": true,
-   "start": "2026-06-15T16:50:00.000Z",
-   "durationSec": 0,
+   "ep": false,
+   "start": "2026-06-15T16:40:10.000Z",
+   "durationSec": 95,
    "channel": "EBS",
    "status": "EDIT",
-   "title": "EP News Editing shots",
+   "title": "Family photo with negotiating EU candidates",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-290985",
-     "title": "EP News Editing shots",
-     "summary": "EP Plenary session (15/06-18/06) editing shots",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290985-V_v"
-    }
-   ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-15T17:15:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Accession Conference with Ukraine",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
+     "ref": "I-291313",
+     "title": "Family photo with negotiating EU candidates",
+     "summary": "Family photo with Kaja KALLAS, EU High Representative for Foreign Affairs and Security Policy, Milojko SPAJIĆ, Prime Minister of Montenegro, Taras KACHKA, Deputy Prime Minister for European and Euro-Atlantic Integration of Ukraine, and Alexandru MUNTEANU, Prime Minister of Moldova",
+     "inst": "Council"
+    },
     {
-     "ref": "I-291114",
-     "title": "Accession Conference with Ukraine",
-     "summary": "Press conference by Marilena RAOUNA, Cypriot Deputy Minister for European Affairs, Marta KOS, European Commissioner for Enlargement, and Taras KACHKA, Ukrainian Deputy Prime Minister for European and Euro-Atlantic Integration of Ukraine",
+     "ref": "I-291314",
+     "title": "Family photo with negotiating EU candidates",
+     "summary": "Family photo with Marilena RAOUNA, Deputy Minister for European Affairs of Cyprus, Marta KOS, European Commissioner for Enlargement, Milojko SPAJIĆ, Prime Minister of Montenegro, Taras KACHKA, Deputy Prime Minister for European and Euro-Atlantic Integration of Ukraine, and Alexandru MUNTEANU, Prime Minister of Moldova",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T16:55:10.000Z",
+   "durationSec": 122,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "Foreign Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291315",
+     "title": "Foreign Affairs Council",
+     "summary": "Exit doorstep Constantinos KOMBOS, Minister of Foreign Affairs of Cyprus",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T17:00:10.000Z",
+   "durationSec": 173,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Accession Conference with Montenegro",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291126",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T17:10:00.000Z",
+   "durationSec": 522,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Accession Conference with Ukraine",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291304",
+     "title": "Accession Conference with Ukraine",
+     "summary": "Arrival and doorstep Taras KACHKA, Deputy Prime Minister of Ukraine for European and Euro-Atlantic Integration",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291127",
+     "title": "Accession Conference with Ukraine",
+     "summary": "Family photo",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-15T17:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-15T17:11:57.160Z",
+   "durationSec": 3405,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
@@ -806,7 +937,7 @@
     {
      "ref": "I-291006",
      "title": "EP Plenary Session Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
-     "summary": "Opening statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
+     "summary": "Opening statements by Arba KOKALAR (EPP, SV), Rapporteur, Michael MCNAMARA, (Renew Europe, IRL) Rapporteur, Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency, Vivien COSTANZO (S&D, DE) Committee on Transport and Tourism, Emma RAFOWICZ (S&D, FR) Committee on Culture and Education, Sergey LAGODINSKY (Greens/EFA, DE) Committee on Legal Affairs",
      "inst": "EP"
     },
     {
@@ -818,16 +949,57 @@
     {
      "ref": "I-291009",
      "title": "EP Plenary Session Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
-     "summary": "Closing statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
+     "summary": "Closing statements by Arba KOKALAR (EPP, SV), Rapporteur, and Michael MCNAMARA, (Renew Europe, IRL) Rapporteur",
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T17:25:10.000Z",
+   "durationSec": 243,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "G7 Summit in Evian, France",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291278",
+     "title": "G7 Summit in Evian, France",
+     "summary": "Trilateral meeting Ursula von der LEYEN, President of the European Commission, António COSTA, President of the European Council and Mark CARNEY, Canadian Prime Minister",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-15T17:45:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-15T17:40:10.000Z",
+   "durationSec": 49,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Air Passenger Rights Signature Ceremony",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291263",
+     "title": "EP News Editing shots Air Passenger Rights",
+     "summary": "Air Passenger Rights signing ceremony in the presence of Roberta METSOLA, EP President and Alexis VAFEADES, Cyprus Minister of Transport",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291263-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-15T17:52:54.600Z",
+   "durationSec": 1593,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EP Press Conference Air passenger rights",
@@ -849,31 +1021,31 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291175-V_v"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
-   "ep": true,
+   "ep": false,
    "start": "2026-06-15T18:15:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
+   "durationSec": 200,
+   "channel": "EBS+",
    "status": "EDIT",
-   "title": "EP News EU-US trade deal",
+   "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-291023",
-     "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro EU-US trade deal",
-     "summary": "EU-US trade deal extracts from the debate",
-     "inst": "EP"
+     "ref": "I-291306",
+     "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
+     "summary": "Exhibition aviation",
+     "inst": "Host"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-15T18:30:00.000Z",
+   "start": "2026-06-15T18:20:37.520Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "RECORDED",
@@ -896,7 +1068,7 @@
     {
      "ref": "I-290862",
      "title": "Exchange of views with Andrzej POCZOBUT, Sakharov Prize 2025 laureate AFET, DEVE, DROI and D-BY Committee",
-     "summary": "Introductory remarks by David MCALLISTER (EPP, DE), AFET Chair, DEVE Vice-Chair, Andrzej POCZOBUT, Sakharov Prize 2025 laureate and Małgorzata GOSIEWSKA (ECR, PL), D-BY Chair Committee on Foreign Affairs (AFET), Committee on Development (DEVE), Subcommittee on Human Rights (DROI) and Delegation for relations with Belarus (D-BY)",
+     "summary": "Introductory remarks by David MCALLISTER (EPP, DE), AFET Chair, Isabella LÖVIN (Greens/EFA, SE), DEVE Vice-Chair, Andrzej POCZOBUT, Sakharov Prize 2025 laureate and Małgorzata GOSIEWSKA (ECR, PL), D-BY Chair Committee on Foreign Affairs (AFET), Committee on Development (DEVE), Subcommittee on Human Rights (DROI) and Delegation for relations with Belarus (D-BY)",
      "inst": "EP"
     },
     {
@@ -912,17 +1084,106 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-15T19:15:00.000Z",
+   "start": "2026-06-15T18:25:10.000Z",
+   "durationSec": 1755,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "Accession Conference with Ukraine",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-291128",
+     "title": "Accession Conference with Ukraine",
+     "summary": "Roundtable",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291114",
+     "title": "Accession Conference with Ukraine",
+     "summary": "Press conference by Marilena RAOUNA, Cypriot Deputy Minister for European Affairs, Marta KOS, European Commissioner for Enlargement, and Taras KACHKA, Ukrainian Deputy Prime Minister for European and Euro-Atlantic Integration of Ukraine",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-15T19:00:00.000Z",
+   "durationSec": 266,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Editing shots",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290985",
+     "title": "EP News Editing shots",
+     "summary": "EP Plenary session (15/06-18/06) editing shots",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290985-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T19:10:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Accession Conference with Moldova",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291119",
+     "title": "Accession Conference with Moldova",
+     "summary": "Arrival of Alexandru MUNTEANU, Prime Minister of Moldova",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291316",
+     "title": "Accession Conference with Moldova",
+     "summary": "Doorstep by Cristina GHERASIMOV, Deputy Prime Minister for European Integration of Moldova",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291121",
+     "title": "Accession Conference with Moldova",
+     "summary": "Family photo",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291122",
+     "title": "Accession Conference with Moldova",
+     "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T19:25:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Accession Conference with Moldova",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR"
    ],
    "items": [
     {
@@ -932,7 +1193,7 @@
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": false,
@@ -976,7 +1237,7 @@
   },
   {
    "ep": true,
-   "start": "2026-06-16T06:00:00.000Z",
+   "start": "2026-06-16T06:00:10.000Z",
    "durationSec": 2856,
    "channel": "EBS+",
    "status": "EDIT",
@@ -1069,7 +1330,7 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": true,
@@ -1291,6 +1552,27 @@
    "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
+   "ep": true,
+   "start": "2026-06-16T09:50:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Press Point Press Point by Roberta METSOLA, EP President, and Jakov MILATOVIĆ, President of Montenegro",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291110",
+     "title": "EP Press Point Press Point by Roberta METSOLA, EP President, and Jakov MILATOVIĆ, President of Montenegro",
+     "summary": "Press Point by Roberta METSOLA, EP President, and Jakov MILATOVIĆ, President of Montenegro",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291110-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
    "ep": false,
    "start": "2026-06-16T10:00:00.000Z",
    "durationSec": 0,
@@ -1471,6 +1753,12 @@
      "summary": "Formal sitting with Jakov MILATOVIĆ, President of Montenegro meeting with Roberta METSOLA, EP President extracts from the address to the Plenary",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290861-V_v"
+    },
+    {
+     "ref": "I-291023",
+     "title": "EP News EU-US trade deal Editing shots",
+     "summary": "EU-US trade deal extracts from the debate",
+     "inst": "EP"
     }
    ],
    "firstSeen": "2026-01-01T00:00:00+00:00"
@@ -2177,6 +2465,12 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I267260-V_v"
     },
     {
+     "ref": "I-291079",
+     "title": "EP Stockshots",
+     "summary": "Infoclip: electrification plan",
+     "inst": "EP"
+    },
+    {
      "ref": "I-254018",
      "title": "New genomic techniques",
      "summary": "NGTs are a variety of techniques that alter the genetic material of an organism. Currently in the EU, all plants obtained by NGTs are subject to the same rules as GMOs, which are among the strictest in the world. NGTs could help to make our food system more sustainable and resilient by developing improved plant varieties that are climate resilient, pest resistant, and give higher yields or that require fewer fertilisers and pesticides. This news item shows extracts from a CSIC laboratory, plant research, scientists at work, in vitro samples and genetically modified plant cultures.",
@@ -2285,6 +2579,27 @@
     }
    ],
    "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T09:50:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Press Point Press Point by Roberta METSOLA, EP President, and Andrzej POCZOBUT, Belarusian journalist, 2025 Sakharov Prize laureate",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291078",
+     "title": "EP Press Point Press Point by Roberta METSOLA, EP President, and Andrzej POCZOBUT, Belarusian journalist, 2025 Sakharov Prize laureate",
+     "summary": "Press Point by Roberta METSOLA, EP President, and Andrzej POCZOBUT, Belarusian journalist, 2025 Sakharov Prize laureate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291078-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": false,
@@ -2587,7 +2902,7 @@
     {
      "ref": "I-291043",
      "title": "EP Press Conference 2025 report on Türkiye and Georgia",
-     "summary": "Press conference by Nacho SÁNCHEZ AMOR (S&D, ES) and Rasa JUKNEVIČIENĖ (EPP, LT), rapporteurs on the 2025 reports on Türkiye and Georgia",
+     "summary": "Press conference by Nacho SÁNCHEZ AMOR (S&D, ES) rapporteur on the 2025 reports on Türkiye and Georgia",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291043-V_v"
     }
@@ -2752,38 +3067,6 @@
    "ep": false,
    "start": "2026-06-17T22:30:00.000Z",
    "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "Court of Justice of the European Union",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291155",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-232/25 Idziski regarding an alleging infringement of a natural and legal person of their personality rights resulting from their broadcasting of a series on television and its dissemination on the internet",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-291156",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-658/24 Penny Market regarding a national regulation requiring certain food distributors to reduce prices for certain foods, for a specified period and to maintain a certain quantity in stock",
-     "inst": "Court of Justice o"
-    },
-    {
-     "ref": "I-291158",
-     "title": "Court of Justice of the European Union",
-     "summary": "ECJ ruling in case C-522/24 Ministero della Difesa (Obligation vaccinale des militaires) regarding vaccination requirements imposed on military personal because of COVID-19 pandemic",
-     "inst": "Court of Justice o"
-    }
-   ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-17T22:30:00.000Z",
-   "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
@@ -2805,6 +3088,46 @@
     }
    ],
    "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-17T23:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "European Commissioner Costas KADIS in Mombasa, Kenya for the Our Ocean Kenya Conference 2026",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290782",
+     "title": "European Commissioner Costas KADIS in Mombasa, Kenya for the Our Ocean Kenya Conference 2026",
+     "summary": "Visit the CSDP Atalanta ship",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T00:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK at the London School of Economics",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291312",
+     "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK at the London School of Economics",
+     "summary": "Opening panel “Key challenges to sustainability: global, regional and national perspectives” at the Sustainability Conference hosted by the London School of Economics",
+     "inst": "Other Organisation"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": true,
@@ -2904,6 +3227,38 @@
     }
    ],
    "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T09:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "Court of Justice of the European Union",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291155",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-232/25 Idziski regarding an alleging infringement of a natural and legal person of their personality rights resulting from their broadcasting of a series on television and its dissemination on the internet",
+     "inst": "Court of Justice o"
+    },
+    {
+     "ref": "I-291156",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-658/24 Penny Market regarding a national regulation requiring certain food distributors to reduce prices for certain foods, for a specified period and to maintain a certain quantity in stock",
+     "inst": "Court of Justice o"
+    },
+    {
+     "ref": "I-291158",
+     "title": "Court of Justice of the European Union",
+     "summary": "ECJ ruling in case C-522/24 Ministero della Difesa (Obligation vaccinale des militaires) regarding vaccination requirements imposed on military personal because of COVID-19 pandemic",
+     "inst": "Court of Justice o"
+    }
+   ],
+   "firstSeen": "2026-06-15T18:34:25+00:00"
   },
   {
    "ep": false,
