@@ -140,6 +140,23 @@ def main():
         if failures:
             print(f"Completed with {failures} failed day(s); feed written from the rest.")
     events.sort(key=lambda e: e["start"])
+
+    # memory: carry firstSeen stamps from the previous feed, stamp newcomers now
+    OLD_TIME = "2026-01-01T00:00:00+00:00"
+    now_iso = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
+    prev = {}
+    try:
+        with open("feed.json", encoding="utf-8") as f0:
+            for e0 in json.load(f0).get("events", []):
+                k0 = e0["start"] + "|" + e0["channel"] + "|" + e0["title"]
+                prev[k0] = e0.get("firstSeen") or OLD_TIME
+    except Exception:
+        pass
+    for e in events:
+        k = e["start"] + "|" + e["channel"] + "|" + e["title"]
+        # no usable history at all -> treat everything as old (prevents a NEW flood)
+        e["firstSeen"] = prev.get(k, now_iso if prev else OLD_TIME)
+
     feed = {
         "generatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
         "events": events,

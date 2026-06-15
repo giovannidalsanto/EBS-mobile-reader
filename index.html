@@ -69,6 +69,7 @@ main{max-width:560px;margin:0 auto;padding:4px 16px 80px}
 a.ref{font-family:var(--mono);font-size:10.5px;color:var(--ebs);text-decoration:none;border-bottom:1px dotted var(--ebs)}
 .sub .inst{color:var(--faint)}
 footer a{color:var(--muted)}
+.newdot{display:inline-block;width:7px;height:7px;border-radius:50%;background:#4CC38A;margin-right:7px;vertical-align:1px;transition:opacity 60s linear}
 .title{font-size:15.5px;font-weight:600;line-height:1.35}
 .langs{font-family:var(--mono);font-size:11px;color:var(--faint);margin-top:5px;word-spacing:2px}
 details{margin-top:7px}
@@ -1538,6 +1539,11 @@ const EMBEDDED = {
  ]
 };
 let pendingScroll = true;
+const NEW_WINDOW_MS = 12*3600*1000;   // how recently the robot must have first seen it
+const NEW_FADE_MS = 150000;           // ~2.5 min on screen, then gone for the session
+const newShownAt = new Map();
+const newExpired = new Set();
+const evKey = e => e.start + "|" + e.channel + "|" + e.title;
 let pendingToday = false;
 let FEED = EMBEDDED, filter = "ALL", dayIdx = 0, days = [];
 const TZ = "Europe/Brussels";
@@ -1604,13 +1610,24 @@ function render(){
       placed = true;
     }
     const cls = "event" + (past?" past":"") + (onair?" onair":"") + (e.ep?" ep":"");
+    let nd = "";
+    if(e.firstSeen){
+      const k = evKey(e);
+      const age = now - new Date(e.firstSeen);
+      if(age >= 0 && age < NEW_WINDOW_MS && !newExpired.has(k)){
+        if(!newShownAt.has(k)) newShownAt.set(k, Date.now());
+        const op = Math.max(0, 1 - (Date.now() - newShownAt.get(k)) / NEW_FADE_MS);
+        if(op <= 0.02) newExpired.add(k);
+        else nd = '<span class="newdot" style="opacity:' + op.toFixed(2) + '" aria-label="recently added"></span>';
+      }
+    }
     const subs = (e.items||[]).filter(s=>s.title||s.summary);
     html += `<article class="${cls}">
       <div><div class="time">${fmtT(st)}</div><div class="dur">${durTxt(e.durationSec)}</div></div>
       <div class="rail"><span class="node"></span></div>
       <div>
         <div class="flags">${statusFlag(e.status)}<span class="flag ch-${e.channel==="EBS"?"EBS":"EBSplus"}">${chName(e.channel)}</span>${e.ep?'<span class="flag epflag">EP</span>':""}</div>
-        <div class="title">${esc(e.title)}</div>
+        <div class="title">${nd}${esc(e.title)}</div>
         ${e.languages&&e.languages.length>1?`<div class="langs">${e.languages.join(" ")}</div>`:""}
         ${subs.length?`<details><summary>${subs.length} item${subs.length>1?"s":""}</summary><div class="sub">${
           subs.map(s=>`<div>${refLine(s)}<div class="st">${esc(s.title)}</div>${s.summary&&s.summary!==s.title?`<div class="ss">${esc(s.summary)}</div>`:""}</div>`).join("")
@@ -1648,7 +1665,7 @@ async function refresh(){
   }catch(_){/* offline or local file: keep embedded data */}
   render();
 }
-document.addEventListener("visibilitychange", ()=>{ if(!document.hidden){ pendingScroll = true; pendingToday = true; refresh(); } });
+document.addEventListener("visibilitychange", ()=>{ if(!document.hidden){ pendingScroll = true; pendingToday = true; newShownAt.clear(); newExpired.clear(); refresh(); } });
 rebuildDays();
 refresh();
 setInterval(refresh, 5*60*1000);
