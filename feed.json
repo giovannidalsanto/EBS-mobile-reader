@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-15T08:42:42+00:00",
+ "generatedAt": "2026-06-15T12:35:53+00:00",
  "events": [
   {
    "ep": false,
@@ -23,7 +23,7 @@
   {
    "ep": false,
    "start": "2026-06-15T05:41:38.040Z",
-   "durationSec": 0,
+   "durationSec": 11067,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Foreign Affairs Council",
@@ -125,8 +125,8 @@
   },
   {
    "ep": false,
-   "start": "2026-06-15T09:00:00.000Z",
-   "durationSec": 218,
+   "start": "2026-06-15T09:00:10.000Z",
+   "durationSec": 738,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Foreign Affairs Council",
@@ -163,13 +163,19 @@
      "title": "Foreign Affairs Council",
      "summary": "Departure of Ararat MIRZOYAN, Minister of Foreign Affairs of Armenia",
      "inst": "Council"
+    },
+    {
+     "ref": "I-291274",
+     "title": "Foreign Affairs Council",
+     "summary": "Arrival doorstep by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
+     "inst": "Council"
     }
    ]
   },
   {
    "ep": true,
-   "start": "2026-06-15T11:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-15T09:30:10.000Z",
+   "durationSec": 65,
    "channel": "EBS",
    "status": "EDIT",
    "title": "EP News Roberta METSOLA, EP President meets with Badr ABDELATTY, Egyptian Minister for Foreign Affairs, Emigration and Egyptian Expatriates",
@@ -187,71 +193,9 @@
    ]
   },
   {
-   "ep": false,
-   "start": "2026-06-15T12:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "EDIT_RECORDED",
-   "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291215",
-     "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
-     "summary": "Details to follow",
-     "inst": "Host"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-15T13:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "Foreign Affairs Council",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES"
-   ],
-   "items": [
-    {
-     "ref": "I-290918",
-     "title": "Foreign Affairs Council",
-     "summary": "Press conference by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
-     "inst": "Council"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-15T13:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EU-Egypt Association Council",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291112",
-     "title": "EU-Egypt Association Council",
-     "summary": "Joint doorstep by Kaja KALLAS, EU High Representative for Foreign Affairs and Security Policy, and Badr ABDELATTY, Minister of Foreign Affairs, Emigration and Egyptian Expatriates of Egypt",
-     "inst": "Council"
-    }
-   ]
-  },
-  {
    "ep": true,
-   "start": "2026-06-15T13:50:00.000Z",
-   "durationSec": 1693,
+   "start": "2026-06-15T09:30:10.000Z",
+   "durationSec": 1954,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "EP Stockshot",
@@ -318,6 +262,182 @@
    ]
   },
   {
+   "ep": false,
+   "start": "2026-06-15T09:45:10.000Z",
+   "durationSec": 31,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "G7 Summit in Evian, France",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291276",
+     "title": "G7 Summit in Evian, France",
+     "summary": "Arrival at Geneva Airport and welcome by Guy PARMELIN, President of the Swiss Confederation Trilateral meeting Ursula von der LEYEN, President of the European Commission, António COSTA, President of the European Council and Guy PARMELIN, President of the Swiss Confederation",
+     "inst": "EC"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T10:40:10.000Z",
+   "durationSec": 2051,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291215",
+     "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
+     "summary": "Kostas KOUMIS, Cypriot Deputy Minister for Tourism Marina CHAPASI, Director General of the Ministry of Transport, Communications and Works Apostolos TZITZIKOSTAS, European Commissioner for Sustainable Transport and Tourism Florian GUILLERMET, Executive Director of the European Union Aviation Safety Agency (EASA) Eurocontrol",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-291281",
+     "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
+     "summary": "Bilateral meeting with Bogdan COSTAS, CEO TAROM",
+     "inst": "Host"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T11:15:57.520Z",
+   "durationSec": 2245,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Foreign Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291266",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep by Paulo RANGEL, Portuguese Deputy Prime Minister and Minister for Foreign Affairs",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291282",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep by Petr MACINKA, Czech Deputy Prime Minister, Minister of Foreign Affairs and Minister of the Environment",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T12:00:10.000Z",
+   "durationSec": 189,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "G7 Summit in Evian, France",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291285",
+     "title": "G7 Summit in Evian, France",
+     "summary": "Arrival of Ursula von der LEYEN, President of the European Commission",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291284",
+     "title": "G7 Summit in Evian, France",
+     "summary": "General views of Summit venue",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Foreign Affairs Council",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES"
+   ],
+   "items": [
+    {
+     "ref": "I-290918",
+     "title": "Foreign Affairs Council",
+     "summary": "Press conference by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "G7 Summit in Evian, France",
+   "languages": [
+    "INT",
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-290910",
+     "title": "G7 Summit in Evian, France",
+     "summary": "Press conference by António COSTA, President of the European Council and Ursula von der LEYEN, President of the European Commission ahead of the G7 Summit in Evian, France",
+     "inst": "EC"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EU-Egypt Association Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291112",
+     "title": "EU-Egypt Association Council",
+     "summary": "Joint doorstep by Kaja KALLAS, EU High Representative for Foreign Affairs and Security Policy, and Badr ABDELATTY, Minister of Foreign Affairs, Emigration and Egyptian Expatriates of Egypt",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T13:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE_RECORDED",
+   "title": "Foreign Affairs Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291283",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorsteps",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
    "ep": true,
    "start": "2026-06-15T14:30:00.000Z",
    "durationSec": 0,
@@ -354,9 +474,36 @@
    ],
    "items": [
     {
+     "ref": "I-291125",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Family photo",
+     "inst": "Council"
+    },
+    {
      "ref": "I-291126",
      "title": "Accession Conference with Montenegro",
      "summary": "Roundtable",
+     "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Accession Conference with Montenegro",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-291113",
+     "title": "Accession Conference with Montenegro",
+     "summary": "Press conference",
      "inst": "Council"
     }
    ]
@@ -539,7 +686,9 @@
    "status": "LIVE",
    "title": "Accession Conference with Ukraine",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR"
    ],
    "items": [
     {
@@ -605,7 +754,33 @@
   },
   {
    "ep": true,
-   "start": "2026-06-15T18:00:00.000Z",
+   "start": "2026-06-15T17:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference Air passenger rights",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "EL",
+    "MT",
+    "BG"
+   ],
+   "items": [
+    {
+     "ref": "I-291175",
+     "title": "EP Press Conference Air passenger rights",
+     "summary": "Press conference by Roberta METSOLA, EP President, Alexis VAFEADAS, Cyprus's Minister of Transport, Apostolos TZITZIKOSTAS, European Commissioner for Sustainable Transport and Tourism, Andrey NOVAKOV (EPP, BG), rapporteur and Virginijus SINKEVIČIUS (Greens/EFA, LT), vice-chair of TRAN Committee",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291175-V_v"
+    }
+   ]
+  },
+  {
+   "ep": true,
+   "start": "2026-06-15T18:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
@@ -618,6 +793,48 @@
      "ref": "I-291023",
      "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro EU-US trade deal",
      "summary": "EU-US trade deal extracts from the debate",
+     "inst": "EP"
+    }
+   ]
+  },
+  {
+   "ep": true,
+   "start": "2026-06-15T18:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "Exchange of views with Andrzej POCZOBUT, Sakharov Prize 2025 laureate AFET, DEVE, DROI and D-BY Committee",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "LV",
+    "PL",
+    "RO"
+   ],
+   "items": [
+    {
+     "ref": "I-290862",
+     "title": "Exchange of views with Andrzej POCZOBUT, Sakharov Prize 2025 laureate AFET, DEVE, DROI and D-BY Committee",
+     "summary": "Introductory remarks by David MCALLISTER (EPP, DE), AFET Chair, DEVE Vice-Chair, Andrzej POCZOBUT, Sakharov Prize 2025 laureate and Małgorzata GOSIEWSKA (ECR, PL), D-BY Chair Committee on Foreign Affairs (AFET), Committee on Development (DEVE), Subcommittee on Human Rights (DROI) and Delegation for relations with Belarus (D-BY)",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-290866",
+     "title": "Exchange of views with Andrzej POCZOBUT, Sakharov Prize 2025 laureate AFET, DEVE, DROI and D-BY Committee",
+     "summary": "Q&A Committee on Foreign Affairs (AFET), Committee on Development (DEVE), Subcommittee on Human Rights (DROI) and Delegation for relations with Belarus (D-BY)",
+     "inst": "EP"
+    },
+    {
+     "ref": "I-290867",
+     "title": "Exchange of views with Andrzej POCZOBUT, Sakharov Prize 2025 laureate AFET, DEVE, DROI and D-BY Committee",
+     "summary": "Closing statements by Mounir SATOURI (Greens/EFA, FR), DROI Chair Committee on Foreign Affairs (AFET), Committee on Development (DEVE), Subcommittee on Human Rights (DROI) and Delegation for relations with Belarus (D-BY)",
      "inst": "EP"
     }
    ]
@@ -636,7 +853,7 @@
     {
      "ref": "I-291115",
      "title": "Accession Conference with Moldova",
-     "summary": "Press conference",
+     "summary": "Press conference by Marilena RAOUNA, Cypriot Deputy Minister for European Affairs, Marta KOS, European Commissioner for Enlargement, and Alexandru MUNTEANU, Moldovan Prime Minister",
      "inst": "Council"
     }
    ]
@@ -682,7 +899,7 @@
   {
    "ep": true,
    "start": "2026-06-16T06:00:00.000Z",
-   "durationSec": 2564,
+   "durationSec": 2856,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "EP Stockshot",
@@ -749,7 +966,7 @@
     {
      "ref": "I-287432",
      "title": "EP Stockshot Migration - Returns regulation",
-     "summary": "Infoclip: Migration - Returns regulation (working title)",
+     "summary": "Infoclip: Migration - Returns regulation",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I287432-V_v"
     },
@@ -766,6 +983,12 @@
      "summary": "This Infoclip shows civil society (in particular the volunteers of the Non-Governmental Organisation \"Salam\") support to refugees in Calais (France). Since the demolition of the large \"Jungle camp\" in Calais in 2016 there has been an administrative policy of \"no fixation points\" for migrants to settle in, aiming to stop another large camp from forming. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need.",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I279175-V_v"
+    },
+    {
+     "ref": "I-279187",
+     "title": "EP Stockshots",
+     "summary": "Infoclip: Plant-based food",
+     "inst": "EP"
     }
    ]
   },
@@ -983,63 +1206,41 @@
    ]
   },
   {
-   "ep": true,
+   "ep": false,
    "start": "2026-06-16T10:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "RECORDED",
-   "title": "EP Political Groups press briefings",
+   "status": "LIVE",
+   "title": "EC Midday press briefing of 16/06/2026",
    "languages": [
     "INT",
     "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "PL"
+    "FR"
    ],
    "items": [
     {
-     "ref": "I-290870",
-     "title": "EP Political Groups press briefings",
-     "summary": "Press briefing by Terry REINTKE (Greens/EFA, DE) and Bas EICKHOUT (Greens/EFA, NL), Greens/EFA Group Co-Presidents",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290870-V_v"
+     "ref": "I-291219",
+     "title": "EC Midday press briefing of 16/06/2026",
+     "summary": "Announcements",
+     "inst": "EC"
     },
     {
-     "ref": "I-290869",
-     "title": "EP Political Groups press briefings",
-     "summary": "Press briefing by Manfred WEBER (EPP, DE), EPP Group President",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290869-V_v"
+     "ref": "I-291220",
+     "title": "EC Midday press briefing of 16/06/2026",
+     "summary": "Q&A",
+     "inst": "EC"
     },
     {
-     "ref": "I-290871",
-     "title": "EP Political Groups press briefings",
-     "summary": "Press briefing by Iratxe GARCÍA PÉREZ, (S&D, ES), S&D Group President",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290871-V_v"
+     "ref": "I-291222",
+     "title": "EC Midday press briefing of 16/06/2026",
+     "summary": "Exterior views of the European Commission Berlaymont building",
+     "inst": "EC"
     },
     {
-     "ref": "I-290873",
-     "title": "EP Political Groups press briefings)",
-     "summary": "Press briefing by Nicola PROCACCINI (ECR, IT) and Patryk JAKI (ECR, PL), ECR Group Co-Presidents",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290873-V_v"
-    },
-    {
-     "ref": "I-290874",
-     "title": "EP Political Groups press briefings",
-     "summary": "Press briefing by Valérie HAYER (Renew, FR), Renew Europe Group President",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290874-V_v"
-    },
-    {
-     "ref": "I-290999",
-     "title": "EP Political Groups Press Briefing",
-     "summary": "Press briefing by Martin SCHIRDEWAN (GUE-NGL) of the European Parliament and Manon AUBRY (The Left, FR), The Left Group Co-Presidents",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290999-V_v"
+     "ref": "I-291223",
+     "title": "EC Midday press briefing of 16/06/2026",
+     "summary": "Recorded cutaways",
+     "inst": "EC"
     }
    ]
   },
@@ -1139,22 +1340,48 @@
    ]
   },
   {
-   "ep": true,
+   "ep": false,
    "start": "2026-06-16T11:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commissioner Dan JØRGENSEN in Vienna, Austria for the 10th World Summit, Austria",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290778",
+     "title": "European Commissioner Dan JØRGENSEN in Vienna, Austria for the 10th World Summit, Austria",
+     "summary": "Panel Discussion: Climate Action is a marathon, not a sprint Host: Hannelore VEIT Panelists Dan JØRGENSEN, European Commissioner for Energy and Housing Timothy James WALZ, Governor of Minnesota, USA Anita ORBAN, Minister for Foreign Affairs, Hungary (TBC) Ed MILLIBAND, Minister of Energy of the United Kingdom (TBC)",
+     "inst": "EC"
+    }
+   ]
+  },
+  {
+   "ep": true,
+   "start": "2026-06-16T11:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
    "status": "EDIT",
-   "title": "EP News The urgent need for the de-escalation of military confrontations in the Middle East",
+   "title": "EP News The urgent need for the de-escalation of military confrontations in the Middle East Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-291000",
-     "title": "EP News The urgent need for the de-escalation of military confrontations in the Middle East",
+     "title": "EP News The urgent need for the de-escalation of military confrontations in the Middle East Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
      "summary": "The urgent need for the de-escalation of military confrontations in the Middle East: extracts from the debate",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291000-V_v"
+    },
+    {
+     "ref": "I-290861",
+     "title": "EP News The urgent need for the de-escalation of military confrontations in the Middle East Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
+     "summary": "Formal sitting with Jakov MILATOVIĆ, President of Montenegro meeting with Roberta METSOLA, EP President extracts from the address to the Plenary",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290861-V_v"
     }
    ]
   },
@@ -1219,18 +1446,22 @@
    "start": "2026-06-16T12:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
+   "status": "LIVE",
+   "title": "EP Press Conference EU-US Trade Agreement",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "ES"
    ],
    "items": [
     {
-     "ref": "I-290861",
-     "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
-     "summary": "Formal sitting with Jakov MILATOVIĆ, President of Montenegro meeting with Roberta METSOLA, EP President extracts from the address to the Plenary",
+     "ref": "I-291275",
+     "title": "EP Press Conference EU-US Trade Agreement",
+     "summary": "Press conference by Bernd LANGE (DE, S&D), Chair of INTA Committee and Rapporteur on EU-US Trade Agreement",
      "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290861-V_v"
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291275-V_v"
     }
    ]
   },
@@ -1292,29 +1523,6 @@
   },
   {
    "ep": true,
-   "start": "2026-06-16T12:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Political Groups press briefings Patriots for Europe",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "HU"
-   ],
-   "items": [
-    {
-     "ref": "I-290875",
-     "title": "EP Political Groups press briefings Patriots for Europe",
-     "summary": "Press briefing by Jordan BARDELLA (PfE, FR), President of PfE Group, Kinga GÁL, Vice-President of PfE Group",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290875-V_v"
-    }
-   ]
-  },
-  {
-   "ep": true,
    "start": "2026-06-16T13:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -1336,25 +1544,6 @@
      "summary": "Press conference by Hannah NEUMANN (Greens/EFA, DE), rapporteur on Countering transnational repression",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291026-V_v"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-16T13:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Weekly European Commission College meeting",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290769",
-     "title": "Weekly European Commission College meeting",
-     "summary": "Roundtable",
-     "inst": "EC"
     }
    ]
   },
@@ -1515,6 +1704,25 @@
    ]
   },
   {
+   "ep": false,
+   "start": "2026-06-16T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Weekly European Commission College meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290769",
+     "title": "Weekly European Commission College meeting",
+     "summary": "Roundtable",
+     "inst": "EC"
+    }
+   ]
+  },
+  {
    "ep": true,
    "start": "2026-06-16T15:00:00.000Z",
    "durationSec": 0,
@@ -1658,6 +1866,75 @@
      "summary": "An EU future for the Western Balkans extracts from the debate",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291025-V_v"
+    }
+   ]
+  },
+  {
+   "ep": true,
+   "start": "2026-06-16T17:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "RECORDED",
+   "title": "EP Political Groups press briefings",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "HU",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-290870",
+     "title": "EP Political Groups press briefings",
+     "summary": "Press briefing by Terry REINTKE (Greens/EFA, DE) and Bas EICKHOUT (Greens/EFA, NL), Greens/EFA Group Co-Presidents",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290870-V_v"
+    },
+    {
+     "ref": "I-290869",
+     "title": "EP Political Groups press briefings",
+     "summary": "Press briefing by Manfred WEBER (EPP, DE), EPP Group President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290869-V_v"
+    },
+    {
+     "ref": "I-290871",
+     "title": "EP Political Groups press briefings",
+     "summary": "Press briefing by Iratxe GARCÍA PÉREZ, (S&D, ES), S&D Group President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290871-V_v"
+    },
+    {
+     "ref": "I-290873",
+     "title": "EP Political Groups press briefings)",
+     "summary": "Press briefing by Nicola PROCACCINI (ECR, IT) and Patryk JAKI (ECR, PL), ECR Group Co-Presidents",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290873-V_v"
+    },
+    {
+     "ref": "I-290874",
+     "title": "EP Political Groups press briefings",
+     "summary": "Press briefing by Valérie HAYER (Renew, FR), Renew Europe Group President",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290874-V_v"
+    },
+    {
+     "ref": "I-290999",
+     "title": "EP Political Groups Press Briefing",
+     "summary": "Press briefing by Martin SCHIRDEWAN (GUE-NGL) of the European Parliament and Manon AUBRY (The Left, FR), The Left Group Co-Presidents",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290999-V_v"
+    },
+    {
+     "ref": "I-290875",
+     "title": "EP Political Groups press briefings Patriots for Europe",
+     "summary": "Press briefing by Jordan BARDELLA (PfE, FR), President of PfE Group, Kinga GÁL, Vice-President of PfE Group",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290875-V_v"
     }
    ]
   },
@@ -2301,7 +2578,7 @@
     {
      "ref": "I-291071",
      "title": "EP News LEX signing",
-     "summary": "LEX signing ceremony",
+     "summary": "LEX signing ceremony in the presence of Roberta METSOLA, EP President and Marilena RAOUNA, Deputy Minister for European Affairs, on behalf of the Cyprus Presidency",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291071-V_v"
     }
@@ -2550,6 +2827,25 @@
    ]
   },
   {
+   "ep": true,
+   "start": "2026-06-18T11:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Roberta METSOLA, EP President, meets with Antonio COSTA, President of the Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291076",
+     "title": "EP News Roberta METSOLA, EP President, meets with Antonio COSTA, President of the Council",
+     "summary": "Roberta METSOLA, EP President meets with Antonio COSTA, President of the European Council: extracts from the meeting",
+     "inst": "EP"
+    }
+   ]
+  },
+  {
    "ep": false,
    "start": "2026-06-18T12:00:00.000Z",
    "durationSec": 0,
@@ -2571,6 +2867,26 @@
      "title": "European Commission President Ursula von der LEYEN receives the Prime Minister of Croatia Andrej PLENKOVIĆ",
      "summary": "Exterior views of the European Commission Berlaymont building with the flag of Croatia",
      "inst": "EC"
+    }
+   ]
+  },
+  {
+   "ep": true,
+   "start": "2026-06-18T12:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Roberta METSOLA, EP President, meets with Peter MAGYAR, Hungarian Prime Minister",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291077",
+     "title": "EP News Roberta METSOLA, EP President, meets with Peter MAGYAR, Hungarian Prime Minister",
+     "summary": "Roberta METSOLA, EP President meets with Peter MAGYAR, Hungarian Prime Minister: extracts from the meeting",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291077-V_v"
     }
    ]
   },
@@ -2700,6 +3016,26 @@
      "title": "European Council (Main feed)",
      "summary": "Roundtable",
      "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": true,
+   "start": "2026-06-18T18:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Roberta METSOLA, EP President participates at the European Council meeting",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290825",
+     "title": "EP News Roberta METSOLA, EP President participates at the European Council meeting",
+     "summary": "Roberta METSOLA, EP President participates at the European Council meeting arrival doorstep roundtable",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290825-V_v"
     }
    ]
   },
