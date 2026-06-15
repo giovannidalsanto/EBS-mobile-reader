@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-15T07:26:19+00:00",
+ "generatedAt": "2026-06-15T08:42:42+00:00",
  "events": [
   {
    "ep": false,
@@ -100,7 +100,7 @@
     {
      "ref": "I-291209",
      "title": "Foreign Affairs Council",
-     "summary": "Doorstep José Manuel ALBARES Bueno, Minister of Foreign Affairs, European Union and Cooperation of Spain",
+     "summary": "Doorstep José Manuel ALBARES BUENO, Minister of Foreign Affairs, European Union and Cooperation of Spain",
      "inst": "Council"
     },
     {
@@ -112,7 +112,13 @@
     {
      "ref": "I-291211",
      "title": "Foreign Affairs Council",
-     "summary": "Arrivals and doorsteps",
+     "summary": "Arrival doorstep by Beate MEINL-REISINGER, Austrian Federal Minister for European and International Affairs",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291212",
+     "title": "Foreign Affairs Council",
+     "summary": "Arrival doorstep by Tone KAJZER, Slovenian Minister for Foreign and European Affairs",
      "inst": "Council"
     }
    ]
@@ -120,7 +126,7 @@
   {
    "ep": false,
    "start": "2026-06-15T09:00:00.000Z",
-   "durationSec": 152,
+   "durationSec": 218,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Foreign Affairs Council",
@@ -151,45 +157,12 @@
      "title": "Foreign Affairs Council",
      "summary": "Roundtable",
      "inst": "Council"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-15T10:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EC Midday press briefing of 15/06/2026",
-   "languages": [
-    "INT",
-    "EN",
-    "FR"
-   ],
-   "items": [
-    {
-     "ref": "I-290747",
-     "title": "EC Midday press briefing of 15/06/2026",
-     "summary": "Announcements",
-     "inst": "EC"
     },
     {
-     "ref": "I-290748",
-     "title": "EC Midday press briefing of 15/06/2026",
-     "summary": "Q&A",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-290753",
-     "title": "EC Midday press briefing of 15/06/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-290752",
-     "title": "EC Midday press briefing of 15/06/2026",
-     "summary": "Recorded cutaways",
-     "inst": "EC"
+     "ref": "I-291265",
+     "title": "Foreign Affairs Council",
+     "summary": "Departure of Ararat MIRZOYAN, Minister of Foreign Affairs of Armenia",
+     "inst": "Council"
     }
    ]
   },
@@ -631,6 +604,25 @@
    ]
   },
   {
+   "ep": true,
+   "start": "2026-06-15T18:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News EU-US trade deal",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291023",
+     "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro EU-US trade deal",
+     "summary": "EU-US trade deal extracts from the debate",
+     "inst": "EP"
+    }
+   ]
+  },
+  {
    "ep": false,
    "start": "2026-06-15T19:15:00.000Z",
    "durationSec": 0,
@@ -835,7 +827,7 @@
   },
   {
    "ep": true,
-   "start": "2026-06-16T08:30:00.000Z",
+   "start": "2026-06-16T08:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1228,23 +1220,73 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
-   "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro EU-US trade deal",
+   "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-290861",
-     "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro EU-US trade deal",
+     "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro",
      "summary": "Formal sitting with Jakov MILATOVIĆ, President of Montenegro meeting with Roberta METSOLA, EP President extracts from the address to the Plenary",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290861-V_v"
+    }
+   ]
+  },
+  {
+   "ep": true,
+   "start": "2026-06-16T12:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "EP Plenary Session Common system for the return of third-country nationals staying illegally in the Union (Return Regulation)",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "EL",
+    "PT",
+    "NL",
+    "DA",
+    "FI",
+    "SV",
+    "CS",
+    "ET",
+    "LV",
+    "LT",
+    "HU",
+    "PL",
+    "SK",
+    "SL",
+    "BG",
+    "RO",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291067",
+     "title": "EP Plenary Session Common system for the return of third-country nationals staying illegally in the Union (Return Regulation)",
+     "summary": "Opening statements",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291067-V_v"
     },
     {
-     "ref": "I-291023",
-     "title": "EP News Formal sitting with Jakov MILATOVIĆ, President of Montenegro EU-US trade deal",
-     "summary": "EU-US trade deal extracts from the debate",
-     "inst": "EP"
+     "ref": "I-291068",
+     "title": "EP Plenary Session Common system for the return of third-country nationals staying illegally in the Union (Return Regulation)",
+     "summary": "One round of political group speakers",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291068-V_v"
+    },
+    {
+     "ref": "I-291069",
+     "title": "EP Plenary Session Common system for the return of third-country nationals staying illegally in the Union (Return Regulation)",
+     "summary": "Closing statements",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291069-V_v"
     }
    ]
   },
@@ -1322,87 +1364,6 @@
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
-   "title": "EP Plenary Session Common system for the return of third-country nationals staying illegally in the Union (Return Regulation)",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "EL",
-    "PT",
-    "NL",
-    "DA",
-    "FI",
-    "SV",
-    "CS",
-    "ET",
-    "LV",
-    "LT",
-    "HU",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-291067",
-     "title": "EP Plenary Session Common system for the return of third-country nationals staying illegally in the Union (Return Regulation)",
-     "summary": "Opening statements",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291067-V_v"
-    },
-    {
-     "ref": "I-291068",
-     "title": "EP Plenary Session Common system for the return of third-country nationals staying illegally in the Union (Return Regulation)",
-     "summary": "One round of political group speakers",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291068-V_v"
-    },
-    {
-     "ref": "I-291069",
-     "title": "EP Plenary Session Common system for the return of third-country nationals staying illegally in the Union (Return Regulation)",
-     "summary": "Closing statements",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291069-V_v"
-    }
-   ]
-  },
-  {
-   "ep": true,
-   "start": "2026-06-16T13:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Press Conference Multiannual Financial Framework (MFF)",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "PT",
-    "RO"
-   ],
-   "items": [
-    {
-     "ref": "I-291176",
-     "title": "EP Press Conference Multiannual Financial Framework (MFF)",
-     "summary": "Press conference by Siegfried MUREŞAN (EPP, RO), and Carla Tavares (S&D, PT), co-rapporteurs on the MFF",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291176-V_v"
-    }
-   ]
-  },
-  {
-   "ep": true,
-   "start": "2026-06-16T13:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
    "title": "EP Plenary Session State of play on the European Commission’s pledge to reduce the reporting burden, in particular for SMEs",
    "languages": [
     "INT",
@@ -1451,6 +1412,31 @@
    ]
   },
   {
+   "ep": true,
+   "start": "2026-06-16T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference Multiannual Financial Framework (MFF)",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "PT",
+    "RO"
+   ],
+   "items": [
+    {
+     "ref": "I-291176",
+     "title": "EP Press Conference Multiannual Financial Framework (MFF)",
+     "summary": "Press conference by Siegfried MUREŞAN (EPP, RO), and Carla Tavares (S&D, PT), co-rapporteurs on the MFF",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291176-V_v"
+    }
+   ]
+  },
+  {
    "ep": false,
    "start": "2026-06-16T14:00:00.000Z",
    "durationSec": 0,
@@ -1477,7 +1463,7 @@
   },
   {
    "ep": true,
-   "start": "2026-06-16T14:30:00.000Z",
+   "start": "2026-06-16T14:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1581,7 +1567,7 @@
   },
   {
    "ep": true,
-   "start": "2026-06-16T15:30:00.000Z",
+   "start": "2026-06-16T15:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -2013,7 +1999,7 @@
     {
      "ref": "I-290817",
      "title": "EP Plenary Session Voting Session",
-     "summary": "Voting Session POLFJÄRD - Plants obtained by certain new genomic techniques and their food and feed (ECON A10-0161/2026) KUBIN - Structure and rates of excise duty applied to tobacco and tobacco related products (recast) (ECON A10-0160/2026) KUBIN - General arrangements for excise duty applied to tobacco and tobacco related products (ECON A10-0159/2026) HADJIPANTELA - European Public Prosecutor’s Office (EPPO) and the European Anti-Fraud Office (OLAF): access to value added tax information at Union level (INTA A10-0134/2026) BRICMONT - EU-Pakistan Agreement: modification of concessions on all the tariff rate quotas included in the EU Schedule CLXXV (INTA A10-0133/2026) KARLSBRO - EU–Liberia Voluntary Partnership Agreement on forest law enforcement, governance and trade in timber products: termination (INTA A10-0146/2026) KARLSBRO - EU–Liberia Voluntary Partnership Agreement on forest law enforcement, governance and trade in timber products: termination (Resolution) (JURI A10-0157/2026) KYUCHYUK - Hague Convention (1980) on the Civil Aspects of International Child Abduction: accession of Cabo Verde (AFET A10-0150/2026 ) ORLANDO - Recommendation on promoting transnational governance on water in the interests of conflict prevention and peace (AFET A10-0140/2026) JUKNEVIČIENĖ - 2025 Commission report on Georgia",
+     "summary": "Voting Session POLFJÄRD - Plants obtained by certain new genomic techniques and their food and feed (LIBE A10-0048/2026) AZMANI (INTA A10-0134/2026) BRICMONT - EU-Pakistan Agreement: modification of concessions on all the tariff rate quotas included in the EU Schedule CLXXV (INTA A10-0133/2026) KARLSBRO - EU–Liberia Voluntary Partnership Agreement on forest law enforcement, governance and trade in timber products: termination (INTA A10-0146/2026) KARLSBRO - EU–Liberia Voluntary Partnership Agreement on forest law enforcement, governance and trade in timber products: termination (Resolution) (ECON A10-0161/2026) KUBIN - Structure and rates of excise duty applied to tobacco and tobacco related products (recast) (ECON A10-0160/2026) KUBIN - General arrangements for excise duty applied to tobacco and tobacco related products (ECON A10-0159/2026) HADJIPANTELA - European Public Prosecutor’s Office (EPPO) and the European Anti-Fraud Office (OLAF): access to value added tax information at Union level (JURI A10-0157/2026) KYUCHYUK - Hague Convention (1980) on the Civil Aspects of International Child Abduction: accession of Cabo Verde (AFET A10-0150/2026 ) ORLANDO - Recommendation on promoting transnational governance on water in the interests of conflict prevention and peace (AFET A10-0140/2026) JUKNEVIČIENĖ - 2025 Commission report on Georgia",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290817-V_v"
     }
@@ -2149,33 +2135,7 @@
   },
   {
    "ep": true,
-   "start": "2026-06-17T13:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Press Conference 2025 report on Albania and Georgia",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "LT",
-    "PL",
-    "HR"
-   ],
-   "items": [
-    {
-     "ref": "I-291041",
-     "title": "EP Press Conference 2025 report on Albania and Georgia",
-     "summary": "Press conference by Andreas SCHIEDER (S&D, AU) and Rasa JUKNEVIČIENĖ (EPP, LT), rapporteurs on the 2025 report on Albania and Georgia",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291041-V_v"
-    }
-   ]
-  },
-  {
-   "ep": true,
-   "start": "2026-06-17T13:00:00.000Z",
+   "start": "2026-06-17T12:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -2201,6 +2161,32 @@
      "title": "EP Plenary Session Electrification Action Plan",
      "summary": "Closing statement",
      "inst": "EP"
+    }
+   ]
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T13:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference 2025 report on Albania and Georgia",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "LT",
+    "PL",
+    "HR"
+   ],
+   "items": [
+    {
+     "ref": "I-291041",
+     "title": "EP Press Conference 2025 report on Albania and Georgia",
+     "summary": "Press conference by Andreas SCHIEDER (S&D, AU) and Rasa JUKNEVIČIENĖ (EPP, LT), rapporteurs on the 2025 report on Albania and Georgia",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291041-V_v"
     }
    ]
   },
@@ -2232,6 +2218,26 @@
   },
   {
    "ep": true,
+   "start": "2026-06-17T14:05:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Roberta METSOLA, EP President meets with Andrzej POCZOBUT",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290829",
+     "title": "EP News Roberta METSOLA, EP President meets with Andrzej POCZOBUT",
+     "summary": "Roberta METSOLA, EP President meets with Andrzej POCZOBUT, Belarusian journalist, 2025 Sakharov Prize laureate extracts from the formal sitting",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290829-V_v"
+    }
+   ]
+  },
+  {
+   "ep": true,
    "start": "2026-06-17T14:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
@@ -2252,27 +2258,7 @@
   },
   {
    "ep": true,
-   "start": "2026-06-17T15:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News LEX signing",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291071",
-     "title": "EP News LEX signing",
-     "summary": "LEX signing ceremony",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291071-V_v"
-    }
-   ]
-  },
-  {
-   "ep": true,
-   "start": "2026-06-17T15:00:00.000Z",
+   "start": "2026-06-17T14:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -2303,7 +2289,27 @@
   },
   {
    "ep": true,
-   "start": "2026-06-17T16:00:00.000Z",
+   "start": "2026-06-17T15:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News LEX signing",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291071",
+     "title": "EP News LEX signing",
+     "summary": "LEX signing ceremony",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291071-V_v"
+    }
+   ]
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T15:45:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -2455,7 +2461,7 @@
   },
   {
    "ep": true,
-   "start": "2026-06-18T08:00:00.000Z",
+   "start": "2026-06-18T08:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
