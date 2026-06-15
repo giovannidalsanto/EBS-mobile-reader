@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-15T12:35:53+00:00",
+ "generatedAt": "2026-06-15T13:26:35+00:00",
  "events": [
   {
    "ep": false,
@@ -18,7 +18,8 @@
      "summary": "Details to follow",
      "inst": "EC"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -121,7 +122,8 @@
      "summary": "Arrival doorstep by Tone KAJZER, Slovenian Minister for Foreign and European Affairs",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -170,7 +172,8 @@
      "summary": "Arrival doorstep by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -190,7 +193,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290983-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -259,7 +263,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I289069-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -278,7 +283,8 @@
      "summary": "Arrival at Geneva Airport and welcome by Guy PARMELIN, President of the Swiss Confederation Trilateral meeting Ursula von der LEYEN, President of the European Commission, António COSTA, President of the European Council and Guy PARMELIN, President of the Swiss Confederation",
      "inst": "EC"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -303,7 +309,8 @@
      "summary": "Bilateral meeting with Bogdan COSTAS, CEO TAROM",
      "inst": "Host"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -328,7 +335,8 @@
      "summary": "Doorstep by Petr MACINKA, Czech Deputy Prime Minister, Minister of Foreign Affairs and Minister of the Environment",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -353,11 +361,45 @@
      "summary": "General views of Summit venue",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-15T13:00:00.000Z",
+   "start": "2026-06-15T13:02:27.720Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "G7 Summit in Evian, France",
+   "languages": [
+    "INT",
+    "EN"
+   ],
+   "items": [
+    {
+     "ref": "I-290910",
+     "title": "G7 Summit in Evian, France",
+     "summary": "Press conference opening remarks by António COSTA, President of the European Council ahead of the G7 Summit in Evian, France",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291286",
+     "title": "G7 Summit in Evian, France",
+     "summary": "Press conference opening remarks by Ursula von der LEYEN, President of the European Commission ahead of the G7 Summit in Evian, France",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291287",
+     "title": "G7 Summit in Evian, France",
+     "summary": "Press conference Q&A with António COSTA, President of the European Council and Ursula von der LEYEN, President of the European Commission ahead of the G7 Summit in Evian, France",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T13:20:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -377,27 +419,8 @@
      "summary": "Press conference by Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
      "inst": "Council"
     }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-15T13:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS+",
-   "status": "LIVE",
-   "title": "G7 Summit in Evian, France",
-   "languages": [
-    "INT",
-    "EN"
    ],
-   "items": [
-    {
-     "ref": "I-290910",
-     "title": "G7 Summit in Evian, France",
-     "summary": "Press conference by António COSTA, President of the European Council and Ursula von der LEYEN, President of the European Commission ahead of the G7 Summit in Evian, France",
-     "inst": "EC"
-    }
-   ]
+   "firstSeen": "2026-06-15T13:26:35+00:00"
   },
   {
    "ep": false,
@@ -416,7 +439,8 @@
      "summary": "Joint doorstep by Kaja KALLAS, EU High Representative for Foreign Affairs and Security Policy, and Badr ABDELATTY, Minister of Foreign Affairs, Emigration and Egyptian Expatriates of Egypt",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -432,10 +456,11 @@
     {
      "ref": "I-291283",
      "title": "Foreign Affairs Council",
-     "summary": "Doorsteps",
+     "summary": "Doorstep by Radosław SIKORSKI, Deputy Prime Minister, Minister of Foreign Affairs of Poland",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -460,7 +485,8 @@
      "summary": "Last minute press briefing",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -485,7 +511,8 @@
      "summary": "Roundtable",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -503,10 +530,11 @@
     {
      "ref": "I-291113",
      "title": "Accession Conference with Montenegro",
-     "summary": "Press conference",
+     "summary": "Press conference by Marilena RAOUNA, Cypriot Deputy Minister for European Affairs, Marta KOS, European Commissioner for Enlargement, and Milojko SPAJIĆ, Montenegrin Prime Minister",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -547,7 +575,8 @@
      "summary": "Resumption of Session and Order of Business",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -585,7 +614,7 @@
     {
      "ref": "I-290965",
      "title": "EP Plenary Session Time for European economic independence",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Stéphane SÉJOURNÉ, Executive Vice-President of the European Commission for Prosperity and Industrial Strategy",
      "inst": "EP"
     },
     {
@@ -597,10 +626,11 @@
     {
      "ref": "I-290970",
      "title": "EP Plenary Session Time for European economic independence",
-     "summary": "Closing statements",
+     "summary": "Closing statement by Stéphane SÉJOURNÉ, Executive Vice-President of the European Commission for Prosperity and Industrial Strategy",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -638,7 +668,7 @@
     {
      "ref": "I-290962",
      "title": "EP Plenary Session EU-US trade deal",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290962-V_v"
     },
@@ -652,11 +682,12 @@
     {
      "ref": "I-291065",
      "title": "EP Plenary Session EU-US trade deal",
-     "summary": "Closing statements",
+     "summary": "Closing statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291065-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -676,7 +707,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290985-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -694,10 +726,11 @@
     {
      "ref": "I-291114",
      "title": "Accession Conference with Ukraine",
-     "summary": "Press conference",
+     "summary": "Press conference by Marilena RAOUNA, Cypriot Deputy Minister for European Affairs, Marta KOS, European Commissioner for Enlargement, and Taras KACHKA, Ukrainian Deputy Prime Minister for European and Euro-Atlantic Integration of Ukraine",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -735,7 +768,7 @@
     {
      "ref": "I-291006",
      "title": "EP Plenary Session Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
      "inst": "EP"
     },
     {
@@ -747,10 +780,11 @@
     {
      "ref": "I-291009",
      "title": "EP Plenary Session Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
-     "summary": "Closing statements",
+     "summary": "Closing statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -776,7 +810,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291175-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -795,7 +830,8 @@
      "summary": "EU-US trade deal extracts from the debate",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -837,7 +873,8 @@
      "summary": "Closing statements by Mounir SATOURI (Greens/EFA, FR), DROI Chair Committee on Foreign Affairs (AFET), Committee on Development (DEVE), Subcommittee on Human Rights (DROI) and Delegation for relations with Belarus (D-BY)",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -856,7 +893,8 @@
      "summary": "Press conference by Marilena RAOUNA, Cypriot Deputy Minister for European Affairs, Marta KOS, European Commissioner for Enlargement, and Alexandru MUNTEANU, Moldovan Prime Minister",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -875,11 +913,12 @@
      "summary": "Details to follow",
      "inst": "EC"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-16T06:00:00.000Z",
+   "start": "2026-06-16T05:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -894,7 +933,8 @@
      "summary": "Arrivals and doorsteps",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
   },
   {
    "ep": true,
@@ -990,7 +1030,8 @@
      "summary": "Infoclip: Plant-based food",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -1046,7 +1087,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290976-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -1102,7 +1144,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291012-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -1133,7 +1176,8 @@
      "summary": "Roundtable",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -1164,7 +1208,8 @@
      "summary": "Roundtable",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -1184,7 +1229,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290981-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -1203,7 +1249,8 @@
      "summary": "ECJ ruling in joined cases C-188/24 WebGroup Czech Republic and NKL Associates et C-190/24 Coyote System regarding electronic commerce directive and restriction of access to pornographic sites for minors + limitation of geolocation-based driving assistance",
      "inst": "Court of Justice o"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -1242,7 +1289,8 @@
      "summary": "Recorded cutaways",
      "inst": "EC"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -1296,7 +1344,8 @@
      "summary": "Closing statements",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -1334,10 +1383,11 @@
     {
      "ref": "I-290859",
      "title": "EP Plenary Session Voting Session",
-     "summary": "details to follow",
+     "summary": "Voting session Votes on requests for urgent procedure (Rule 170) - Shipments of waste: export of mixed municipal waste for recovery to Switzerland Tarczyński - (A10-0152/2026) - Request for the waiver of the immunity of Daniel Attard Kyuchyuk - (A10-0153/2026) - Request for the waiver of the immunity of Salvatore De Meo Tarczyński - (A10-0154/2026) - Request for the waiver of the immunity of Fulvio Martusciello Kyuchyuk - (A10-0155/2026) - Request for the waiver of the immunity of Nikola Minchev Lange (A10-0069/2026) - Adjustment of customs duties and opening of tariff quotas for the import of certain goods originating in the United States of America Lange (A10-0070/2026) - Non-application of customs duties on imports of certain goods Kokalari, McNamara (A10-0073/2026) - Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) Imart (A10-0161/2025) - Strengthening of the position of farmers in the food supply chain Van Overtveldt (A10-0158/2026) - Measures necessary for the implementation of the Protocol, annexed to the Treaty establishing the European Community, on the financial consequences of the expiry of the ECSC Treaty and on the Research Fund for Coal and Steel Rzońca (A10-0149/2026) - Mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application from Belgium – EGF/2025/009 BE/Soliver Vincze, Goerens (A10-0145/2026) - European political parties and foundations – 2026 report on the application of Regulation (EU, Euratom) No 2025/2445 and on the activities funded Neumann (A10-0142/2026) - Countering transnational repression – towards an EU strategy to protect Europe’s sovereignty and democratic values Zoido Álvarez (A10-0148/2026) - Role of trade in strengthening the EU's economic security Mandl (A10-0147/2026) - Reinforcing development cooperation to address irregular population movements and their root causes in partner countries",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -1356,7 +1406,8 @@
      "summary": "Panel Discussion: Climate Action is a marathon, not a sprint Host: Hannelore VEIT Panelists Dan JØRGENSEN, European Commissioner for Energy and Housing Timothy James WALZ, Governor of Minnesota, USA Anita ORBAN, Minister for Foreign Affairs, Hungary (TBC) Ed MILLIBAND, Minister of Energy of the United Kingdom (TBC)",
      "inst": "EC"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -1383,7 +1434,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290861-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -1439,7 +1491,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290979-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -1463,7 +1516,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291275-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -1519,33 +1573,28 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291069-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
-   "ep": true,
-   "start": "2026-06-16T13:00:00.000Z",
+   "ep": false,
+   "start": "2026-06-16T12:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Press Conference Countering transnational repression",
+   "status": "RECORDED",
+   "title": "European Commissioner Andrius KUBILIUS in Lisbon, Portugal",
    "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "PL"
+    "INT"
    ],
    "items": [
     {
-     "ref": "I-291026",
-     "title": "EP Press Conference Countering transnational repression",
-     "summary": "Press conference by Hannah NEUMANN (Greens/EFA, DE), rapporteur on Countering transnational repression",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291026-V_v"
+     "ref": "I-290779",
+     "title": "European Commissioner Andrius KUBILIUS in Lisbon, Portugal",
+     "summary": "Europe: Politics and Defence Andrius KUBILIUS, European Commissioner for Defence and Space José María AZNAR, Former Prime Minister of Spain Theresa MAY, Former Prime Minister of the United Kingdom Mikuláš DZURINDA, Former Prime Minister of Slovakia, President of the Wilfred Martens Center Moderation: José Manuel DURÃO BARROSO, Former President of the European Commission and Former Prime Minister of Portugal",
+     "inst": "EC"
     }
-   ]
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
   },
   {
    "ep": true,
@@ -1598,32 +1647,8 @@
      "summary": "Closing statements",
      "inst": "EP"
     }
-   ]
-  },
-  {
-   "ep": true,
-   "start": "2026-06-16T13:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Press Conference Multiannual Financial Framework (MFF)",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "PT",
-    "RO"
    ],
-   "items": [
-    {
-     "ref": "I-291176",
-     "title": "EP Press Conference Multiannual Financial Framework (MFF)",
-     "summary": "Press conference by Siegfried MUREŞAN (EPP, RO), and Carla Tavares (S&D, PT), co-rapporteurs on the MFF",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291176-V_v"
-    }
-   ]
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -1648,7 +1673,8 @@
      "summary": "Press conference by the Cypriot Presidency and the European Commission",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -1701,56 +1727,12 @@
      "summary": "Closing statements",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-16T14:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "Weekly European Commission College meeting",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290769",
-     "title": "Weekly European Commission College meeting",
-     "summary": "Roundtable",
-     "inst": "EC"
-    }
-   ]
-  },
-  {
-   "ep": true,
-   "start": "2026-06-16T15:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Press Conference Strengthening farmers positions in the food supply chain",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "PL"
-   ],
-   "items": [
-    {
-     "ref": "I-291032",
-     "title": "EP Press Conference Strengthening farmers positions in the food supply chain",
-     "summary": "Press conference by Céline IMART (EPP, FR), rapporteur on Strengthening farmers positions in the food supply chain",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291032-V_v"
-    }
-   ]
-  },
-  {
-   "ep": false,
-   "start": "2026-06-16T15:00:00.000Z",
+   "start": "2026-06-16T14:45:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -1771,7 +1753,8 @@
      "summary": "Press conference by the Cypriot Presidency and the European Commission",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
   },
   {
    "ep": true,
@@ -1827,47 +1810,81 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291066-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
-   "ep": true,
+   "ep": false,
    "start": "2026-06-16T16:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "EDIT",
-   "title": "EP News Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
+   "title": "Weekly European Commission College meeting",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-291024",
-     "title": "EP News Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
-     "summary": "Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291024-V_v"
+     "ref": "I-290769",
+     "title": "Weekly European Commission College meeting",
+     "summary": "Roundtable",
+     "inst": "EC"
     }
-   ]
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-16T16:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "EP Press Conference Countering transnational repression",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-291026",
+     "title": "EP Press Conference Countering transnational repression",
+     "summary": "Press conference by Hannah NEUMANN (Greens/EFA, DE), rapporteur on Countering transnational repression",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291026-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
   },
   {
    "ep": true,
    "start": "2026-06-16T17:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News An EU future for the Western Balkans",
+   "status": "RECORDED",
+   "title": "EP Press Conference Multiannual Financial Framework (MFF)",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "PT",
+    "RO"
    ],
    "items": [
     {
-     "ref": "I-291025",
-     "title": "EP News An EU future for the Western Balkans",
-     "summary": "An EU future for the Western Balkans extracts from the debate",
+     "ref": "I-291176",
+     "title": "EP Press Conference Multiannual Financial Framework (MFF)",
+     "summary": "Press conference by Siegfried MUREŞAN (EPP, RO), and Carla TAVARES (S&D, PT), co-rapporteurs on the MFF",
      "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291025-V_v"
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291176-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
   },
   {
    "ep": true,
@@ -1936,7 +1953,63 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290875-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-16T17:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "EP Press Conference Strengthening farmers positions in the food supply chain",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "PL"
+   ],
+   "items": [
+    {
+     "ref": "I-291032",
+     "title": "EP Press Conference Strengthening farmers positions in the food supply chain",
+     "summary": "Press conference by Céline IMART (EPP, FR), rapporteur on Strengthening farmers positions in the food supply chain",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291032-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-16T18:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland An EU future for the Western Balkans",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291024",
+     "title": "EP News Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland",
+     "summary": "Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291024-V_v"
+    },
+    {
+     "ref": "I-291025",
+     "title": "EP News Russia’s unacceptable provocative actions and drone incursions into Romania, Baltic states and Finland An EU future for the Western Balkans",
+     "summary": "An EU future for the Western Balkans extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291025-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
   },
   {
    "ep": false,
@@ -1961,7 +2034,8 @@
      "summary": "Building resilience in Europe's Eastern border regions with Sviatlana TSIKHANOUSKAYA, leader of the democratic forces of Belarus; Neringa RINKEVIČIŪTĖ-LAURINAITIENĖ, Vice-minister of Finance of the Republic of Lithuania, and Hugo SOBRAL, European Commission's Deputy Director-General for Regional and Urban Policy linked to ECO/697 - Strategy to support the eastern border regions to address their specific challenges and support them in the reorientation of their local economy",
      "inst": "European Economic "
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -1980,7 +2054,8 @@
      "summary": "Details to follow",
      "inst": "EC"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2070,7 +2145,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I254018-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2110,7 +2186,8 @@
      "summary": "Closing statement",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2136,7 +2213,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291037-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2167,7 +2245,8 @@
      "summary": "Closing statement",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -2206,7 +2285,8 @@
      "summary": "Recorded cutaways",
      "inst": "EC"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2260,7 +2340,8 @@
      "summary": "Closing statements",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2280,7 +2361,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290817-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2300,33 +2382,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290831-V_v"
     }
-   ]
-  },
-  {
-   "ep": true,
-   "start": "2026-06-17T11:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "LIVE",
-   "title": "EP Press Conference Returns regulation",
-   "languages": [
-    "INT",
-    "EN",
-    "FR",
-    "DE",
-    "IT",
-    "ES",
-    "NL"
    ],
-   "items": [
-    {
-     "ref": "I-291173",
-     "title": "EP Press Conference Returns regulation",
-     "summary": "Press conference by Malik AZMANI (Renew, NL), rapporteur on Returns regulation",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291173-V_v"
-    }
-   ]
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2357,7 +2414,8 @@
      "summary": "Closing statement",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2382,7 +2440,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291039-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2408,7 +2467,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291040-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2439,7 +2499,8 @@
      "summary": "Closing statement",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2447,7 +2508,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "EP Press Conference 2025 report on Albania and Georgia",
+   "title": "EP Press Conference 2025 report on Albania, Bosnia and Hercegovina",
    "languages": [
     "INT",
     "EN",
@@ -2460,12 +2521,13 @@
    "items": [
     {
      "ref": "I-291041",
-     "title": "EP Press Conference 2025 report on Albania and Georgia",
-     "summary": "Press conference by Andreas SCHIEDER (S&D, AU) and Rasa JUKNEVIČIENĖ (EPP, LT), rapporteurs on the 2025 report on Albania and Georgia",
+     "title": "EP Press Conference 2025 report on Albania, Bosnia and Hercegovina",
+     "summary": "Press conference by Andreas SCHIEDER (S&D, AU) and Ondřej KOLÁŘ (EPP, CZ), rapporteurs on the 2025 reports on Albania and Bosnia and Hercegovina",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291041-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
   },
   {
    "ep": true,
@@ -2473,7 +2535,7 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "EP Press Conference 2025 report on Türkiye",
+   "title": "EP Press Conference 2025 report on Türkiye and Georgia",
    "languages": [
     "INT",
     "EN",
@@ -2486,12 +2548,13 @@
    "items": [
     {
      "ref": "I-291043",
-     "title": "EP Press Conference 2025 report on Türkiye",
-     "summary": "Press conference by Nacho SÁNCHEZ AMOR (S&D, ES), rapporteur on the 2025 report on Türkiye",
+     "title": "EP Press Conference 2025 report on Türkiye and Georgia",
+     "summary": "Press conference by Nacho SÁNCHEZ AMOR (S&D, ES) and Rasa JUKNEVIČIENĖ (EPP, LT), rapporteurs on the 2025 reports on Türkiye and Georgia",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291043-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
   },
   {
    "ep": true,
@@ -2511,7 +2574,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290829-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2531,7 +2595,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291070-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2562,7 +2627,35 @@
      "summary": "Closing statement",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-17T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference Returns regulation",
+   "languages": [
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "NL"
+   ],
+   "items": [
+    {
+     "ref": "I-291173",
+     "title": "EP Press Conference Returns regulation",
+     "summary": "Press conference by René AUST (ESN, DE), Co-chair, Mary KHAN (ESN, DE) and Christine ANDERSON (ESN, DE) on the final plenary vote on the return regulation",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291173-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
   },
   {
    "ep": true,
@@ -2582,7 +2675,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291071-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2613,7 +2707,8 @@
      "summary": "Continued crackdown on civic space and fundamental freedoms in Burkina Faso",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -2644,7 +2739,8 @@
      "summary": "ECJ ruling in case C-522/24 Ministero della Difesa (Obligation vaccinale des militaires) regarding vaccination requirements imposed on military personal because of COVID-19 pandemic",
      "inst": "Court of Justice o"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -2669,7 +2765,8 @@
      "summary": "From the EU Blue Deal and Water Resilience to Global Water Action with Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy; Hildegard BENTELE, Member of the European Parliament, Vice-Chair of the Committee on Development (DEVE) and Chair of the MEP Water Group (remotely); and Pedro ARROJO AGUDO, UN Special Rapporteur on the human rights to safe drinking water and sanitation (remotely) linked to CCMI/254 - EESC Contribution to the UN Water Conference 2026: from the EU Blue Deal and Water Resilience Strategy to global water action and CCMI/261 - Blue Deal Accelerator Future",
      "inst": "European Economic "
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2703,7 +2800,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/video/infoclip-wastewater-treatment_I157003"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2734,7 +2832,8 @@
      "summary": "Closing statement",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2765,7 +2864,8 @@
      "summary": "Closing statement",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -2804,7 +2904,8 @@
      "summary": "Recorded cutaways",
      "inst": "EC"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2824,7 +2925,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290826-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2843,7 +2945,8 @@
      "summary": "Roberta METSOLA, EP President meets with Antonio COSTA, President of the European Council: extracts from the meeting",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -2868,7 +2971,8 @@
      "summary": "Exterior views of the European Commission Berlaymont building with the flag of Croatia",
      "inst": "EC"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2888,7 +2992,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291077-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2919,7 +3024,8 @@
      "summary": "Closing statement",
      "inst": "EP"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -2960,7 +3066,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290824-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -2979,7 +3086,8 @@
      "summary": "Arrivals and doorsteps",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -2998,7 +3106,8 @@
      "summary": "Arrivals and doorsteps",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -3017,7 +3126,8 @@
      "summary": "Roundtable",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": true,
@@ -3037,7 +3147,8 @@
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290825-V_v"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -3056,7 +3167,8 @@
      "summary": "Arrivals and doorsteps",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -3075,7 +3187,8 @@
      "summary": "Arrivals and doorsteps",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -3094,7 +3207,43 @@
      "summary": "Roundtable",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-06-19T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291288",
+     "title": "EP News",
+     "summary": "Official visit by Roberta METSOLA, EP President to Munich (Germany) - Townhall Discussion with Students: extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291288-V_v"
+    },
+    {
+     "ref": "I-291289",
+     "title": "EP News",
+     "summary": "Official visit by Roberta METSOLA, EP President to Munich (Germany) - Meeting with Ilse AIGNER, President of the Parliament of the State of Bavaria (Landtag): extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291289-V_v"
+    },
+    {
+     "ref": "I-291290",
+     "title": "EP News",
+     "summary": "Official visit by Roberta METSOLA, EP President to Munich (Germany) - Meeting with Markus SÖDER, Minister President of the Land of Bavaria: extracts",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291290-V_v"
+    }
+   ],
+   "firstSeen": "2026-06-15T13:26:35+00:00"
   },
   {
    "ep": false,
@@ -3120,7 +3269,8 @@
      "summary": "Press conference",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -3139,7 +3289,8 @@
      "summary": "National briefings and exit doorsteps",
      "inst": "Council"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   },
   {
    "ep": false,
@@ -3158,7 +3309,8 @@
      "summary": "Details to follow",
      "inst": "EC"
     }
-   ]
+   ],
+   "firstSeen": "2026-01-01T00:00:00+00:00"
   }
  ]
 }
