@@ -1,73 +1,6 @@
 {
- "generatedAt": "2026-06-13T07:46:06+00:00",
+ "generatedAt": "2026-06-15T07:26:19+00:00",
  "events": [
-  {
-   "ep": true,
-   "start": "2026-06-14T07:00:00.000Z",
-   "durationSec": 7143,
-   "channel": "EBS+",
-   "status": "EDIT",
-   "title": "EC archives of the week (14-20/06): World Blood Donor Day (14/06) Signature of the Schengen Agreements (14/06/1985, 41 years ago) Göteborg EU/US Summit (14/06/2001, 25 years ago) European Council of Göteborg (15-16/06/2001, 25 years ago) World Day to Combat Desertification and Drought 2026 Theme “Rangelands: Recognize. Respect. Restore.” (17/06) International Day for Countering Hate Speech (18/06) World Refugee Day (20/06)",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-251875",
-     "title": "Blood donation",
-     "summary": "This video stockshots provides illustration images of blood donation at the premises of the European Commission, filmed in January 2024. In collaboration with the Belgian Red Cross, the Commission offers its staff the opportunity of donating blood to help treat patients and save lives.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-002946",
-     "title": "Signature of the Schengen Agreements",
-     "summary": "During the 1980s, a debate opened up on the significance of the notion of the 'free circulation of people'. For certain Member States, it should only apply to European citizens, which meant that border controls should be retained to distinguish between European citizens and third countries nationals. Other Member States, on the contrary, wanted to establish free circulation for all and, consequently, abolish border controls. Faced with the impossible task of finding an agreement in the European Community, France, Germany, Belgium, Luxembourg and the Netherlands decided in 1985 to create a borderless area between them, the 'Schengen' area, named after the town in Luxembourg where the first agreements were signed. The first agreement between the five founding countries was signed on 14 June 1985. A convention was drawn up and signed on 19 June 1990. It entered into force in 1995 and abolished internal border controls between the signatory states and created a single external border where entry checks were carried out identically in the whole Schengen area. Common rules on visas, rights to asylum and external border controls were adopted to allow for the free circulation of people within the signatory countries without disturbing public order."
-    },
-    {
-     "ref": "I-036311",
-     "title": "Göteborg EU/US Summit",
-     "summary": "The discussions during the Summit focused primarily on four subjects: the Middle East, the Western Balkans, trade, climate change and the most difficult subject: the ratification of the Kyoto Protocol on climate change. As expected, no agreement was reached on this at the summit. Both sides reaffirmed their previous statements - the EU in favour of the Protocol and the US against"
-    },
-    {
-     "ref": "I-036312",
-     "title": "European Council of Göteborg, 15-16/06/2001",
-     "summary": "The Göteborg European Council was able to confirm the breakthroughs achieved in the negotiations during the Swedish Presidency. It should thus be possible to complete negotiations with the best-prepared candidate countries at the end of 2002. The European Council also adopted a strategy for sustainable development, which means that the environment will become as important as economic and social issues."
-    },
-    {
-     "ref": "I-198361",
-     "title": "Biodiversity in Europe – Habitats",
-     "summary": "The EU Biodiversity Strategy for 2030, put forward by the European Commission in spring 2020, aims to save biodiversity loss in Europe and help protect Europe’s nature and wildlife. It will help build our resilience to threats such as climate change impacts, forest fires, food insecurity or disease outbreaks. As part of the European Green Deal, the Biodiversity Strategy will also support a green recovery following the coronavirus pandemic. This series of stockshots illustrate various types of nature and biodiversity in Europe, and a series of EU-funded projects aiming to protect habitats and species on land, in the air and in the marine environment.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-267643",
-     "title": "European artificial intelligence start ups, France and Belgium",
-     "summary": "This series of 3 stockshots provides illustration footage of European AI start ups who won the European Commission’s Large AI Grand Challenge, a competition launched in 2023. The winning companies have won access to two of Europe’s world-leading supercomputers for 8 million hours to further develop their innovative large-scale AI models. In this stockshot we have images of Lingua custodia, a French start up that uses AI to process and translate financial documents, adding the tools to analyse such documents and query these large data files; and Belgian start up Textgain that use state of the art natural language processing technology to develop advanced AI solutions to identify harmful speech, misinformation and violent content across online platforms and in all European languages.",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-279888",
-     "title": "Social assistance for migrants (Rome, Italy)",
-     "summary": "This infoclip shows the activities at reception and orientation centre, the One-Stop Shop for Migrant Reception - SUAM, and daily life scenes of migrants at the Casal Morena Centre. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU.",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I279888-V_v"
-    },
-    {
-     "ref": "I-278928",
-     "title": "Asylum and migration (Malmö, Sweden)",
-     "summary": "This infoclips shows the activities at an asylum reception centre in Malmö, Sweden and a class learning Swedish at SFI Swedish For Immigrants Academy in Lund, Sweden. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need. After being adopted by the European Parliament and Council, the new rules will take effect on 11 June 2024, with full implementation two years later, ensuring secure borders and safeguarding rights across the EU.",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I278928-V_v"
-    },
-    {
-     "ref": "I-279175",
-     "title": "Migration and civil society support (Calais, France)",
-     "summary": "This Infoclip shows civil society (in particular the volunteers of the Non-Governmental Organisation \"Salam\") support to refugees in Calais (France). Since the demolition of the large \"Jungle camp\" in Calais in 2016 there has been an administrative policy of \"no fixation points\" for migrants to settle in, aiming to stop another large camp from forming. The Pact on Migration and Asylum establishes new EU rules for managing migration and creating a unified asylum system, aligning with European values. It builds on previous proposals to create a comprehensive approach that strengthens policies on migration, asylum, border management, and integration. The pact aims to manage migration fairly and sustainably, offering flexibility for EU countries to address their unique challenges while ensuring protections for those in need.",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I279175-V_v"
-    }
-   ]
-  },
   {
    "ep": false,
    "start": "2026-06-15T04:30:00.000Z",
@@ -89,7 +22,7 @@
   },
   {
    "ep": false,
-   "start": "2026-06-15T05:30:00.000Z",
+   "start": "2026-06-15T05:41:38.040Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
@@ -101,6 +34,84 @@
     {
      "ref": "I-290766",
      "title": "Foreign Affairs Council",
+     "summary": "Doorstep Marta KOS, European Commissioner for Enlargement",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291199",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Kaja KALLAS, High Representative of the Union for Foreign Affairs and Security Policy and Vice-President of the European Commission",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291200",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Margus TSAHKNA, Minister of Foreign Affairs of Estonia",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291201",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Kęstutis BUDRYS, Minister for Foreign Affairs of Lithuania",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291202",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Anita ORBÁN, Minister of Foreign Affairs and Trade of Hungary",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291203",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Jean-Noël BARROT, Minister for Europe and Foreign Affairs of France",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291204",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Johann WADEPHUL, Federal Minister for Foreign Affairs of Germany",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291205",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Tom BERENDSEN, Minister for Foreign Affairs, Minister for Asylum and Migration of the Netherlands",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291206",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Oana-Silvia ȚOIU, Minister of Foreign Affairs of Romania",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291207",
+     "title": "Foreign Affairs Council",
+     "summary": "Joint doorsteps by Xavier BETTEL, Deputy Prime Minister, Minister for Foreign Affairs and Foreign Trade, Minister for Development Cooperation and Humanitarian Affairs of Luxembourg and Radosław SIKORSKI, Deputy Prime Minister, Minister of Foreign Affairs of Poland",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291208",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Radosław SIKORSKI, Deputy Prime Minister, Minister of Foreign Affairs of Poland",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291209",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep José Manuel ALBARES Bueno, Minister of Foreign Affairs, European Union and Cooperation of Spain",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291210",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Maria Malmer STENERGARD, Minister for Foreign Affairs of Sweden",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291211",
+     "title": "Foreign Affairs Council",
      "summary": "Arrivals and doorsteps",
      "inst": "Council"
     }
@@ -109,7 +120,7 @@
   {
    "ep": false,
    "start": "2026-06-15T09:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 152,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Foreign Affairs Council",
@@ -124,13 +135,19 @@
      "inst": "Council"
     },
     {
+     "ref": "I-290921",
+     "title": "Foreign Affairs Council",
+     "summary": "Roundtable working breakfast with Ararat MIRZOYAN, Minister of Foreign Affairs of Armenia",
+     "inst": "Council"
+    },
+    {
      "ref": "I-290920",
      "title": "Foreign Affairs Council",
      "summary": "Compilation of all arrivals",
      "inst": "Council"
     },
     {
-     "ref": "I-290921",
+     "ref": "I-291214",
      "title": "Foreign Affairs Council",
      "summary": "Roundtable",
      "inst": "Council"
@@ -173,6 +190,45 @@
      "title": "EC Midday press briefing of 15/06/2026",
      "summary": "Recorded cutaways",
      "inst": "EC"
+    }
+   ]
+  },
+  {
+   "ep": true,
+   "start": "2026-06-15T11:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Roberta METSOLA, EP President meets with Badr ABDELATTY, Egyptian Minister for Foreign Affairs, Emigration and Egyptian Expatriates",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290983",
+     "title": "EP News Roberta METSOLA, EP President meets with Badr ABDELATTY, Egyptian Minister for Foreign Affairs, Emigration and Egyptian Expatriates",
+     "summary": "Roberta METSOLA, EP President meets with Badr ABDELATTY, Egyptian Minister for Foreign Affairs, Emigration and Egyptian Expatriates extracts from the arrival, meeting and roundtable",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I290983-V_v"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T12:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT_RECORDED",
+   "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291215",
+     "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
+     "summary": "Details to follow",
+     "inst": "Host"
     }
    ]
   },
@@ -428,7 +484,7 @@
   },
   {
    "ep": true,
-   "start": "2026-06-15T16:30:00.000Z",
+   "start": "2026-06-15T16:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -523,7 +579,7 @@
   },
   {
    "ep": true,
-   "start": "2026-06-15T18:00:00.000Z",
+   "start": "2026-06-15T17:15:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -2740,6 +2796,25 @@
      "title": "European Council (Second feed)",
      "summary": "National briefings and exit doorsteps",
      "inst": "Council"
+    }
+   ]
+  },
+  {
+   "ep": false,
+   "start": "2026-06-21T07:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "EC archives of the week",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-284734",
+     "title": "EC archives of the week (07-13/06): World Food Safety Day (07/06) First European elections (07-10/06/1979, 47 years ago) World Ocean Day (08/06) Portugal National Day (10/06) Visit of Nelson Mandela, President of the African National Congress (ANC), to the CEC (10/06/1991, 35 years ago) Signature of an EU/Slovenia Association Agreement (10/06/1996, 30 years ago) Spain and Portugal join the EU (12/06/1985, 41 years ago) Signature of the Stabilisation and Association Agreement between the EU and Albania (12/06/2006, 20 years ago) Cast-off of the \"Treaty of Rome\" yacht (13/06/1981, 45 years ago)",
+     "summary": "Details to follow",
+     "inst": "EC"
     }
    ]
   }
