@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-15T13:26:35+00:00",
+ "generatedAt": "2026-06-15T13:52:50+00:00",
  "events": [
   {
    "ep": false,
@@ -306,7 +306,7 @@
     {
      "ref": "I-291281",
      "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
-     "summary": "Bilateral meeting with Bogdan COSTAS, CEO TAROM",
+     "summary": "Bilateral meeting Marina CHAPASI, Director General of the Ministry of Transport, Communications and Works with Bogdan COSTAS, CEO TAROM",
      "inst": "Host"
     }
    ],
@@ -367,7 +367,7 @@
   {
    "ep": false,
    "start": "2026-06-15T13:02:27.720Z",
-   "durationSec": 0,
+   "durationSec": 1707,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "G7 Summit in Evian, France",
@@ -376,6 +376,12 @@
     "EN"
    ],
    "items": [
+    {
+     "ref": "I-291293",
+     "title": "G7 Summit in Evian, France",
+     "summary": "Press conference opening remarks by António COSTA, President of the European Council ahead of the G7 Summit in Evian, France Press conference opening remarks by Ursula von der LEYEN, President of the European Commission ahead of the G7 Summit in Evian, France Press conference Q&A with António COSTA, President of the European Council and Ursula von der LEYEN, President of the European Commission ahead of the G7 Summit in Evian, France",
+     "inst": "EC"
+    },
     {
      "ref": "I-290910",
      "title": "G7 Summit in Evian, France",
@@ -445,7 +451,7 @@
   {
    "ep": false,
    "start": "2026-06-15T13:45:00.000Z",
-   "durationSec": 0,
+   "durationSec": 466,
    "channel": "EBS",
    "status": "LIVE_RECORDED",
    "title": "Foreign Affairs Council",
@@ -458,9 +464,47 @@
      "title": "Foreign Affairs Council",
      "summary": "Doorstep by Radosław SIKORSKI, Deputy Prime Minister, Minister of Foreign Affairs of Poland",
      "inst": "Council"
+    },
+    {
+     "ref": "I-291291",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep Dubravka ŠUICA, European Commissioner for the Mediterranean",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291292",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep by Marek EŠTOK, State Secretary of the Ministry of the Foreign and European Affairs of Slovakia",
+     "inst": "Council"
+    },
+    {
+     "ref": "I-291295",
+     "title": "Foreign Affairs Council",
+     "summary": "Doorstep by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency on EU-China trade relations ends",
+     "inst": "Council"
     }
    ],
    "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-15T14:00:00.000Z",
+   "durationSec": 81,
+   "channel": "EBS+",
+   "status": "EDIT",
+   "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291296",
+     "title": "European Aviation Strategy Summit 2026 in Lefkosia, Cyprus",
+     "summary": "Bilateral meeting Marina CHAPASI, Director General of the Ministry of Transport, Communications and Works with Robert KISS, Government & Policy Affairs Manager, WIZZAIR",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-06-15T13:52:50+00:00"
   },
   {
    "ep": true,
@@ -621,12 +665,6 @@
      "ref": "I-290969",
      "title": "EP Plenary Session Time for European economic independence",
      "summary": "MEPs debate",
-     "inst": "EP"
-    },
-    {
-     "ref": "I-290970",
-     "title": "EP Plenary Session Time for European economic independence",
-     "summary": "Closing statement by Stéphane SÉJOURNÉ, Executive Vice-President of the European Commission for Prosperity and Industrial Strategy",
      "inst": "EP"
     }
    ],
