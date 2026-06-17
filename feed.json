@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-17T14:31:02+00:00",
+ "generatedAt": "2026-06-17T16:46:56+00:00",
  "events": [
   {
    "ep": true,
@@ -216,19 +216,19 @@
    "durationSec": 997,
    "channel": "EBS",
    "status": "RECORDED",
-   "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+   "title": "European Commissioners Andrius KUBILIUS and Piotr SERAFIN in Paris, France at EUROSATORY",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-290783",
-     "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+     "title": "European Commissioners Andrius KUBILIUS and Piotr SERAFIN in Paris, France at EUROSATORY",
      "summary": "Speech by Andrius KUBILIUS, European Commissioner for Defence and Space",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-17T11:40:59+00:00"
+   "firstSeen": "2026-06-17T16:46:56+00:00"
   },
   {
    "ep": true,
@@ -581,7 +581,7 @@
     {
      "ref": "I-290781",
      "title": "European Commissioner Costas KADIS in Mombasa, Kenya for the Our Ocean Kenya Conference 2026",
-     "summary": "Side event “OceanEye: Stronger together for Global Ocean Observation”",
+     "summary": "Side event “OceanEye: Stronger together for Global Ocean Observation” Opening speech by Costas KADIS, European Commissioner for Fisheries and Oceans",
      "inst": "EC"
     }
    ],
@@ -920,7 +920,7 @@
   {
    "ep": true,
    "start": "2026-06-17T14:24:03.280Z",
-   "durationSec": 0,
+   "durationSec": 4531,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session The resilience of the European transport sector and the need to ensure the supply of essential goods",
@@ -980,7 +980,7 @@
   },
   {
    "ep": true,
-   "start": "2026-06-17T14:30:00.000Z",
+   "start": "2026-06-17T14:30:10.000Z",
    "durationSec": 418,
    "channel": "EBS",
    "status": "RECORDED",
@@ -1002,69 +1002,49 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I291039-V_v"
     }
    ],
-   "firstSeen": "2026-06-17T14:31:02+00:00"
+   "firstSeen": "2026-06-17T16:46:56+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-17T14:45:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "European Commissioner Jozef SÍKELA in Portugal",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-290784",
-     "title": "European Commissioner Jozef SÍKELA in Portugal",
-     "summary": "Project Visit - Submarine Cable Systems and Data Centre (Medusa - EU-backed strategic connectivity diplomacy; 2Africa - Global private investment confidence in Portugal as a digital gateway; EllaLink)",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-17T14:31:02+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-17T15:30:00.000Z",
-   "durationSec": 94,
+   "start": "2026-06-17T15:15:10.000Z",
+   "durationSec": 1006,
    "channel": "EBS",
    "status": "EDIT_RECORDED",
-   "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+   "title": "European Commissioners Andrius KUBILIUS and Piotr SERAFIN in Paris, France at EUROSATORY",
    "languages": [
     "INT"
    ],
    "items": [
     {
      "ref": "I-291453",
-     "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+     "title": "European Commissioners Andrius KUBILIUS and Piotr SERAFIN in Paris, France at EUROSATORY",
      "summary": "Visit Sopra Steria",
      "inst": "EC"
     },
     {
      "ref": "I-291343",
-     "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+     "title": "European Commissioners Andrius KUBILIUS and Piotr SERAFIN in Paris, France at EUROSATORY",
      "summary": "Exhibition tour",
      "inst": "EC"
     },
     {
      "ref": "I-291454",
-     "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+     "title": "European Commissioners Andrius KUBILIUS and Piotr SERAFIN in Paris, France at EUROSATORY",
      "summary": "Stand visit with Catherine VAUTRIN, French Minister of the Armed Forces and Veterans - Project: COMAND.AI",
      "inst": "EC"
     },
     {
      "ref": "I-291361",
-     "title": "European Commissioner Andrius KUBILIUS in Paris, France at EUROSATORY",
+     "title": "European Commissioners Andrius KUBILIUS and Piotr SERAFIN in Paris, France at EUROSATORY",
      "summary": "Implementation dialogue with Andrius KUBILIUS, European Commissioner for Defence and Space",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-16T17:00:15+00:00"
+   "firstSeen": "2026-06-17T16:46:56+00:00"
   },
   {
    "ep": true,
-   "start": "2026-06-17T15:45:00.000Z",
+   "start": "2026-06-17T15:45:04.720Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -1115,12 +1095,32 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-01-01T00:00:00+00:00"
+   "firstSeen": "2026-06-17T16:46:56+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-17T16:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-17T15:45:10.000Z",
+   "durationSec": 203,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "European Commissioner Jozef SÍKELA in Portugal",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-290784",
+     "title": "European Commissioner Jozef SÍKELA in Portugal",
+     "summary": "Project Visit - Submarine Cable Systems and Data Centre (Medusa - EU-backed strategic connectivity diplomacy; 2Africa - Global private investment confidence in Portugal as a digital gateway; EllaLink)",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-17T16:46:56+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-17T16:00:10.000Z",
+   "durationSec": 7879,
    "channel": "EBS",
    "status": "RECORDED",
    "title": "European Economic and Social Committee (EESC) 606th Plenary Session",
@@ -1140,15 +1140,7 @@
     "CS",
     "ET",
     "LV",
-    "LT",
-    "HU",
-    "MT",
-    "PL",
-    "SK",
-    "SL",
-    "BG",
-    "RO",
-    "HR"
+    "LT"
    ],
    "items": [
     {
@@ -1164,27 +1156,7 @@
      "inst": "European Economic "
     }
    ],
-   "firstSeen": "2026-06-16T17:00:15+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-06-18T00:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "RECORDED",
-   "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK at the London School of Economics",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291312",
-     "title": "European Commission Executive Vice-President Teresa RIBERA in London, UK at the London School of Economics",
-     "summary": "Opening panel “Key challenges to sustainability: global, regional and national perspectives” at the Sustainability Conference hosted by the London School of Economics",
-     "inst": "Other Organisation"
-    }
-   ],
-   "firstSeen": "2026-06-15T18:34:25+00:00"
+   "firstSeen": "2026-06-17T16:46:56+00:00"
   },
   {
    "ep": true,
@@ -1379,6 +1351,26 @@
     }
    ],
    "firstSeen": "2026-01-01T00:00:00+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-18T08:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "European Commissioner Costas KADIS in Mombasa, Kenya for the Our Ocean Kenya Conference 2026",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291489",
+     "title": "European Commissioner Costas KADIS in Mombasa, Kenya for the Our Ocean Kenya Conference 2026",
+     "summary": "Side event “Strategic Announcement of Sustainable Western Indian Ocean Programme (SWIOP)” Opening speech by Costas KADIS, European Commissioner for Fisheries and Oceans",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-17T16:46:56+00:00"
   },
   {
    "ep": false,
