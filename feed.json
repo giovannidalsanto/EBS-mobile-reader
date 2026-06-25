@@ -1,32 +1,6 @@
 {
- "generatedAt": "2026-06-25T09:18:10+00:00",
+ "generatedAt": "2026-06-25T12:02:24+00:00",
  "events": [
-  {
-   "ep": false,
-   "start": "2026-06-25T02:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "European Commissioner Christophe HANSEN in Italy",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-291267",
-     "title": "European Commissioner Christophe HANSEN in Italy",
-     "summary": "Closing remarks at the European Wine Summit",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-291831",
-     "title": "European Commissioner Christophe HANSEN in Italy",
-     "summary": "Visit of Varvaglione domain",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-06-23T21:07:54+00:00"
-  },
   {
    "ep": false,
    "start": "2026-06-25T06:14:10.480Z",
@@ -202,8 +176,8 @@
   },
   {
    "ep": true,
-   "start": "2026-06-25T09:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-25T09:19:36.120Z",
+   "durationSec": 3632,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Exchange of views with Volker TÜRK, United Nations High Commissioner for Human Rights AFET DROI",
@@ -246,11 +220,11 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-06-19T14:22:43+00:00"
+   "firstSeen": "2026-06-25T12:02:24+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-25T09:30:00.000Z",
+   "start": "2026-06-25T09:30:10.000Z",
    "durationSec": 68,
    "channel": "EBS",
    "status": "EDIT",
@@ -266,12 +240,12 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-25T09:18:10+00:00"
+   "firstSeen": "2026-06-25T12:02:24+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-25T10:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-25T10:10:02.040Z",
+   "durationSec": 3977,
    "channel": "EBS",
    "status": "LIVE",
    "title": "EC Midday press briefing of 25/06/2026",
@@ -282,51 +256,163 @@
    ],
    "items": [
     {
+     "ref": "I-291936",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "ANNOUNCEMENT - Today’s Council ANNOUNCEMENT - Group of visitors TRADE - EU-United States joint statement / EU/UK negotiations on steel / Tariffs / Tech Regulation Dialogue: Q&A EU OMBUDSWOMAN - \"Urgent decision-making procedures need further monitoring\": Q&A COMPETITION / DIGITAL MARKETS ACT - Commission reaches preliminary position that Amazon's and Microsoft's market leading cloud services should be designated under the DMA: Q&A BUDGET - €90 billion Ukraine Support Loan disbursement: Q&A CODE OF CONDUCT - Qatargate / Former Commissioner Avramopoulos: Q&A PRESIDENT AGENDA - Upcoming visit to Armenia: Q&A DEFENCE - Italian and Hungarian Security Action for Europe (SAFE) plans: Q&A DIGITAL AFFAIRS - Child Safety on line / Germany / Special Panel on child safety online: Q&A ARTIFICIAL INTELLIGENCE - Pax Silica: Q&A DIGITAL AFFAIRS - Child Safety on line / Germany / Special Panel on child safety online: follow up Q&A DIGITAL SERVICES ACT - Temu: Q&A ARTIFICIAL INTELLIGENCE - Pax Silica: follow up Q&A WAR IN UKRAINE - Belarus: Q&A MIGRATION - Afghanistan / Returns: Q&A CRISIS RESPONSE - European Civil Protection Mechanism / Venezuela: Q&A WORKERS RIGHTS - Trade unions call for mandatory cooling breaks: Q&A DIGITAL SERVICES ACT - Temu: follow up answer Exterior views of the European Commission Berlaymont building Recorded cutaways",
+     "inst": "EC"
+    },
+    {
      "ref": "I-291234",
      "title": "EC Midday press briefing of 25/06/2026",
-     "summary": "Announcements",
+     "summary": "ANNOUNCEMENT - Today’s Council",
      "inst": "EC"
     },
     {
      "ref": "I-291235",
      "title": "EC Midday press briefing of 25/06/2026",
-     "summary": "Q&A",
+     "summary": "ANNOUNCEMENT - Group of visitors",
      "inst": "EC"
     },
     {
-     "ref": "I-291236",
+     "ref": "I-291912",
      "title": "EC Midday press briefing of 25/06/2026",
-     "summary": "Exterior views of the European Commission Berlaymont building",
+     "summary": "TRADE - EU-United States joint statement / EU/UK negotiations on steel / Tariffs / Tech Regulation Dialogue: Q&A",
      "inst": "EC"
     },
     {
-     "ref": "I-291237",
+     "ref": "I-291913",
      "title": "EC Midday press briefing of 25/06/2026",
-     "summary": "Recorded cutaways",
+     "summary": "EU OMBUDSWOMAN - \"Urgent decision-making procedures need further monitoring\": Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291914",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "COMPETITION / DIGITAL MARKETS ACT - Commission reaches preliminary position that Amazon's and Microsoft's market leading cloud services should be designated under the DMA: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291915",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "BUDGET - €90 billion Ukraine Support Loan disbursement: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291916",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "CODE OF CONDUCT - Qatargate / Former Commissioner Avramopoulos: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291917",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "PRESIDENT AGENDA - Upcoming visit to Armenia: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291918",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "DEFENCE - Italian and Hungarian Security Action for Europe (SAFE) plans: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291919",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "DIGITAL AFFAIRS - Child Safety on line / Germany / Special Panel on child safety online: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291920",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "ARTIFICIAL INTELLIGENCE - Pax Silica: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291921",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "DIGITAL AFFAIRS - Child Safety on line / Germany / Special Panel on child safety online: follow up Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291926",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "DIGITAL SERVICES ACT - Temu: Q&A",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291927",
+     "title": "EC Midday press briefing of 25/06/2026",
+     "summary": "ARTIFICIAL INTELLIGENCE - Pax Silica: follow up Q&A",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-06-19T14:22:43+00:00"
+   "firstSeen": "2026-06-25T12:02:24+00:00"
   },
   {
    "ep": false,
-   "start": "2026-06-25T11:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-06-25T10:45:10.000Z",
+   "durationSec": 496,
    "channel": "EBS+",
-   "status": "LIVE_RECORDED",
+   "status": "EDIT",
+   "title": "People, Skills and Partnership: Delivering vocational education and training in the Mediterranean International Conference in Nicosia, Cyprus",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291906",
+     "title": "People, Skills and Partnership: Delivering vocational education and training in the Mediterranean International Conference in Nicosia, Cyprus",
+     "summary": "Group photo Speech by Athena MICHAELIDOU, Cypriot Minister for Education, Sport and Youth",
+     "inst": "Host"
+    }
+   ],
+   "firstSeen": "2026-06-25T12:02:24+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T11:31:53.920Z",
+   "durationSec": 1025,
+   "channel": "EBS+",
+   "status": "LIVE",
    "title": "Environment Council",
    "languages": [
     "INT"
    ],
    "items": [
     {
-     "ref": "I-291901",
+     "ref": "I-291925",
      "title": "Environment Council",
-     "summary": "Doorstep Finland",
+     "summary": "Doorstep by Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy",
      "inst": "Council"
     }
    ],
-   "firstSeen": "2026-06-25T09:18:10+00:00"
+   "firstSeen": "2026-06-25T12:02:24+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T11:45:10.000Z",
+   "durationSec": 109,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291932",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "Eastern Flank Summit group photo",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291934",
+     "title": "Ukraine Recovery Conference 2026 in Gdańsk, Poland",
+     "summary": "António COSTA, President of the European Council, meets Donald TUSK, Prime Minister of Poland, on the sidelines of the Ukraine Recovery Conference",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-25T12:02:24+00:00"
   },
   {
    "ep": false,
@@ -347,6 +433,26 @@
     }
    ],
    "firstSeen": "2026-06-23T21:07:54+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-25T12:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS+",
+   "status": "LIVE",
+   "title": "Environment Council",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291901",
+     "title": "Environment Council",
+     "summary": "Doorstep Finland",
+     "inst": "Council"
+    }
+   ],
+   "firstSeen": "2026-06-25T12:02:24+00:00"
   },
   {
    "ep": false,
@@ -438,7 +544,7 @@
   {
    "ep": false,
    "start": "2026-06-26T06:00:00.000Z",
-   "durationSec": 0,
+   "durationSec": 496,
    "channel": "EBS",
    "status": "EDIT",
    "title": "High-level conference \"Strengthening islands and coastal communities of the European Union\" in Pafos, Cyprus (25/06/2026)",
@@ -506,6 +612,54 @@
     }
    ],
    "firstSeen": "2026-06-22T18:18:12+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-26T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EC press point by European Commissioner Magnus BRUNNER with Europol on a new analysis on the EU’s most threatening criminal networks",
+   "languages": [
+    "INT",
+    "EN",
+    "FR"
+   ],
+   "items": [
+    {
+     "ref": "I-291482",
+     "title": "EC press point by European Commissioner Magnus BRUNNER with Europol on a new analysis on the EU’s most threatening criminal networks",
+     "summary": "Press point by Magnus BRUNNER, European Commissioner for Internal Affairs and Migration and Europol",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-25T12:02:24+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-06-26T08:45:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT_RECORDED",
+   "title": "European Commissioner Christophe HANSEN in Taranto, Italy (25/06/2026)",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-291908",
+     "title": "European Commissioner Christophe HANSEN in Taranto, Italy (25/06/2026)",
+     "summary": "Closing remarks at the European Wine Summit",
+     "inst": "EC"
+    },
+    {
+     "ref": "I-291909",
+     "title": "European Commissioner Christophe HANSEN in Taranto, Italy (25/06/2026)",
+     "summary": "Visit of Varvaglione domain",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-06-25T12:02:24+00:00"
   },
   {
    "ep": false,
@@ -946,7 +1100,7 @@
    "start": "2026-06-29T12:10:00.000Z",
    "durationSec": 275,
    "channel": "EBS",
-   "status": "",
+   "status": "EDIT",
    "title": "European Inventor Award 2026 finalists Non-EPO Countries",
    "languages": [
     "INT"
@@ -978,7 +1132,7 @@
    "start": "2026-06-29T12:20:00.000Z",
    "durationSec": 271,
    "channel": "EBS",
-   "status": "",
+   "status": "EDIT",
    "title": "European Inventor Award 2026 finalists Research",
    "languages": [
     "INT"
@@ -1010,7 +1164,7 @@
    "start": "2026-06-29T12:30:00.000Z",
    "durationSec": 272,
    "channel": "EBS",
-   "status": "",
+   "status": "EDIT",
    "title": "European Inventor Award 2026 finalists SMEs",
    "languages": [
     "INT"
