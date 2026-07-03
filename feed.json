@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-03T11:42:13+00:00",
+ "generatedAt": "2026-07-03T11:57:44+00:00",
  "events": [
   {
    "ep": false,
@@ -146,7 +146,7 @@
   {
    "ep": false,
    "start": "2026-07-03T11:33:07.160Z",
-   "durationSec": 0,
+   "durationSec": 353,
    "channel": "EBS",
    "status": "EDIT",
    "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
@@ -155,9 +155,9 @@
    ],
    "items": [
     {
-     "ref": "I-292363",
+     "ref": "I-292368",
      "title": "Visit of the College of Commissioners to the Irish Presidency in Cork, Ireland",
-     "summary": "Campus walk by Micheál MARTIN, Irish Taoiseach and Ursula von der LEYEN, President of the European Commission",
+     "summary": "UCC Campus walk by Micheál MARTIN, Irish Taoiseach and Ursula von der LEYEN, President of the European Commission",
      "inst": "Host"
     }
    ],
