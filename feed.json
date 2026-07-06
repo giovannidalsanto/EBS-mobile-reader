@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-06T12:43:28+00:00",
+ "generatedAt": "2026-07-06T14:43:28+00:00",
  "events": [
   {
    "ep": false,
@@ -259,7 +259,7 @@
   },
   {
    "ep": true,
-   "start": "2026-07-06T14:00:00.000Z",
+   "start": "2026-07-06T14:00:10.000Z",
    "durationSec": 393,
    "channel": "EBS+",
    "status": "EDIT",
@@ -276,11 +276,11 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I283602-V_v"
     }
    ],
-   "firstSeen": "2026-07-03T11:42:13+00:00"
+   "firstSeen": "2026-07-06T14:43:28+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-06T14:30:00.000Z",
+   "start": "2026-07-06T14:30:29.680Z",
    "durationSec": 0,
    "channel": "EBS+",
    "status": "LIVE",
@@ -302,7 +302,7 @@
      "inst": "EP"
     }
    ],
-   "firstSeen": "2026-06-30T11:58:10+00:00"
+   "firstSeen": "2026-07-06T14:43:28+00:00"
   },
   {
    "ep": true,
@@ -383,7 +383,7 @@
     {
      "ref": "I-292237",
      "title": "EP Plenary Session Air passenger rights",
-     "summary": "Opening statements",
+     "summary": "Opening statements by Andrey NOVAKOV (EPP, BG), rapporteur and Apostolos TZITZIKOSTAS, European Commissioner for Sustainable Transport and Tourism",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292237-V_v"
     },
@@ -397,7 +397,7 @@
     {
      "ref": "I-292239",
      "title": "EP Plenary Session Air passenger rights",
-     "summary": "Closing statements",
+     "summary": "Closing statement by Andrey NOVAKOV (EPP, BG), rapporteur",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292239-V_v"
     }
@@ -461,7 +461,7 @@
     {
      "ref": "I-292163",
      "title": "EP Plenary Session Financial activities of the European Investment Bank Group – annual report 2025",
-     "summary": "Opening statements by Robert de GROOT, Vice-President of the European Investment Bank (EIB)",
+     "summary": "Opening statements by Joachim STREIT (Renew, DE), Rapporteur, Robert DE GROOT, Vice-President of the European Investment Bank (EIB) and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
      "inst": "EP"
     },
     {
@@ -473,7 +473,7 @@
     {
      "ref": "I-292165",
      "title": "EP Plenary Session Financial activities of the European Investment Bank Group – annual report 2025",
-     "summary": "Closing statements",
+     "summary": "Closing statements by Robert DE GROOT, Vice-President of the European Investment Bank (EIB) and Joachim STREIT (Renew, DE), Rapporteur",
      "inst": "EP"
     }
    ],
@@ -515,7 +515,7 @@
     {
      "ref": "I-292231",
      "title": "EP Plenary Session Coordination of social security systems",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Gabriele BISCHOFF (S&D, DE), rapporteur on the revision of the coordination of social security systems regulations and Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
      "inst": "EP"
     },
     {
@@ -527,7 +527,7 @@
     {
      "ref": "I-292233",
      "title": "EP Plenary Session Coordination of social security systems",
-     "summary": "Closing statements",
+     "summary": "Closing statement by Gabriele BISCHOFF (S&D, DE), rapporteur on the revision of the coordination of social security systems regulations",
      "inst": "EP"
     }
    ],
@@ -569,19 +569,19 @@
     {
      "ref": "I-292234",
      "title": "EP Plenary Session Recommendation on the changing geopolitical situation in East Asia",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Adam BIELAN (ECR, PL), Rapporteur",
      "inst": "EP"
     },
     {
      "ref": "I-292235",
      "title": "EP Plenary Session Recommendation on the changing geopolitical situation in East Asia",
-     "summary": "MEPs debate",
+     "summary": "Catch the eye",
      "inst": "EP"
     },
     {
      "ref": "I-292236",
      "title": "EP Plenary Session Recommendation on the changing geopolitical situation in East Asia",
-     "summary": "Closing statements",
+     "summary": "Closing statement by Valdis DOMBROVSKIS, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification",
      "inst": "EP"
     }
    ],
@@ -854,7 +854,7 @@
     {
      "ref": "I-292166",
      "title": "EP Plenary Session Urgent measures to strengthen the competitiveness and safeguard quality jobs in the EU’s automotive sector",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Stéphane SÉJOURNÉ, Executive Vice-President of the European Commission for Prosperity and Industrial Strategy",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292166-V_v"
     },
@@ -992,7 +992,7 @@
     {
      "ref": "I-292169",
      "title": "EP Plenary Session Presentation of the programme of activities of the Irish Presidency",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency and Micheál MARTIN, Irish Prime Minister",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292169-V_v"
     },
@@ -1171,7 +1171,7 @@
     {
      "ref": "I-292175",
      "title": "EP Plenary Session EU-Mexico",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292175-V_v"
     },
@@ -1369,7 +1369,7 @@
     {
      "ref": "I-292178",
      "title": "EP Plenary Session Presentation of the Action Plan on Cybersecurity and AI",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Henna VIRKKUNEN, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292178-V_v"
     },
@@ -1498,7 +1498,7 @@
     {
      "ref": "I-292260",
      "title": "EP Plenary Session 2025 Commission report on Ukraine",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Marta KOS, European Commissioner for Enlargement",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292260-V_v"
     },
@@ -1603,7 +1603,7 @@
     {
      "ref": "I-292263",
      "title": "EP Plenary Session 2025 Commission report on Moldova",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Marta KOS, European Commissioner for Enlargement",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292263-V_v"
     },
@@ -1669,7 +1669,7 @@
   },
   {
    "ep": false,
-   "start": "2026-07-07T23:00:00.000Z",
+   "start": "2026-07-08T00:00:00.000Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "",
@@ -1685,7 +1685,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
+   "firstSeen": "2026-07-06T14:43:28+00:00"
   },
   {
    "ep": true,
@@ -1751,7 +1751,7 @@
     {
      "ref": "I-292107",
      "title": "EP Plenary Session Conclusions of the European Council meeting of 18-19 June 2026",
-     "summary": "Opening statement",
+     "summary": "Opening statement by Maroš ŠEFČOVIČ, European Commissioner for Trade and Economic Security, and European Commissioner for Interinstitutional Relations and Transparency",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292107-V_v"
     },
@@ -1807,7 +1807,7 @@
     {
      "ref": "I-292184",
      "title": "EP Plenary Session EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "Opening statements",
+     "summary": "Opening statements by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management and Thomas BYRNE, Irish Minister of State for European Affairs and Defence",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292184-V_v"
     },
@@ -1848,27 +1848,6 @@
     }
    ],
    "firstSeen": "2026-07-03T17:03:46+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T09:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292307",
-     "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026",
-     "summary": "Conclusions of the European Council meeting of 18-19 June 2026: extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292307-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-02T11:44:19+00:00"
   },
   {
    "ep": false,
@@ -2015,7 +1994,7 @@
     {
      "ref": "I-292228",
      "title": "EP Plenary Session The EU’s role in the reconstruction of the Gaza Strip and the accountability of Israel under international law",
-     "summary": "Opening statements",
+     "summary": "Opening statements by Dubravka ŠUICA, European Commissioner for the Mediterranean and Thomas BYRNE, Irish Minister of State for European Affairs and Defence",
      "inst": "EP"
     },
     {
@@ -2032,6 +2011,47 @@
     }
    ],
    "firstSeen": "2026-07-02T11:44:19+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T11:15:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292307",
+     "title": "EP News Conclusions of the European Council meeting of 18-19 June 2026",
+     "summary": "Conclusions of the European Council meeting of 18-19 June 2026: extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292307-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:43:28+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-08T11:20:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292433",
+     "title": "European Commissioner Marta KOS in Skopje, North Macedonia",
+     "summary": "Press conference",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:43:28+00:00"
   },
   {
    "ep": true,
@@ -2096,7 +2116,7 @@
     {
      "ref": "I-292190",
      "title": "EP Plenary Session Narco-trafficking in Europe’s waters: protecting our borders and supporting our law enforcement officers",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Costas KADIS, European Commissioner for Fisheries and Oceans",
      "inst": "EP"
     },
     {
@@ -2113,27 +2133,6 @@
     }
    ],
    "firstSeen": "2026-07-06T12:43:28+00:00"
-  },
-  {
-   "ep": true,
-   "start": "2026-07-08T12:30:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292310",
-     "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
-     "summary": "EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires: extracts from the debate",
-     "inst": "EP",
-     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292310-V_v"
-    }
-   ],
-   "firstSeen": "2026-07-03T17:03:46+00:00"
   },
   {
    "ep": true,
@@ -2155,6 +2154,27 @@
     }
    ],
    "firstSeen": "2026-07-03T17:03:46+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T13:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "RECORDED",
+   "title": "EP Press Conference Military mobility",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292429",
+     "title": "EP Press Conference Military mobility",
+     "summary": "Press conference by Michał SZCZERBA (EPP, PL) and Roberts ZĪLE (ECR, LV), co-rapporteurs on Military mobility",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292429-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:43:28+00:00"
   },
   {
    "ep": true,
@@ -2227,7 +2247,7 @@
     {
      "ref": "I-292271",
      "title": "EP Plenary Session Ebola outbreak in the Democratic Republic of the Congo and Uganda: EU solidarity and preparedness in global health",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292271-V_v"
     },
@@ -2247,6 +2267,48 @@
     }
    ],
    "firstSeen": "2026-07-06T12:43:28+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T14:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "EP Press Conference Impact of 1974 Turkish Invasion on Cypriot women",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292430",
+     "title": "EP Press Conference Impact of 1974 Turkish Invasion on Cypriot women",
+     "summary": "Press conference by Eleonora MELETI (EPP, EL), rapporteur on the impact of 1974 Turkish Invasion on Cypriot women and girls, and the crimes committed by Turkish forces and consequences on gender equality",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292430-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:43:28+00:00"
+  },
+  {
+   "ep": true,
+   "start": "2026-07-08T14:30:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "EDIT",
+   "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-292310",
+     "title": "EP News EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires",
+     "summary": "EU’s response and preparedness to protect people against recurring heatwaves and upcoming wildfires: extracts from the debate",
+     "inst": "EP",
+     "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292310-V_v"
+    }
+   ],
+   "firstSeen": "2026-07-06T14:43:28+00:00"
   },
   {
    "ep": true,
@@ -2284,7 +2346,7 @@
     {
      "ref": "I-292196",
      "title": "EP Plenary Session Harnessing the potential of a competitive and sustainable EU Bioeconomy Strategy for EU strategic autonomy",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy",
      "inst": "EP"
     },
     {
@@ -2316,7 +2378,7 @@
     {
      "ref": "I-292311",
      "title": "EP News LEX Signing Ceremony",
-     "summary": "details to follow",
+     "summary": "LEX siging ceremony in the presence of Roberta METSOLA, EP President and Minister of State Thomas BYRNE on behalf of the Irish Presidency",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292311-V_v"
     }
@@ -2412,7 +2474,7 @@
     {
      "ref": "I-292274",
      "title": "EP Plenary Session Joint communication on humanitarian",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Hadja LAHBIB, European Commissioner for Equality, and European Commissioner for Preparedness and Crisis Management",
      "inst": "EP"
     },
     {
@@ -2466,7 +2528,7 @@
     {
      "ref": "I-292112",
      "title": "EP Plenary Session Evaluation of the Common Fisheries Policy",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Costas KADIS, European Commissioner for Fisheries and Oceans",
      "inst": "EP"
     },
     {
@@ -2526,7 +2588,7 @@
     {
      "ref": "I-292199",
      "title": "EP Plenary Session Feasibility of a 28th tax regime and its potential to support EU competitiveness",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Dubravka ŠUICA, European Commissioner for the Mediterranean",
      "inst": "EP"
     },
     {
@@ -2727,7 +2789,7 @@
     {
      "ref": "I-292202",
      "title": "EP Plenary Session An updated regulatory framework for wool Commission",
-     "summary": "Opening statements",
+     "summary": "Opening statement by Dubravka ŠUICA, European Commissioner for the Mediterranean",
      "inst": "EP"
     },
     {
