@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-07T15:33:38+00:00",
+ "generatedAt": "2026-07-07T19:25:38+00:00",
  "events": [
   {
    "ep": true,
@@ -900,7 +900,7 @@
   {
    "ep": true,
    "start": "2026-07-07T14:38:32.480Z",
-   "durationSec": 0,
+   "durationSec": 7315,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session 2025 Commission report on Ukraine",
@@ -1008,10 +1008,10 @@
   },
   {
    "ep": false,
-   "start": "2026-07-07T15:15:00.000Z",
-   "durationSec": 196,
+   "start": "2026-07-07T15:15:10.000Z",
+   "durationSec": 426,
    "channel": "EBS",
-   "status": "RECORDED",
+   "status": "EDIT_RECORDED",
    "title": "2026 NATO Summit in Ankara, Türkiye",
    "languages": [
     "INT"
@@ -1022,21 +1022,7 @@
      "title": "2026 NATO Summit in Ankara, Türkiye",
      "summary": "Trilateral meeting Ursula von der LEYEN, President of the European Commission, António COSTA, President of the European Council and Mark RUTTE, Secretary General of the North Atlantic Treaty Organisation (NATO)",
      "inst": "Other Organisation"
-    }
-   ],
-   "firstSeen": "2026-07-07T15:33:38+00:00"
-  },
-  {
-   "ep": false,
-   "start": "2026-07-07T16:00:00.000Z",
-   "durationSec": 0,
-   "channel": "EBS",
-   "status": "EDIT",
-   "title": "2026 NATO Summit in Ankara, Türkiye",
-   "languages": [
-    "INT"
-   ],
-   "items": [
+    },
     {
      "ref": "I-292502",
      "title": "2026 NATO Summit in Ankara, Türkiye",
@@ -1044,12 +1030,12 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-07T15:33:38+00:00"
+   "firstSeen": "2026-07-07T19:25:38+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-07T16:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-07T16:40:27.200Z",
+   "durationSec": 3257,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session 2025 Commission report on Moldova",
@@ -1089,7 +1075,7 @@
     {
      "ref": "I-292478",
      "title": "EP Plenary Session 2025 Commission report on Moldova",
-     "summary": "One round of political group speakers and reply by Marta KOS, European Commissioner for Enlargement",
+     "summary": "One round of political group speakers",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292478-V_v"
     },
@@ -1103,17 +1089,17 @@
     {
      "ref": "I-292265",
      "title": "EP Plenary Session 2025 Commission report on Moldova",
-     "summary": "Closing statement by Sven MIKSER, (S&D, EE), Rapporteur",
+     "summary": "Closing statement by Marta KOS, European Commissioner for Enlargement, and Sven MIKSER, (S&D, EE), Rapporteur",
      "inst": "EP",
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292265-V_v"
     }
    ],
-   "firstSeen": "2026-07-06T12:43:28+00:00"
+   "firstSeen": "2026-07-07T19:25:38+00:00"
   },
   {
    "ep": true,
-   "start": "2026-07-07T17:30:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-07T17:34:43.840Z",
+   "durationSec": 1553,
    "channel": "EBS+",
    "status": "LIVE",
    "title": "EP Plenary Session 2025 Commission report on Serbia",
@@ -1165,14 +1151,14 @@
      "mmc": "https://multimedia.europarl.europa.eu/en/AV_I292480-V_v"
     }
    ],
-   "firstSeen": "2026-07-06T12:43:28+00:00"
+   "firstSeen": "2026-07-07T19:25:38+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-07T19:15:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-07T19:15:10.000Z",
+   "durationSec": 2453,
    "channel": "EBS",
-   "status": "EDIT",
+   "status": "RECORDED",
    "title": "2026 NATO Summit in Ankara, Türkiye",
    "languages": [
     "INT"
@@ -1185,7 +1171,7 @@
      "inst": "Other Organisation"
     }
    ],
-   "firstSeen": "2026-07-06T16:32:28+00:00"
+   "firstSeen": "2026-07-07T19:25:38+00:00"
   },
   {
    "ep": false,
