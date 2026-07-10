@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-10T15:37:41+00:00",
+ "generatedAt": "2026-07-10T17:55:02+00:00",
  "events": [
   {
    "ep": false,
@@ -438,32 +438,6 @@
   },
   {
    "ep": false,
-   "start": "2026-07-10T15:30:10.000Z",
-   "durationSec": 693,
-   "channel": "EBS",
-   "status": "EDIT_RECORDED",
-   "title": "European Commissioner Olivér VÁRHELYI in France",
-   "languages": [
-    "INT"
-   ],
-   "items": [
-    {
-     "ref": "I-292629",
-     "title": "European Commissioner Olivér VÁRHELYI in France",
-     "summary": "Site visit - pork Farm Dunkerque area",
-     "inst": "EC"
-    },
-    {
-     "ref": "I-292630",
-     "title": "European Commissioner Olivér VÁRHELYI in France",
-     "summary": "Port of Calais visit",
-     "inst": "EC"
-    }
-   ],
-   "firstSeen": "2026-07-10T15:37:41+00:00"
-  },
-  {
-   "ep": false,
    "start": "2026-07-10T16:30:00.000Z",
    "durationSec": 0,
    "channel": "EBS+",
@@ -488,7 +462,7 @@
     {
      "ref": "I-292713",
      "title": "European Commissioner Marta KOS in Montenegro",
-     "summary": "Press conference",
+     "summary": "Press conference by Milojko SPAJIĆ, Montenegrin Prime Minister, and Marta KOS, European Commissioner for Enlargement",
      "inst": "EC"
     }
    ],
@@ -627,19 +601,23 @@
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
-   "title": "EC President Ursula von der LEYEN receives the final report on child safety online from the co-chairs of the special panel of experts",
+   "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online, on the report on children’s safety online",
    "languages": [
-    "INT"
+    "INT",
+    "EN",
+    "FR",
+    "DE",
+    "MT"
    ],
    "items": [
     {
      "ref": "I-292698",
-     "title": "EC President Ursula von der LEYEN receives the final report on child safety online from the co-chairs of the special panel of experts",
-     "summary": "Ursula von der LEYEN, President of the European Commission receives the final report on child safety online from the co-chairs of the special panel of experts",
+     "title": "Press point by EC President Ursula von der LEYEN and the co-chairs of the Special Panel on child safety online, on the report on children’s safety online",
+     "summary": "Press point by Ursula von der LEYEN, President of the European Commission, and the co-chairs of the Special Panel on child safety online",
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-10T12:14:57+00:00"
+   "firstSeen": "2026-07-10T17:55:02+00:00"
   },
   {
    "ep": false,
