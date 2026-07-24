@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-24T11:08:30+00:00",
+ "generatedAt": "2026-07-24T13:04:12+00:00",
  "events": [
   {
    "ep": false,
@@ -353,8 +353,8 @@
   },
   {
    "ep": false,
-   "start": "2026-07-24T11:00:00.000Z",
-   "durationSec": 0,
+   "start": "2026-07-24T12:30:10.000Z",
+   "durationSec": 199,
    "channel": "EBS+",
    "status": "RECORDED",
    "title": "High Representative / Vice-President Kaja KALLAS in the Philippines",
@@ -369,7 +369,7 @@
      "inst": "EC"
     }
    ],
-   "firstSeen": "2026-07-21T12:58:43+00:00"
+   "firstSeen": "2026-07-24T13:04:12+00:00"
   },
   {
    "ep": false,
@@ -386,7 +386,7 @@
     {
      "ref": "I-292938",
      "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
-     "summary": "Press conference by the Irish Presidency and the European Commission",
+     "summary": "Press conference by Darragh O'BRIEN, Minister for Transport and Minister for Climate, Energy and the Environment of Ireland and Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy",
      "inst": "Host"
     }
    ],
@@ -445,6 +445,26 @@
     }
    ],
    "firstSeen": "2026-07-22T15:11:32+00:00"
+  },
+  {
+   "ep": false,
+   "start": "2026-07-27T08:00:00.000Z",
+   "durationSec": 0,
+   "channel": "EBS",
+   "status": "LIVE",
+   "title": "Signature of the new Protocol implementing the Sustainable Fisheries Partnership Agreement between the EU and Seychelles",
+   "languages": [
+    "INT"
+   ],
+   "items": [
+    {
+     "ref": "I-293193",
+     "title": "Signature of the new Protocol implementing the Sustainable Fisheries Partnership Agreement between the EU and Seychelles",
+     "summary": "Signing ceremony with Costas KADIS, European Commissioner for Fisheries and Oceans and Wallace COSGROW, Minister for Fisheries, Agriculture and Blue Economy of Seychelles",
+     "inst": "EC"
+    }
+   ],
+   "firstSeen": "2026-07-24T13:04:12+00:00"
   },
   {
    "ep": false,
