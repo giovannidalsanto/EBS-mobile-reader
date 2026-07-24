@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-24T13:04:12+00:00",
+ "generatedAt": "2026-07-24T15:03:30+00:00",
  "events": [
   {
    "ep": false,
@@ -373,29 +373,34 @@
   },
   {
    "ep": false,
-   "start": "2026-07-24T14:30:00.000Z",
+   "start": "2026-07-24T14:27:44.040Z",
    "durationSec": 0,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
    "languages": [
-    "INT",
-    "EN"
+    "INT"
    ],
    "items": [
     {
      "ref": "I-292938",
      "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
-     "summary": "Press conference by Darragh O'BRIEN, Minister for Transport and Minister for Climate, Energy and the Environment of Ireland and Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy",
+     "summary": "Press conference by Jessika ROSWALL, European Commissioner for Environment, Water Resilience and a Competitive Circular Economy, and Darragh O'BRIEN, Minister for Transport and Minister for Climate, Energy and the Environment of Ireland",
+     "inst": "Host"
+    },
+    {
+     "ref": "I-293164",
+     "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
+     "summary": "Recorded cutaways (mute)",
      "inst": "Host"
     }
    ],
-   "firstSeen": "2026-07-23T11:27:16+00:00"
+   "firstSeen": "2026-07-24T15:03:30+00:00"
   },
   {
    "ep": false,
-   "start": "2026-07-26T07:00:00.000Z",
-   "durationSec": 2083,
+   "start": "2026-07-26T07:00:10.000Z",
+   "durationSec": 2573,
    "channel": "EBS+",
    "status": "EDIT",
    "title": "EC archives of the week (26/07-01/08): Opening of negotiations on the accession of Greece to the EC (27/07/1976, 50 years ago) 75th anniversary of the signing of the 1951 Convention on the Status of Refugees (28/07) World Nature Conservation Day (28/07) Signing of the Yaoundé Convention II (29/07/1969, 57 years ago) Entry into force of the Common Agricultural Policy (30/07/1962, 64 years ago) Death of Paul-Henri Spaak (31/07/1972, 54 years ago)",
@@ -442,9 +447,15 @@
      "title": "Founding fathers of the EU: Paul-Henri Spaak",
      "summary": "‘A European statesman’ – Belgian Paul-Henri Spaak’s long political career fully merits this title. Lying about his age, he was accepted into the Belgian Army during the First World War, and consequently spent two years as a German prisoner of war. During the Second World War, now as foreign minister, he attempted in vain to preserve Belgium’s neutrality. Together with the government he went into exile, first to Paris, and later to London. After the liberation of Belgium, Spaak served both as Foreign Minister and as Prime Minister. Even during the Second World War, he had formulated plans for a merger of the Benelux countries, and directly after the war he campaigned for the unification of Europe, supporting the European Coal and Steel Community and a European defence community. For Spaak, uniting countries through binding treaty obligations was the most effective means of guaranteeing peace and stability. He was able to help achieve these aims as president of the first full meeting of the United Nations (1946) and as Secretary General of NATO (1957-61). Spaak was a leading figure in formulating the content of the Treaty of Rome. At the ‘Messina Conference’ in 1955, the six participating governments appointed him president of the working committee that prepared the Treaty.",
      "inst": "EC"
+    },
+    {
+     "ref": "I-001864",
+     "title": "European Council, in Brussels 12-13/07/1976 and pro-European demonstration in front of the EEC buildings",
+     "summary": "The Heads of State or Government met in Brussels on 12-13/07/1976 for a meeting of the European Council. The Council gave its agreement on the following distribution and number of seats for the European Parliament which will be elected in 1978 by direct universal suffrage: Luxembourg 6; Ireland 15; Denmark 16; Belgium 24; The Netherlands 25; France 81; Italy 81; United Kingdom 81; Germany; 81. Within the European Council, a broad agreement emerged with respect to the appreciation of the economic situation. It was characterised by a general improvement of circumstances. The Council is convinced that this recovery will continue in 1977. However, relatively high unemployment rates should still be expected for a fairly long period of time. The progression of these rates will continue to be monitored particularly closely in certain Member States.",
+     "inst": "Council"
     }
    ],
-   "firstSeen": "2026-07-22T15:11:32+00:00"
+   "firstSeen": "2026-07-24T15:03:30+00:00"
   },
   {
    "ep": false,
