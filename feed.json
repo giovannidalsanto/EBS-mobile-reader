@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-24T15:03:30+00:00",
+ "generatedAt": "2026-07-24T16:51:40+00:00",
  "events": [
   {
    "ep": false,
@@ -374,7 +374,7 @@
   {
    "ep": false,
    "start": "2026-07-24T14:27:44.040Z",
-   "durationSec": 0,
+   "durationSec": 2158,
    "channel": "EBS",
    "status": "LIVE",
    "title": "Informal meeting of Environment and Climate Ministers (ENVI) in Dublin, Ireland",
